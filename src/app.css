@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+	--font-sans: "Hanken Grotesk", system-ui, sans-serif;
+	--font-display: "Familjen Grotesk", system-ui, sans-serif;
+	--color-paper: #faf7f2;
+	--color-ink: #241f1a;
+	--color-muted: #7b7268;
+	--color-accent: #c2562d;
+	--color-visited: #2d8a4e;
+	--ease-out-strong: cubic-bezier(0.23, 1, 0.32, 1);
+	--shadow-panel:
+		0 0 0 1px rgb(36 31 26 / 0.1), 0 16px 48px rgb(36 31 26 / 0.16);
+	--animate-rise: rise 320ms var(--ease-out-strong) backwards;
+
+	@keyframes rise {
+		from {
+			opacity: 0;
+			transform: translateY(8px);
+		}
+	}
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background: var(--color-paper);
+	color: var(--color-ink);
+	font: 14px / 1.45 var(--font-sans);
+	-webkit-font-smoothing: antialiased;
+}
+
+button {
+	cursor: pointer;
+	text-align: left;
+}
+
+.maplibregl-ctrl-attrib {
+	font-size: 10px;
+}

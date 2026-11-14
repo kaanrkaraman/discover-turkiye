@@ -1,0 +1,14 @@
+import { SveltePlugin } from "bun-plugin-svelte";
+import tailwind from "bun-plugin-tailwind";
+
+const result = await Bun.build({
+	entrypoints: ["./index.html"],
+	outdir: "./dist",
+	minify: true,
+	plugins: [SveltePlugin(), tailwind],
+});
+
+if (!result.success) {
+	for (const log of result.logs) console.error(log);
+	process.exit(1);
+}

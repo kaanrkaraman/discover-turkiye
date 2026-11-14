@@ -1,0 +1,55 @@
+{
+	"name": "discover-turkiye",
+	"version": "0.1.0",
+	"description": "Interactive map for exploring ancient cities, monuments, museums, national parks and more across Türkiye.",
+	"keywords": [
+		"turkiye",
+		"turkey",
+		"map",
+		"maplibre",
+		"svelte",
+		"tourism",
+		"heritage"
+	],
+	"license": "MIT",
+	"author": {
+		"name": "Recep Kaan Karaman",
+		"url": "https://github.com/kaanrkaraman"
+	},
+	"homepage": "https://discoverturkiye.vercel.app",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kaanrkaraman/discover-turkiye.git"
+	},
+	"bugs": {
+		"url": "https://github.com/kaanrkaraman/discover-turkiye/issues"
+	},
+	"private": true,
+	"type": "module",
+	"engines": {
+		"bun": ">=1.4.0"
+	},
+	"scripts": {
+		"dev": "bun ./index.html",
+		"build": "bun run build.ts",
+		"typecheck": "svelte-check --tsgo --tsconfig ./tsconfig.json",
+		"lint": "biome check .",
+		"format": "biome check --write .",
+		"check": "bun run lint && bun run typecheck",
+		"prepare": "git config core.hooksPath .githooks"
+	},
+	"dependencies": {
+		"maplibre-gl": "^6.18.0",
+		"svelte": "^5.57.3"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.6.7",
+		"@types/bun": "^1.4.4",
+		"@typescript/native": "npm:typescript@7",
+		"bun-plugin-svelte": "^0.0.6",
+		"bun-plugin-tailwind": "^0.1.2",
+		"svelte-check": "^4.7.8",
+		"tailwindcss": "^4.3.5",
+		"typescript": "~6"
+	}
+}

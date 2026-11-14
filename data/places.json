@@ -1,0 +1,3372 @@
+[
+	{
+		"id": 1,
+		"name": "Efes",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.3417,
+		"lat": 37.9411,
+		"summary": "Efes, 2015'te UNESCO Dünya Mirası Listesi'ne alınmıştır ve miras alanı Çukuriçi Höyük, Ayasuluk Tepesi, Efes Antik Kenti ile Meryem Ana Evi olmak üzere dört bileşenden oluşur. UNESCO, kenti Roma dönemi liman kentlerinin olağanüstü bir örneği olarak değerlendirir. Erken Kilise'nin iki önemli konseyi 431 ve 449'da Efes'te toplanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 2,
+		"name": "Truva",
+		"category": "ancient",
+		"province": "Çanakkale",
+		"lng": 26.239,
+		"lat": 39.9576,
+		"summary": "Truva (Troya), Çanakkale'de yer alır ve 1998'de UNESCO Dünya Mirası Listesi'ne alınmıştır. En eski yerleşim evresi Troya I, M.Ö. 3000–2500'e tarihlenir; Dörpfeld dokuz ana yerleşim katı belirlemiş, sonraki araştırmacılar bunları otuzu aşkın evreye ayırmıştır. Kazılar 1871'de Heinrich Schliemann ile başlamıştır.",
+		"verified": true
+	},
+	{
+		"id": 3,
+		"name": "Bergama",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.185,
+		"lat": 39.133,
+		"summary": "Pergamon ve Çok Katmanlı Kültürel Peyzajı, 2014'te UNESCO Dünya Mirası Listesi'ne alınmıştır. Alan dokuz bileşenden oluşan seri bir mirastır ve Kale Tepesi'ndeki Akropolis en belirgin bileşenidir. Asklepion Roma döneminde şifa merkeziydi; Kızıl Avlu ise Mısır tanrılarına adanmış Roma dönemi tapınağıdır.",
+		"verified": true
+	},
+	{
+		"id": 4,
+		"name": "Afrodisias",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 28.723,
+		"lat": 37.708,
+		"summary": "Afrodisias, Aydın'ın Karacasu ilçesindeki Geyre köyü sınırlarında yer alır ve 2017'de UNESCO Dünya Mirası Listesi'ne alınmıştır. Sebasteion, Augustus ve Julio-Claudius hanedanı imparatorlarının kültü için yapılmış bir yapı topluluğudur. Stadyum yaklaşık 270 metre uzunluğundadır ve turizm kaynaklarına göre 30.000 kişiliktir.",
+		"verified": true
+	},
+	{
+		"id": 5,
+		"name": "Hierapolis",
+		"category": "ancient",
+		"province": "Denizli",
+		"lng": 29.1236,
+		"lat": 37.924,
+		"summary": "Hierapolis–Pamukkale, 1988'de UNESCO Dünya Mirası Listesi'ne karma (kültürel ve doğal) miras olarak alınmıştır. Nekropol Güneybatı Anadolu'nun en büyük mezarlıklarından biridir ve 2 kilometreden fazla uzanır. Aziz Philippus'un burada M.S. 80 dolaylarında şehit edildiği anlatılır; sekizgen planlı Martyrium kentin en önemli yapısıdır.",
+		"verified": true
+	},
+	{
+		"id": 6,
+		"name": "Aspendos",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 31.172,
+		"lat": 36.939,
+		"summary": "Aspendos Tiyatrosu, Antalya'nın Serik ilçesindedir ve mimar Zenon tarafından Marcus Aurelius döneminde (M.S. 161–180) yapılmıştır. Resmî kaynaklarda kapasitesi 15.000–20.000 kişi olarak verilir. Selçuklu döneminde saray olarak kullanılması yapının iyi korunmasını sağlamıştır.",
+		"verified": true
+	},
+	{
+		"id": 7,
+		"name": "Perge",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 30.854,
+		"lat": 36.961,
+		"summary": "Perge, Pamfilya'nın önemli kentlerinden biridir ve Aziz Pavlus'un misyonerlik yolculuklarında uğradığı yerlerdendir. Aşağı kentin kuzey-güney eksenindeki sütunlu caddenin ortasından su kanalı geçer. Stadyum M.Ö. 2. yüzyılda inşa edilmiştir ve yaklaşık 12.000 kişiliktir.",
+		"verified": true
+	},
+	{
+		"id": 8,
+		"name": "Myra",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 29.983,
+		"lat": 36.258,
+		"summary": "Myra, Antalya'nın Demre ilçesindedir; kaya mezarları, Likçe yazıtlar ve sikkeler kentin en az M.Ö. 5. yüzyıldan beri var olduğunu gösterir. Roma tiyatrosunun iki yanında kayaya oyulmuş Likya mezarları bulunur ve bakanlık açıklamalarında tiyatronun kapasitesi yaklaşık 10.000 kişi olarak verilir. M.S. 4. yüzyılda Myra piskoposu olan Aziz Nikolaos (Noel Baba) adına yapılmış kilise kentin yakınındadır.",
+		"verified": true
+	},
+	{
+		"id": 9,
+		"name": "Xanthos",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 29.319,
+		"lat": 36.357,
+		"summary": "Xanthos, Likya'nın başkentiydi; dini merkezi Letoon ile birlikte 1988'de UNESCO Dünya Mirası Listesi'ne alınmıştır. Likya dilindeki en uzun ve en önemli metinler Xanthos–Letoon'da bulunmuştur. Letoon'daki üç tapınak Leto, Artemis ve Apollon'a adanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 10,
+		"name": "Sagalassos",
+		"category": "ancient",
+		"province": "Burdur",
+		"lng": 30.519,
+		"lat": 37.679,
+		"summary": "Sagalassos, Burdur'un Ağlasun ilçesinde, Toros Dağları'nda yaklaşık 1.450–1.700 metre yükseklikte yer alır ve 2009'dan beri UNESCO Dünya Mirası Geçici Listesi'ndedir. Bilimsel kazıları 1989'da başlamış olup Leuven Üniversitesi (Belçika) tarafından sürdürülür. Marcus Aurelius döneminde yapılan Antoninler Çeşmesi'nin restorasyonu 2010'da tamamlanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 11,
+		"name": "Aizanoi",
+		"category": "ancient",
+		"province": "Kütahya",
+		"lng": 29.596,
+		"lat": 39.223,
+		"summary": "Aizanoi, Kütahya'nın Çavdarhisar ilçesindedir ve UNESCO Dünya Mirası Geçici Listesi'nde yer alır. Zeus Tapınağı Anadolu'nun en iyi korunmuş Zeus tapınaklarından biridir; yapımı kaynaklara göre M.S. 92'de başlayıp Hadrianus dönemine kadar sürmüştür. Macellum'un duvarlarında Diocletianus'un M.S. 301 tarihli Fiyat Fermanı yazılıdır; stadyum ve tiyatro bitişik bir kompleks oluşturur.",
+		"verified": true
+	},
+	{
+		"id": 12,
+		"name": "Göbeklitepe",
+		"category": "ancient",
+		"province": "Şanlıurfa",
+		"lng": 38.9224,
+		"lat": 37.2231,
+		"summary": "Göbeklitepe, 2018'de UNESCO Dünya Mirası Listesi'ne alınmıştır. Yapıların M.Ö. 9600–8200 arasında, Çanak Çömleksiz Neolitik dönemde inşa edildiği belirtilir. T biçimli dikilitaşlar yaklaşık 5,5 metreye kadar yükselir.",
+		"verified": true
+	},
+	{
+		"id": 13,
+		"name": "Nemrut Dağı",
+		"category": "ancient",
+		"province": "Adıyaman",
+		"lng": 38.741,
+		"lat": 37.98,
+		"summary": "Nemrut Dağı tümülüsü, Kommagene Kralı I. Antiochos'a ait anıt mezardır ve 1987'de UNESCO Dünya Mirası Listesi'ne alınmıştır. Tümülüs bugün yaklaşık 50 metre yüksekliğinde ve 150 metre çapındadır. Bakanlık kaynaklarına göre kralın mezar odası henüz bulunamamıştır.",
+		"verified": true
+	},
+	{
+		"id": 14,
+		"name": "Ani",
+		"category": "ancient",
+		"province": "Kars",
+		"lng": 43.5725,
+		"lat": 40.5075,
+		"summary": "Ani, 10.–11. yüzyıllarda Bagratlı Ermeni Krallığı'nın başkentiydi ve 2016'da UNESCO Dünya Mirası Listesi'ne alınmıştır. Kars'a yaklaşık 42–44 km uzaklıkta, Türkiye–Ermenistan sınırını oluşturan Arpaçay boyunca uzanır. Büyük Katedral'in (Fethiye Camii) temelleri 990'da atılmış, yapı 1001'de tamamlanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 15,
+		"name": "Ayasofya",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.98,
+		"lat": 41.0086,
+		"summary": "Ayasofya, Bizans İmparatoru I. Justinianus döneminde 537'de tamamlanmıştır ve İstanbul'un Tarihi Alanları kapsamında 1985'te UNESCO Dünya Mirası Listesi'ne alınmıştır. Yapı 1934'ten 2020'ye kadar müze olarak hizmet vermiş, 2020'de yeniden cami statüsü kazanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 16,
+		"name": "Sultanahmet Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.9768,
+		"lat": 41.0054,
+		"summary": "Sultanahmet Camii, I. Ahmed adına mimar Sedefkâr Mehmed Ağa tarafından 1609'dan itibaren yaptırılmıştır; kaynaklara göre inşa 1616 ile 1620 arasında tamamlanmıştır. Türkiye'de altı minareli tek camidir. İçeride yaklaşık 21.000 İznik çinisi bulunur; ana kubbe 43 metre yüksekliğinde ve 23,5 metre çapındadır.",
+		"verified": true
+	},
+	{
+		"id": 17,
+		"name": "Topkapı Sarayı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.9834,
+		"lat": 41.0115,
+		"summary": "Topkapı Sarayı, II. Mehmed (Fatih) tarafından 1460–1478 arasında yaptırılmış ve sonraki yüzyıllarda genişletilmiştir. Harem bölümünde 300'den fazla oda, dokuz hamam ve iki cami bulunur. Saray, 3 Nisan 1924'te Cumhuriyet döneminin ilk müzesi olarak açılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 18,
+		"name": "Selimiye Camii",
+		"category": "monument",
+		"province": "Edirne",
+		"lng": 26.5586,
+		"lat": 41.6772,
+		"summary": "Selimiye Camii, Edirne'de 1568–1575 arasında Mimar Sinan tarafından II. Selim için yapılmıştır ve 2011'de UNESCO Dünya Mirası Listesi'ne alınmıştır. Ana kubbenin çapı yaklaşık 31,5 metredir. Dört minarenin her biri üç şerefelidir ve külah ucuna kadar yüksekliği yaklaşık 71 metredir.",
+		"verified": true
+	},
+	{
+		"id": 19,
+		"name": "Sümela Manastırı",
+		"category": "monument",
+		"province": "Trabzon",
+		"lng": 39.6543,
+		"lat": 40.6912,
+		"summary": "Sümela Manastırı, Trabzon'un Maçka ilçesinde Altındere Vadisi'ne hâkim Karadağ'ın eteğinde, vadiden yaklaşık 300 metre yükseklikte yer alır. Geleneksel anlatıya göre 4. yüzyılda kurulmuştur; III. Alexios döneminde (1349–1390) önemi artmıştır. Ana kaya kilisesi ve bitişik şapel fresklerle bezelidir.",
+		"verified": true
+	},
+	{
+		"id": 20,
+		"name": "İshak Paşa Sarayı",
+		"category": "monument",
+		"province": "Ağrı",
+		"lng": 44.1311,
+		"lat": 39.5193,
+		"summary": "İshak Paşa Sarayı, Ağrı'nın Doğubayazıt ilçesindedir; yapımına 1685'te Çolak Abdi Paşa başlamış, saray 1784'te tamamlanmıştır. Osmanlı, Selçuklu ve İran mimari unsurları ile Barok etkileri birlikte görülür. Külliye selamlık, haremlik, cami ve türbeden oluşur.",
+		"verified": true
+	},
+	{
+		"id": 21,
+		"name": "Divriği Ulu Camii",
+		"category": "monument",
+		"province": "Sivas",
+		"lng": 38.117,
+		"lat": 39.372,
+		"summary": "Divriği Ulu Camii ve Darüşşifası, Türkiye'den UNESCO Dünya Mirası Listesi'ne 1985'te giren ilk mimari yapıdır. Cami Emir Ahmed Şah tarafından, bitişiğindeki darüşşifa ise eşi Turan Melek tarafından 1228–1229'da yaptırılmıştır. Mimarı Ahlatlı Hürrem Şah'tır; taç kapılar yüksek kabartma tekniğiyle işlenmiştir.",
+		"verified": true
+	},
+	{
+		"id": 22,
+		"name": "Mevlana Türbesi",
+		"category": "monument",
+		"province": "Konya",
+		"lng": 32.505,
+		"lat": 37.8715,
+		"summary": "Mevlana Müzesi Konya'dadır; Hz. Mevlana ile oğlu Sultan Veled'in kabirleri Yeşil Kubbe'nin (Kubbe-i Hadra) altındadır. Yapı kaynaklara göre 1926'da müze olarak ziyarete açılmış, 1954'te Mevlana Müzesi adını almıştır. Mevlana'nın vefat yıldönümü olan Şeb-i Arus törenleri Aralık ayında yapılır.",
+		"verified": true
+	},
+	{
+		"id": 23,
+		"name": "Göreme Açık Hava Müzesi",
+		"category": "monument",
+		"province": "Nevşehir",
+		"lng": 34.844,
+		"lat": 38.643,
+		"summary": "Göreme Milli Parkı ve Kapadokya, 1985'te UNESCO Dünya Mirası Listesi'ne karma miras olarak alınmıştır. Kayıt, Derinkuyu ve Kaymaklı yeraltı şehirlerini ve Soğanlı Arkeolojik Alanı'nı da kapsar. UNESCO, Göreme Vadisi'ndeki Elmalı ve Karanlık Kiliseleri 12. yüzyılın sonu ile 13. yüzyılın başına tarihler.",
+		"verified": true
+	},
+	{
+		"id": 24,
+		"name": "Safranbolu",
+		"category": "monument",
+		"province": "Karabük",
+		"lng": 32.694,
+		"lat": 41.25,
+		"summary": "Safranbolu, 1994'te UNESCO Dünya Mirası Listesi'ne alınmıştır; koruma alanı 193 hektardır. Cinci Han iki katlıdır, 62 odası vardır ve Sultan İbrahim döneminde Cinci Hoca tarafından yaptırılmıştır. Kentin adı bölgede yetişen safran bitkisinden gelir.",
+		"verified": true
+	},
+	{
+		"id": 25,
+		"name": "Anadolu Medeniyetleri Müzesi",
+		"category": "museum",
+		"province": "Ankara",
+		"lng": 32.863,
+		"lat": 39.941,
+		"summary": "Anadolu Medeniyetleri Müzesi, Ankara Kalesi'nin güneydoğusunda Mahmut Paşa Bedesteni ile Kurşunlu Han'da yer alır; bedestenin 1464–1471 arasında yapıldığı tahmin edilir. Üst salonlarda Paleolitik Çağ'dan Urartu Krallığı'na uzanan eserler sergilenir. Müze 1997'de Avrupa'da Yılın Müzesi seçilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 26,
+		"name": "İstanbul Arkeoloji Müzeleri",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.981,
+		"lat": 41.0117,
+		"summary": "İstanbul Arkeoloji Müzeleri, Osman Hamdi Bey öncülüğünde Müze-i Hümayun olarak kurulmuş ve 13 Haziran 1891'de ziyarete açılmıştır. Neoklasik binanın mimarı Alexandre Vallaury'dir. Sayda Kral Nekropolü'nden getirilen İskender Lahdi ve Ağlayan Kadınlar Lahdi koleksiyondadır.",
+		"verified": true
+	},
+	{
+		"id": 27,
+		"name": "Zeugma Mozaik Müzesi",
+		"category": "museum",
+		"province": "Gaziantep",
+		"lng": 37.378,
+		"lat": 37.076,
+		"summary": "Zeugma Mozaik Müzesi, Gaziantep'te 9 Eylül 2011'de açılmıştır. Müzede, Birecik Barajı'nın suları altında kalan antik kentten çıkarılan mozaikler sergilenir; mozaik alanı kaynaklara göre 2.248 ile 3.000 metrekare arasında değişir. Çingene Kızı mozaiğinin 1960'larda yurt dışına çıkarılan parçaları Türkiye'ye geri getirilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 28,
+		"name": "Anıtkabir",
+		"category": "museum",
+		"province": "Ankara",
+		"lng": 32.8363,
+		"lat": 39.9256,
+		"summary": "Anıtkabir'in inşasına 9 Ekim 1944'te başlanmış, Atatürk'ün naaşı 10 Kasım 1953'te buraya nakledilmiştir; proje Emin Onat ve Orhan Arda'ya aittir. Aslanlı Yol'un iki yanında 12'şer, toplam 24 aslan heykeli bulunur. Kompleks, Atatürk ve Kurtuluş Savaşı Müzesi'ni de içerir.",
+		"verified": true
+	},
+	{
+		"id": 29,
+		"name": "Efes Müzesi",
+		"category": "museum",
+		"province": "İzmir",
+		"lng": 27.37,
+		"lat": 37.949,
+		"summary": "Efes Müzesi, Selçuk'tadır; 1929'da kurulan depodaki eserler 1964'te müzenin güney bölümünde sergilenmeye başlamıştır. Kuzey bölümü 1976'da eklenmiş, 2014'teki yeni teşhir düzenlemesiyle bugünkü hâlini almıştır. Artemis salonlarında Artemis Tapınağı'ndaki kült heykelinin Roma dönemi kopyası sergilenir.",
+		"verified": true
+	},
+	{
+		"id": 30,
+		"name": "Antalya Müzesi",
+		"category": "museum",
+		"province": "Antalya",
+		"lng": 30.687,
+		"lat": 36.886,
+		"summary": "Antalya Müzesi'ndeki Herakles Lahdi, Perge nekropolünden 1960'larda çıkarılıp yurt dışına götürülmüş, 2017'de Türkiye'ye geri getirilmiş ve 24 Eylül 2017'de ziyarete açılmıştır. Lahdin dört yüzünde Herakles'in on iki görevi işlenmiştir ve M.S. 2. yüzyıla tarihlenir. Dans Eden Kız heykeli müzenin simgesi olarak anılır.",
+		"verified": true
+	},
+	{
+		"id": 31,
+		"name": "Pera Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.974,
+		"lat": 41.031,
+		"summary": "Pera Müzesi, 8 Haziran 2005'te açılmış, Suna ve İnan Kıraç Vakfı tarafından kurulmuş özel bir müzedir. Müze, tarihi Bristol Oteli'nin cephesi korunarak Tepebaşı'nda inşa edilmiş binada yer alır; restorasyon ve yeni bina projesi 2003-2005 arasında yürütülmüştür. Koleksiyonu Oryantalist resim, 10.000'den fazla objeden oluşan Anadolu ölçü ve tartıları ile Kütahya çini ve seramiklerinden oluşur.",
+		"verified": true
+	},
+	{
+		"id": 32,
+		"name": "Uludağ Milli Parkı",
+		"category": "park",
+		"province": "Bursa",
+		"lng": 29.1,
+		"lat": 40.07,
+		"summary": "Uludağ Milli Parkı 20 Eylül 1961'de ilan edilmiş, alanı 1996'da 12.762 hektara çıkarılmıştır. En yüksek noktası 2.543 metre olup Marmara Bölgesi'nin en yüksek dağıdır. Antik çağda Misia Olimposu olarak bilinen dağ bugün Türkiye'nin kış sporları merkezlerinden biridir.",
+		"verified": true
+	},
+	{
+		"id": 33,
+		"name": "Kaçkar Dağları Milli Parkı",
+		"category": "park",
+		"province": "Rize-Artvin",
+		"lng": 41.1,
+		"lat": 40.83,
+		"summary": "Kaçkar Dağları Milli Parkı 31 Ağustos 1994'te ilan edilmiş olup yaklaşık 52.970 hektardır. Kaçkar (Kavron) Zirvesi 3.932 metreyle Karadeniz Dağları'nın en yüksek noktasıdır. Park, buzul gölleri ve yaylalarıyla bilinir.",
+		"verified": true
+	},
+	{
+		"id": 34,
+		"name": "Köprülü Kanyon Milli Parkı",
+		"category": "park",
+		"province": "Antalya-Isparta",
+		"lng": 31.185,
+		"lat": 37.2,
+		"summary": "Köprülü Kanyon Milli Parkı 12 Aralık 1973'te ilan edilmiştir. Köprüçay'ın oluşturduğu kanyon rafting rotası olarak kullanılır. Parkın sınırlarında Selge antik kenti ve Roma dönemine ait Oluk Köprüsü bulunur.",
+		"verified": true
+	},
+	{
+		"id": 35,
+		"name": "Munzur Vadisi Milli Parkı",
+		"category": "park",
+		"province": "Tunceli",
+		"lng": 39.5,
+		"lat": 39.3,
+		"summary": "Munzur Vadisi Milli Parkı 21 Aralık 1971'de ilan edilmiştir. Munzur Çayı ve Munzur Gözeleri parkın başlıca su kaynaklarıdır. Bölge endemik bitki türleri bakımından zengindir.",
+		"verified": true
+	},
+	{
+		"id": 36,
+		"name": "Ağrı Dağı Milli Parkı",
+		"category": "park",
+		"province": "Ağrı-Iğdır",
+		"lng": 44.3,
+		"lat": 39.7,
+		"summary": "Ağrı Dağı Milli Parkı 17 Kasım 2004'te ilan edilmiştir. 5.137 metrelik Büyük Ağrı Dağı Türkiye'nin en yüksek zirvesidir ve zirvesindeki buzul ülkenin en büyük buzulu olarak tanımlanır. Dağ, Nuh'un Gemisi anlatılarıyla ilişkilendirilir.",
+		"verified": true
+	},
+	{
+		"id": 37,
+		"name": "Çanakkale Savaşları Gelibolu Tarihi Alanı",
+		"category": "monument",
+		"province": "Çanakkale",
+		"lng": 26.3,
+		"lat": 40.2,
+		"summary": "1915'te Çanakkale Savaşları'nın yaşandığı alan, 1973'te Millî Park ilan edilmiştir. Çanakkale Şehitler Abidesi yarımadanın ucundadır. 2014'te millî park statüsü kaldırılarak Tarihi Alan olarak yeniden düzenlenmiştir.",
+		"verified": true
+	},
+	{
+		"id": 38,
+		"name": "Dilek Yarımadası Milli Parkı",
+		"category": "park",
+		"province": "Aydın",
+		"lng": 27.15,
+		"lat": 37.7,
+		"summary": "Dilek Yarımadası–Büyük Menderes Deltası Milli Parkı 19 Mayıs 1966'da ilan edilmiştir. Yarımada, Samsun Dağı'nın Ege Denizi'ne uzanan kolu üzerindedir. Yoğun maki bitki örtüsü ve küçük koylarıyla bilinir.",
+		"verified": true
+	},
+	{
+		"id": 39,
+		"name": "Beydağları Sahil Milli Parkı",
+		"category": "park",
+		"province": "Antalya",
+		"lng": 30.47,
+		"lat": 36.4,
+		"summary": "Beydağları Sahil Milli Parkı 16 Mart 1972'de ilan edilmiştir. Park içinde Olympos ve Phaselis antik kentleri ile doğal gaz alevleriyle bilinen Yanartaş yer alır. Olympos adını Tahtalı Dağı'ndan alır.",
+		"verified": true
+	},
+	{
+		"id": 40,
+		"name": "Yedigöller Milli Parkı",
+		"category": "park",
+		"province": "Bolu",
+		"lng": 31.7,
+		"lat": 40.9,
+		"summary": "Yedigöller Milli Parkı 29 Nisan 1965'te ilan edilmiştir. Park, yedi gölü barındıran bir orman alanıdır. Sonbaharda yaprak renkleriyle öne çıkar.",
+		"verified": true
+	},
+	{
+		"id": 41,
+		"name": "Kazdağı Milli Parkı",
+		"category": "park",
+		"province": "Balıkesir",
+		"lng": 26.86,
+		"lat": 39.7,
+		"summary": "Kazdağı Milli Parkı 17 Nisan 1993'te ilan edilmiş olup yaklaşık 21.463 hektardır. Antik çağda İda Dağı olarak anılan dağ, Biga Yarımadası'nın en yüksek kütlesidir. En yüksek zirvesi Karataş Tepesi 1.774 metredir.",
+		"verified": true
+	},
+	{
+		"id": 42,
+		"name": "Güllük Dağı–Termessos Milli Parkı",
+		"category": "park",
+		"province": "Antalya",
+		"lng": 30.4635,
+		"lat": 36.984,
+		"summary": "Güllük Dağı–Termessos Milli Parkı 3 Kasım 1970'te ilan edilmiştir. Park içindeki Termessos antik kenti Solymos Dağı'nın vadisinde kurulmuştur ve Büyük İskender'in M.Ö. 333'teki kuşatmasıyla tarihe girmiştir. Alan, 2000 yılından beri UNESCO Dünya Mirası Geçici Listesi'ndedir.",
+		"verified": true
+	},
+	{
+		"id": 43,
+		"name": "Aladağlar Milli Parkı",
+		"category": "park",
+		"province": "Niğde-Adana-Kayseri",
+		"lng": 35.15,
+		"lat": 37.83,
+		"summary": "Aladağlar Milli Parkı 21 Nisan 1995'te ilan edilmiştir. Kızılkaya (3.767 m) ve Demirkazık (3.756 m) gibi 3.700 metreyi aşan zirveleri barındırır. Kar ve buzul sularıyla beslenen yedi gölüyle Yedigöller Vadisi dağcılık alanı olarak kullanılır.",
+		"verified": true
+	},
+	{
+		"id": 44,
+		"name": "İğneada Longoz Ormanları Milli Parkı",
+		"category": "park",
+		"province": "Kırklareli",
+		"lng": 27.95,
+		"lat": 41.87,
+		"summary": "İğneada Longoz Ormanları Milli Parkı 13 Kasım 2007'de ilan edilmiştir. Saka, Mert ve Erikli gibi göllerin çevresinde dünyada az rastlanan longoz (su basar) ormanları bulunur. Park, Türkiye–Bulgaristan sınırında Karadeniz kıyısındadır.",
+		"verified": true
+	},
+	{
+		"id": 45,
+		"name": "Küre Dağları Milli Parkı",
+		"category": "park",
+		"province": "Kastamonu-Bartın",
+		"lng": 33.6,
+		"lat": 41.75,
+		"summary": "Küre Dağları Milli Parkı 7 Temmuz 2000'de ilan edilmiştir. Batı Karadeniz Karst Kuşağı'nda yer alan parkta 77 mağara bulunur. Valla Kanyonu'nun kayalık yamaçları 800–1.200 metre yüksekliğe ulaşır.",
+		"verified": true
+	},
+	{
+		"id": 46,
+		"name": "Kuşcenneti Milli Parkı",
+		"category": "park",
+		"province": "Balıkesir",
+		"lng": 27.97,
+		"lat": 40.19,
+		"summary": "Kuşcenneti Milli Parkı 27 Temmuz 1959'da ilan edilmiştir. Manyas Gölü kıyısındaki alan Ramsar sulak alanıdır ve kaynaklara göre 239–266 kuş türü kaydedilmiştir. Avrupa Konseyi Diploması 2031'e kadar uzatılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 47,
+		"name": "Cilo ve Sat Dağları Milli Parkı",
+		"category": "park",
+		"province": "Hakkari",
+		"lng": 44.0,
+		"lat": 37.46,
+		"summary": "Cilo ve Sat Dağları Milli Parkı 26 Eylül 2020'de ilan edilmiştir. Reşko (Uludoruk) Tepesi yaklaşık 4.135 metreyle Türkiye'nin en yüksek ikinci zirvesidir. Dağlarda buzul gölleri bulunur.",
+		"verified": true
+	},
+	{
+		"id": 48,
+		"name": "Hattuşa",
+		"category": "ancient",
+		"province": "Çorum",
+		"lng": 34.6155,
+		"lat": 40.02,
+		"summary": "Hattuşa, Çorum'un Boğazkale ilçesinde yer alan Hitit Devleti'nin başkentidir ve 1986'da UNESCO Dünya Mirası Listesi'ne alınmıştır. Güney surunda Aslanlı Kapı ve Kral Kapısı bulunur. Yaklaşık 2 km kuzeydoğusundaki Yazılıkaya'da kayaya oyulmuş Hitit kabartmaları yer alır.",
+		"verified": true
+	},
+	{
+		"id": 49,
+		"name": "Çatalhöyük",
+		"category": "ancient",
+		"province": "Konya",
+		"lng": 32.8277,
+		"lat": 37.667,
+		"summary": "Çatalhöyük, Konya'nın Çumra ilçesinde yer alan Neolitik bir yerleşimdir ve 2012'de UNESCO Dünya Mirası Listesi'ne girmiştir. Doğu höyüğünde M.Ö. 7400–6200 arasına ait on sekiz yerleşim katmanı bulunur. Evler sokak olmadan sırt sırta dizilmiş, girişler çatıdan yapılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 50,
+		"name": "Milet",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 27.2765,
+		"lat": 37.53,
+		"summary": "Milet, Aydın'ın Didim ilçesi sınırlarında yer alır ve Arkaik Çağ'da İyonya Konfederasyonu'nun önde gelen kentiydi. Amfi tiyatrosu 19.000 kişi kapasitelidir. Liman, denizin çekilmesiyle işlevini kaybetmiş, kent önemini yitirmiştir.",
+		"verified": true
+	},
+	{
+		"id": 51,
+		"name": "Didyma Apollon Tapınağı",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 27.2576,
+		"lat": 37.3847,
+		"summary": "Didim Apollon Tapınağı bir kehanet merkeziydi ve Milet'e yaklaşık 17 km'lik Kutsal Yol ile bağlıydı. Tapınak yaklaşık 109 × 51 metre ölçülerindedir. M.Ö. 494'te Perslerce yağmalanmıştır.",
+		"verified": true
+	},
+	{
+		"id": 52,
+		"name": "Priene",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 27.2976,
+		"lat": 37.66,
+		"summary": "Priene, Samsun Dağı eteğinde, Hippodamos'un ızgara planıyla kurulmuş bir kenttir. Athena Tapınağı'nın ayakta kalan sütunları ve 6.500 kişilik tiyatrosu görülebilir. Alman Arkeoloji Enstitüsü'nün kazıları 1977'den beri sürmektedir.",
+		"verified": true
+	},
+	{
+		"id": 53,
+		"name": "Side",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 31.389,
+		"lat": 36.767,
+		"summary": "Side, Pamfilya'nın başlıca limanı olan antik kenttir ve Manavgat'ın yaklaşık 7 km güneybatısında bir yarımada üzerindedir. Kuruluşu M.Ö. 7. yüzyıla tarihlenir. Apollon Tapınağı, Roma Barışı döneminde, yaklaşık M.S. 150'de Athena Tapınağı'nın yanında inşa edilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 54,
+		"name": "Laodikeia",
+		"category": "ancient",
+		"province": "Denizli",
+		"lng": 29.107,
+		"lat": 37.837,
+		"summary": "Laodikeia, Denizli'nin Merkezefendi ve Pamukkale ilçeleri sınırlarında yer alır ve 2013'ten beri UNESCO Dünya Mirası Geçici Listesi'ndedir. Anadolu'nun en büyük stadyumlarından birine sahiptir. Vahiy Kitabı'ndaki Yedi Kilise'den birinin bulunduğu kenttir.",
+		"verified": true
+	},
+	{
+		"id": 55,
+		"name": "Sardes",
+		"category": "ancient",
+		"province": "Manisa",
+		"lng": 28.039,
+		"lat": 38.488,
+		"summary": "Sardes, M.Ö. 6. yüzyılda Lidya Krallığı'nın başkentiydi ve devlet güvencesiyle sikke basılan ilk yer olarak kabul edilir. Artemis Tapınağı'nın yapımını Kroisos'un desteklediği aktarılır. Roma hamam-gymnasium kompleksinin bir bölümü sinagoga dönüştürülmüştür; sinagog M.S. 3. yüzyıla tarihlenir.",
+		"verified": true
+	},
+	{
+		"id": 56,
+		"name": "Patara",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 29.314,
+		"lat": 36.268,
+		"summary": "Patara, Fethiye ile Kalkan arasında yer alan Likya Birliği'nin önemli kentidir. Likya Birliği Meclis Binası yaklaşık 42,80 × 32,60 metre ölçülerindedir. Kumsalı Caretta caretta kaplumbağalarının yuvalama alanıdır.",
+		"verified": true
+	},
+	{
+		"id": 57,
+		"name": "Assos",
+		"category": "ancient",
+		"province": "Çanakkale",
+		"lng": 26.337,
+		"lat": 39.49,
+		"summary": "Assos, Çanakkale'nin Ayvacık ilçesinde Behramkale Köyü sınırlarındadır. Akropoldeki Athena Tapınağı yaklaşık M.Ö. 530'a tarihlenir ve Anadolu'daki Arkaik Dönem Dor tapınaklarından biridir. Aristoteles M.Ö. 4. yüzyılda kentte bir süre kalıp felsefe okulu kurmuştur.",
+		"verified": true
+	},
+	{
+		"id": 58,
+		"name": "Dolmabahçe Sarayı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.0003,
+		"lat": 41.0391,
+		"summary": "Dolmabahçe Sarayı, Sultan Abdülmecid döneminde yaklaşık 1843–1856 arasında inşa edilmiştir (Kültür Portalı 1842–1853 aralığını verir). Mimarları Karabet Balyan, Ohannes Serveryan, Nikogos Balyan ve James William Smith'tir.",
+		"verified": true
+	},
+	{
+		"id": 59,
+		"name": "Bursa Hanlar Bölgesi ve Sultan Külliyeleri",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.0634,
+		"lat": 40.1844,
+		"summary": "UNESCO Dünya Miras Listesi'ne 2014 yılında alınan \"Bursa ve Cumalıkızık: Osmanlı İmparatorluğunun Doğuşu\" alanının kent merkezindeki bölümüdür. Hanlar Bölgesi ile Sultan külliyeleri bu bölümde yer alır.",
+		"verified": true
+	},
+	{
+		"id": 60,
+		"name": "Cumalıkızık",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.1723,
+		"lat": 40.1764,
+		"summary": "Köy, UNESCO Dünya Miras Listesi'ne 2014 yılında alınan \"Bursa ve Cumalıkızık: Osmanlı İmparatorluğunun Doğuşu\" alanının bir parçasıdır. Alan, 38. oturumda (karar 38 COM 8B.37) listeye yazılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 61,
+		"name": "Mardin Kültürel Peyzaj Alanı (Artuklu Tarihi Kent Dokusu)",
+		"category": "monument",
+		"province": "Mardin",
+		"lng": 40.7245,
+		"lat": 37.3126,
+		"summary": "Alan, 2000 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır (başvuru tarihi 25/02/2000). Dünya Mirası Listesi'nde yer almamaktadır. Bakanlık yönetim planı, alanın adını Mardin Kültürel Peyzaj Alanı olarak verir.",
+		"verified": true
+	},
+	{
+		"id": 62,
+		"name": "Hasankeyf",
+		"category": "monument",
+		"province": "Batman",
+		"lng": 41.4069,
+		"lat": 37.7166,
+		"summary": "Hasankeyf'in alt kent kesimi, Ilısu Barajı'nın suyuyla 2019 yılında kaplanmıştır. Anıtların önemli bölümü yeni ilçede kurulan Arkeopark'a taşınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 63,
+		"name": "Beylerbeyi Sarayı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.0427,
+		"lat": 41.0425,
+		"summary": "Saray, Sultan Abdülaziz döneminde 1863-1865 yıllarında inşa edilmiştir; mimari çalışmaları Balyan ailesi yürütmüştür. Önceki ahşap saray yangında yıkıldıktan sonra yapılmıştır. Tahttan indirilen Sultan II. Abdülhamid son altı yılını burada geçirmiş ve 1918'de burada ölmüştür. Bir kaynak yapım başlangıcını 1861 olarak verir.",
+		"verified": true
+	},
+	{
+		"id": 64,
+		"name": "Kapalıçarşı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.968,
+		"lat": 41.0107,
+		"summary": "Çarşının yapımına Fatih Sultan Mehmet döneminde, 1460-1461 yıllarında başlanmıştır. Bugünkü biçimi 1701 yılında tamamlanmıştır. Dükkân sayısı kaynaklara göre 3.300 ile 4.500 arasında değişmektedir.",
+		"verified": true
+	},
+	{
+		"id": 65,
+		"name": "Ahlat Selçuklu Meydan Mezarlığı (Ahlat Mezar Taşları)",
+		"category": "monument",
+		"province": "Bitlis",
+		"lng": 42.4849,
+		"lat": 38.754,
+		"summary": "Ahlat mezar taşları, 2000 yılında UNESCO Dünya Mirası Geçici Listesi'ne sunulmuştur; Dünya Mirası Listesi'nde yer almamaktadır. Kültür Portalı, Ahlat Selçuklu Meydan Mezarlığı'nın Türk-İslam mezarlıkları arasında büyüklük bakımından ülkede birinci olduğunu belirtir. Alanın büyüklüğü kaynaklara göre 200.000-210.000 m² arasındadır; mezar taşları 12-15. yüzyıllara tarihlenir.",
+		"verified": true
+	},
+	{
+		"id": 66,
+		"name": "Odunpazarı Tarihi Kent Merkezi",
+		"category": "monument",
+		"province": "Eskişehir",
+		"lng": 30.502,
+		"lat": 39.775,
+		"summary": "Alan, 13 Nisan 2012 tarihinde UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır; Dünya Mirası Listesi'nde yer almamaktadır. Semt, ahşap süslemeli, cumbalı ve bitişik düzenli Anadolu Türk evleriyle tanınır ve Tarihi ve Kentsel Sit olarak korunmaktadır. Odunpazarı Belediyesi'nin restorasyon projesi kapsamında 300 ev, 3 cami ve 1 külliye onarılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 67,
+		"name": "Şirince",
+		"category": "monument",
+		"province": "İzmir",
+		"lng": 27.4944,
+		"lat": 37.9458,
+		"summary": "Köy, 19. yüzyılda incir üretimiyle bilinen yaklaşık 1800 haneli bir Rum kasabasıydı. 1923 nüfus mübadelesinden sonra Rum nüfus ayrılmış, yerine Kavala'nın Müştiyan ve Somokol köylerinden mübadiller yerleştirilmiştir. Köyün adı Cumhuriyet'in ilk yıllarında Kirkince/Çirkince biçiminden Şirince olarak resmileştirilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 68,
+		"name": "Troya Müzesi",
+		"category": "museum",
+		"province": "Çanakkale",
+		"lng": 26.2382,
+		"lat": 39.9556,
+		"summary": "Troya Müzesi, Çanakkale'nin Tevfikiye köyünde Troya Ören Yeri yakınındadır; inşaatı 19 Nisan 2013'te başlamış, bina Ekim 2018'de tamamlanmış ve resmî açılış töreni 2019'da yapılmıştır. Sergilenen 1.764 eserin çoğu Frank Calvert ve Carl Blegen'in buluntularından ve Calvert Koleksiyonu'nun bağışlarından oluşur.",
+		"verified": true
+	},
+	{
+		"id": 69,
+		"name": "Karatay Çini Eserleri Müzesi",
+		"category": "museum",
+		"province": "Konya",
+		"lng": 32.484,
+		"lat": 37.874,
+		"summary": "Müze, 1955'te Çini Eserler Müzesi adıyla Karatay Medresesi'nde açılmıştır. Medrese, Emir Celaleddin Karatay tarafından 1251'de Selçuklu Sultanı II. İzzeddin Keykavus döneminde yaptırılmıştır. Koleksiyonunda Kubad-Abad Sarayı kazısından çıkan çiniler ile Selçuklu ve Osmanlı dönemi Konya çinileri ve seramik tabakları bulunur.",
+		"verified": true
+	},
+	{
+		"id": 70,
+		"name": "Sadberk Hanım Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 29.0445,
+		"lat": 41.1765,
+		"summary": "Müze, 14 Ekim 1980'de Vehbi Koç Vakfı tarafından Büyükdere'de (Sarıyer) açılmıştır ve Türkiye'nin ilk özel müzesi olarak tanımlanır. Müze, Koç ailesinin 1950'de satın aldığı iki ahşap yalıdan oluşur; restorasyon projesini Sedat Hakkı Eldem yapmıştır. Koleksiyonda 20.000'den fazla obje bulunur ve İznik çinileri ile Türk-İslam eserleri öne çıkar.",
+		"verified": true
+	},
+	{
+		"id": 71,
+		"name": "Rahmi M. Koç Müzesi (Hasköy)",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.9474,
+		"lat": 41.0356,
+		"summary": "Rahmi M. Koç Müzesi'nin Hasköy bölümü, Haliç kıyısındaki tarihî tersane alanında yer alır ve ulaşım, sanayi ve iletişim tarihine ayrılmıştır. Denizcilik koleksiyonunda model gemiler, tam boyutlu tekneler ve yatlar, dış takma motorlar ve bir Amphicar bulunur.",
+		"verified": true
+	},
+	{
+		"id": 72,
+		"name": "Mardin Müzesi",
+		"category": "museum",
+		"province": "Mardin",
+		"lng": 40.741,
+		"lat": 37.3129,
+		"summary": "Kültür Bakanlığı, Süryani Katolik Vakfı'ndan satın alınan binayı 2000 yılında Mardin Müzesi olarak açmıştır. Açılışta Zinciriye Medresesi'ndeki eserler taşınmıştır. Müzede Paleolitik Çağ'dan MS 19. yüzyıla kadar uzanan 45.000'in üzerinde obje tematik salonlarda sergilenmektedir.",
+		"verified": true
+	},
+	{
+		"id": 73,
+		"name": "Milet Müzesi",
+		"category": "museum",
+		"province": "Aydın",
+		"lng": 27.278,
+		"lat": 37.52,
+		"summary": "Müze, Didim'deki Milet Antik Kenti içinde 1973'te açılmıştır. Eski bina yapısal sorunlar nedeniyle 2000'li yıllarda kapatılmış; 1200 m² kullanım alanlı yeni bina Mayıs 2011'de ziyarete açılmıştır. Eserler Milet, Didim ve Priene kazılarından gelir ve Minos dönemi buluntuları ile Menteşeoğulları dönemine ait İlyas Bey Camii buluntularını içerir.",
+		"verified": true
+	},
+	{
+		"id": 74,
+		"name": "Gaziantep Savunması ve Kahramanlık Panoraması Müzesi",
+		"category": "museum",
+		"province": "Gaziantep",
+		"lng": 37.3685,
+		"lat": 37.0606,
+		"summary": "Müze, Gaziantep Kalesi'ndeki bir galerinin büyükşehir belediyesi tarafından restore edilip dönüştürülmesiyle oluşturulmuştur. Sergi, Antep halkının Fransız ve İngiliz işgaline karşı direnişini anlatır.",
+		"verified": true
+	},
+	{
+		"id": 75,
+		"name": "Diyarbakır Kalesi ve Hevsel Bahçeleri",
+		"category": "castle",
+		"province": "Diyarbakır",
+		"lng": 40.2306,
+		"lat": 37.9139,
+		"summary": "Diyarbakır Kalesi ve Hevsel Bahçeleri Kültürel Peyzajı, 2015'te UNESCO Dünya Mirası Listesi'ne alınmıştır; koruma alanı 520,76 hektardır. Surlar 5,8 km uzunluğundadır ve kuleler, kapılar ve 63 yazıt içerir. Hevsel Bahçeleri kenti Dicle Nehri'ne bağlayan yeşil alandır.",
+		"verified": true
+	},
+	{
+		"id": 76,
+		"name": "Ankara Kalesi",
+		"category": "castle",
+		"province": "Ankara",
+		"lng": 32.8597,
+		"lat": 39.9417,
+		"summary": "Kalenin ilk yapım tarihi kesin olarak bilinmemekle birlikte Roma döneminde onarım gördüğü belirtilmektedir. İç kalenin 7. yüzyılda Bizanslılar tarafından yapıldığı, 1227'de Selçuklu Sultanı Alaeddin Keykubad tarafından onarıldığı kaydedilmektedir. İç kale 42, dış kale 20 kuleden oluşur.",
+		"verified": true
+	},
+	{
+		"id": 77,
+		"name": "Rumeli Hisarı",
+		"category": "castle",
+		"province": "İstanbul",
+		"lng": 29.093,
+		"lat": 41.0856,
+		"summary": "Fatih Sultan Mehmet döneminde 1452'de, 15 Nisan ile 31 Ağustos arasındaki 139 günde tamamlanmıştır. Boğazın Avrupa yakasında yer alır ve 15 kule ile 5 giriş kapısı bulunur. Bugün Hisarlar Müzesi kapsamında açık hava müzesi olarak ziyarete açıktır.",
+		"verified": true
+	},
+	{
+		"id": 78,
+		"name": "Anadolu Hisarı",
+		"category": "castle",
+		"province": "İstanbul",
+		"lng": 29.0797,
+		"lat": 41.085,
+		"summary": "Kültür Portalı'nın Osmanlı Tarihi kitabına göre Yıldırım Bayezid, 1397'de İstanbul'u üçüncü kez kuşatırken hisarı yaptırarak Boğazı kontrol altına almıştır. Yapı Boğazın Asya yakasında, Rumeli Hisarı'nın karşısında yer alır.",
+		"verified": true
+	},
+	{
+		"id": 79,
+		"name": "Alanya Kalesi",
+		"category": "castle",
+		"province": "Antalya",
+		"lng": 32.002,
+		"lat": 36.533,
+		"summary": "Alanya, 1221'de Selçuklu Sultanı Alaeddin Keykubad tarafından alınmış ve kent ile kale Alaiye adını almıştır. Kızıl Kule, 1226 yılında yapılmış sekizgen bir kuledir ve yüksekliği yaklaşık 33 metredir.",
+		"verified": true
+	},
+	{
+		"id": 80,
+		"name": "Kızkalesi (Deniz Kalesi)",
+		"category": "castle",
+		"province": "Mersin",
+		"lng": 34.19,
+		"lat": 36.5,
+		"summary": "Kale, Korykos antik kentinin bulunduğu alanda, kıyıdan yaklaşık 600 metre açıkta küçük bir adacıkta yer alır. Kültür Portalı'na göre kalenin kitabesi yapımını 1199'a tarihlendirir ve yapıyı Ermeni hükümdarı I. Leon ile ilişkilendirir. 1361'de Kıbrıs Krallığı tarafından ele geçirilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 81,
+		"name": "Bodrum Kalesi",
+		"category": "castle",
+		"province": "Muğla",
+		"lng": 27.4283,
+		"lat": 37.0339,
+		"summary": "Rodos Şövalyeleri kaleyi 1402–1406 arasında başlatmış, inşaat 1522'ye kadar aralıklı sürmüştür. Osmanlılar kaleyi 1522–1523'te ele geçirmiştir. Kalede kurulan müze, 1981'de Bodrum Sualtı Arkeoloji Müzesi adını almıştır.",
+		"verified": true
+	},
+	{
+		"id": 82,
+		"name": "Van Kalesi (Tuşpa)",
+		"category": "castle",
+		"province": "Van",
+		"lng": 43.37,
+		"lat": 38.494,
+		"summary": "Kültür Portalı'na göre kale, Urartu Krallığı'nın başkenti Tuşpa'da yer alır ve MÖ 840-825 arasında I. Sarduri tarafından yaptırılmıştır. Kalenin batısındaki Madırburç'ta bulunan yazıtlar Urartu'nun bilinen en eski yazılı belgeleri olarak tanımlanmaktadır. Van Kalesi, 2016'da UNESCO Geçici Listesi'ne alınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 83,
+		"name": "Mardin Kalesi",
+		"category": "castle",
+		"province": "Mardin",
+		"lng": 40.7356,
+		"lat": 37.3121,
+		"summary": "Kaynaklara göre kalenin yapım tarihi tartışmalıdır: Mardin İl Kültür ve Turizm Müdürlüğü 10. yüzyılda Hamdanoğulları'nı, Kültür Portalı envanteri ise Bizans dönemi ve İslam öncesi görüşlerini aktarır. Osmanlılar Mardin'i 1516'da almıştır. Kale büyük ölçüde harabedir ve kaynaklara göre ziyarete kapalıdır.",
+		"verified": true
+	},
+	{
+		"id": 84,
+		"name": "Kars Kalesi",
+		"category": "castle",
+		"province": "Kars",
+		"lng": 43.093,
+		"lat": 40.601,
+		"summary": "Kale kitabesine göre 1152'de Saltuklu hükümdarı Melik İzzeddin döneminde yapılmıştır. Timur kaleyi 1386'da yıktırmış, Lala Mustafa Paşa 1579'da III. Murat'ın emriyle yeniden inşa etmiştir. Bazalttan yapılmış olup üç büyük kapısı bulunur.",
+		"verified": true
+	},
+	{
+		"id": 85,
+		"name": "Gaziantep Kalesi",
+		"category": "castle",
+		"province": "Gaziantep",
+		"lng": 37.383,
+		"lat": 37.0655,
+		"summary": "Kale, Roma döneminde bir gözetleme kulesi olarak başlamış, bugünkü biçimini Bizans döneminde 6. yüzyılda almıştır. Memlük Sultanı Kayıtbay 1481'de büyük onarım yaptırmış, 1557 tarihli kitabeye göre Kanuni Sultan Süleyman döneminde güçlendirilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 86,
+		"name": "Yedikule Hisarı",
+		"category": "castle",
+		"province": "İstanbul",
+		"lng": 28.9505,
+		"lat": 41.0001,
+		"summary": "Kültür Bakanlığı e-kitabına göre Fatih Sultan Mehmet, Yedikule Hisarı'nı 1457-58'de yaptırmıştır. Yapı önce hazinenin saklanması için kullanılmış, sonradan hapishane olarak işlev görmüştür.",
+		"verified": true
+	},
+	{
+		"id": 87,
+		"name": "Derinkuyu Yeraltı Şehri",
+		"category": "cave",
+		"province": "Nevşehir",
+		"lng": 34.7319,
+		"lat": 38.3731,
+		"summary": "Derinliği yaklaşık 85 metredir ve yeryüzüne 55 metre derinliğinde bir havalandırma bacasıyla bağlanır. Kat sayısı kaynaklarda yedi veya sekiz olarak verilmiştir. 1965 yılında açılan alanın yaklaşık onda biri ziyarete açıktır.",
+		"verified": true
+	},
+	{
+		"id": 88,
+		"name": "Kaymaklı Yeraltı Şehri",
+		"category": "cave",
+		"province": "Nevşehir",
+		"lng": 34.68,
+		"lat": 38.33,
+		"summary": "Resmî kaynaklara göre sekiz kattan oluşur ve ilk katı Hitit dönemine tarihlenir. Ziyarete açık kat sayısı kaynaklarda farklıdır: bir Bakanlık sayfasında dört kat ışıklandırılmış ve ziyarete açık, bir müze sayfasında ise iki katın gezilebildiği belirtilir.",
+		"verified": true
+	},
+	{
+		"id": 89,
+		"name": "Özkonak Yeraltı Şehri",
+		"category": "cave",
+		"province": "Nevşehir",
+		"lng": 34.72,
+		"lat": 38.71,
+		"summary": "Avanos ilçesine yaklaşık 14 km uzaklıktaki Özkonak kasabasındadır ve iki kattan oluşur. Katlar arasındaki havalandırma bacaları çok dar ve uzundur. Alan 1972'de ziyarete açılmış, 2003'te güvenlik nedeniyle kapatılmış ve 2015 Temmuz'unda yeniden açılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 90,
+		"name": "Damlataş Mağarası",
+		"category": "cave",
+		"province": "Antalya",
+		"lng": 31.9935,
+		"lat": 36.5435,
+		"summary": "Alanya yarımadasının batı kıyısında, deniz kenarında yer alır. Girişten yaklaşık 15 metre yüksekliğinde silindirik bir boşluğa ulaşılır. Mağara içindeki hava sıcaklığı yıl boyunca yaklaşık 22°C, nem oranı yaklaşık yüzde 95 olarak verilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 91,
+		"name": "Karain Mağarası",
+		"category": "cave",
+		"province": "Antalya",
+		"lng": 30.55,
+		"lat": 36.98,
+		"summary": "Antalya il merkezinin kuzeybatısında, Döşemealtı ilçesinin Yağca mahallesinde yer alır. Alt Paleolitik dönemden Roma dönemine kadar kullanılmıştır ve 1946'dan beri bilimsel kazılar yapılmaktadır. Orta Paleolitik katmanlarında Neandertal süt dişleri ve yaklaşık 160.000 yıl öncesine tarihlenen insan kemiği parçaları bulunmuştur.",
+		"verified": true
+	},
+	{
+		"id": 92,
+		"name": "Altınbeşik Mağarası",
+		"category": "cave",
+		"province": "Antalya",
+		"lng": 31.6,
+		"lat": 37.05,
+		"summary": "İbradı yakınında, Manavgat Vadisi'nin batı yanında karstik bir mağaradır ve 1994 yılında milli park ilan edilmiştir. Toplam uzunluğu yaklaşık 2.500 metre, girişin üzerindeki en yüksek noktası 101 metredir. Mağaranın yaklaşık 200 metrelik kısmı rehber eşliğinde kayıkla gezilebilmektedir.",
+		"verified": true
+	},
+	{
+		"id": 93,
+		"name": "Gökgöl Mağarası",
+		"category": "cave",
+		"province": "Zonguldak",
+		"lng": 31.79,
+		"lat": 41.46,
+		"summary": "Zonguldak il merkezi çevresinde, Zonguldak-Ankara karayolu üzerindedir. Toplam uzunluğu 3.350 metredir ve bunun yaklaşık 875 metrelik kısmı turizme açıktır. Dört ayrı kattan oluşur ve traverten, sarkıt, dikit ile bayrak ve perde biçiminde oluşumlar içerir.",
+		"verified": true
+	},
+	{
+		"id": 94,
+		"name": "Dim Mağarası",
+		"category": "cave",
+		"province": "Antalya",
+		"lng": 32.09,
+		"lat": 36.57,
+		"summary": "Alanya'nın yaklaşık 12 km doğusunda, Cebireis Dağı'nın batı yamacında, yaklaşık 232 metre yükseklikte yer alır. 1998'de ziyarete açılmıştır ve kaynaklara göre Türkiye'de ziyarete açılmış ikinci büyük mağaradır. Uzunluğu kaynaklar arasında farklı verilmiştir; bir kaynakta toplam 357 metre olarak geçer.",
+		"verified": true
+	},
+	{
+		"id": 95,
+		"name": "Cennet ve Cehennem Çukurları (Narlıkuyu)",
+		"category": "cave",
+		"province": "Mersin",
+		"lng": 33.98,
+		"lat": 36.3,
+		"summary": "Silifke'nin Narlıkuyu kasabasında, Hasanaliler Mahallesi'nde yan yana bulunan iki çöküntüdür. Cennet Çöküğü'nün tabanına 450 basamaklı merdivenle inilir ve tabanında yaklaşık 260 metre uzunluğunda bir mağara vardır. Cehennem Çukuru'nun derinliği Bakanlık kaynağında 130 metre olarak verilmiş olup ziyaretçiler üst seyir terasından izler.",
+		"verified": true
+	},
+	{
+		"id": 96,
+		"name": "Mazı Yeraltı Şehri",
+		"category": "cave",
+		"province": "Nevşehir",
+		"lng": 34.85,
+		"lat": 38.47,
+		"summary": "Ürgüp ilçesinin yaklaşık 18 km güneyinde yer alır ve dört ayrı girişi olduğu bildirilmektedir. Bir Bakanlık sayfasına göre ilk katı Hitit dönemine tarihlenir ve alan sekiz katlı bir yerleşimin parçasıdır. 2003'te göçük nedeniyle kapatılmış, 2015 Temmuz'unda yeniden açılmıştır; ziyarete açık kat sayısı kaynaklarda iki veya dört olarak verilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 97,
+		"name": "Sultanhanı (Aksaray)",
+		"category": "khan",
+		"province": "Aksaray",
+		"lng": 33.56,
+		"lat": 38.31,
+		"summary": "Aksaray'ın yaklaşık 42 km batısında, Sultanhanı kasabasındadır. Kültür Portalı'na göre 1229'da Anadolu Selçuklu Sultanı I. Alaeddin Keykubad tarafından yaptırılmış, 1278'de II. Gıyaseddin Keyhüsrev döneminde genişletilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 98,
+		"name": "Sultanhanı (Kayseri)",
+		"category": "khan",
+		"province": "Kayseri",
+		"lng": 35.82,
+		"lat": 38.94,
+		"summary": "Kayseri-Sivas karayolu üzerinde, Kayseri'ye yaklaşık 47 km uzaklıktadır. Kaynaklara göre I. Alaeddin Keykubad döneminde 1232-1236 yılları arasında yaptırılmıştır. Ortasındaki köşk mescit ile Selçuklu kervansaraylarının tipik planından ayrılır.",
+		"verified": true
+	},
+	{
+		"id": 99,
+		"name": "Ağzıkarahan Kervansarayı",
+		"category": "khan",
+		"province": "Aksaray",
+		"lng": 34.0,
+		"lat": 38.33,
+		"summary": "Aksaray-Nevşehir karayolu üzerinde, Ağzıkarahan köyü yakınındadır. Kaynaklara göre 12. yüzyılın sonu ile 13. yüzyılın başı arasında yapılmıştır. Avlusunda küçük bir mescit köşkü bulunur; 1967'de başlayan restorasyon tamamlanmamıştır.",
+		"verified": true
+	},
+	{
+		"id": 100,
+		"name": "Alara Han",
+		"category": "khan",
+		"province": "Antalya",
+		"lng": 31.95,
+		"lat": 36.64,
+		"summary": "Antalya-Alanya yolu üzerinde, Okurcalar beldesi ve Çakallar köyü sınırları içindedir. Kitabesine göre Anadolu Selçuklu Sultanı I. Alaeddin Keykubad tarafından 1231-1232 yıllarında inşa ettirilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 101,
+		"name": "Koza Han",
+		"category": "khan",
+		"province": "Bursa",
+		"lng": 29.06,
+		"lat": 40.18,
+		"summary": "Bursa'da Hanlar Bölgesi'nde yer alır ve ipek ticaretinin merkezi olmuştur. Kaynaklara göre II. Bayezid tarafından yaptırılmış olup yapım tarihi 1490-1492 arasında verilmektedir. İki katlıdır ve avlusu bugün kafe olarak kullanılmaktadır.",
+		"verified": true
+	},
+	{
+		"id": 102,
+		"name": "Malabadi Köprüsü",
+		"category": "khan",
+		"province": "Diyarbakır",
+		"lng": 41.07,
+		"lat": 38.14,
+		"summary": "Batman Çayı üzerinde, Diyarbakır'ın Silvan ilçesindedir. Kitabesine göre 1147 yılında yapılmış ve Artuklu Temürtaş'a atfedilmektedir; sivri kemerli ana açıklığı 40,86 m'dir. Uzunluğu kaynaklara göre 150 m ile 281,67 m arasında verilmektedir.",
+		"verified": true
+	},
+	{
+		"id": 103,
+		"name": "Uzunköprü",
+		"category": "khan",
+		"province": "Edirne",
+		"lng": 26.68,
+		"lat": 41.27,
+		"summary": "Edirne'de Ergene Nehri üzerinde yer alır. Kültür Bakanlığı kaynağına göre mimarı Muslihiddin olup II. Murad döneminde 1427-1443 yılları arasında yapılmıştır. Uzunluğu kaynaklara göre 1.270,41 m ile 1.392 m arasında değişmektedir ve UNESCO geçici listesinde yer almaktadır.",
+		"verified": true
+	},
+	{
+		"id": 104,
+		"name": "On Gözlü Köprü",
+		"category": "khan",
+		"province": "Diyarbakır",
+		"lng": 40.235,
+		"lat": 37.88,
+		"summary": "Diyarbakır'da Dicle Nehri üzerinde, Sur ilçesinde yer alır ve on açıklığı nedeniyle bu adı almıştır. Yapım tarihi kaynaklarda 1064-1065 (Mervanoğulları dönemi) ile 1239-1240 (II. Keyhüsrev dönemi) olarak farklı verilmektedir. Uzunluğu kaynaklara göre yaklaşık 180 m'dir.",
+		"verified": true
+	},
+	{
+		"id": 105,
+		"name": "Taş Köprü (Taşköprü)",
+		"category": "khan",
+		"province": "Adana",
+		"lng": 35.31,
+		"lat": 37.0,
+		"summary": "Seyhan Nehri üzerinde, Seyhan ve Yüreğir ilçelerini birbirine bağlar. Kaynaklara göre Roma dönemine tarihlenir; 1847'de onarılmış, 2006 restorasyonundan sonra araç trafiğine kapatılmıştır. Açıklık sayısı kaynaklarda 14 (özgün 21 açıklıktan) veya 16 olarak verilmektedir.",
+		"verified": true
+	},
+	{
+		"id": 106,
+		"name": "Öküz Mehmed Paşa Kervansarayı",
+		"category": "khan",
+		"province": "Aydın",
+		"lng": 27.257,
+		"lat": 37.857,
+		"summary": "Kuşadası'nda, liman yakınında yer alır. Aydın İl Kültür ve Turizm Müdürlüğü'ne göre 1618 yılında Sadrazam Öküz Mehmed Paşa tarafından yaptırılmıştır. İki katlı ve dikdörtgen avlulu bir yapıdır; bugün otel ve turizm tesisi olarak kullanılmaktadır.",
+		"verified": true
+	},
+	{
+		"id": 107,
+		"name": "Süleymaniye Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.964,
+		"lat": 41.0165,
+		"summary": "Cami, Kanuni Sultan Süleyman'ın emriyle 1551-1558 yılları arasında yapılmıştır. Mimarı Mimar Sinan'dır ve Kültür Portalı yapıyı Sinan'ın kalfalık eseri olarak tanımlar. Sinan'ın türbesi külliye içindedir.",
+		"verified": true
+	},
+	{
+		"id": 108,
+		"name": "Hacı Bayram Veli Camii",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.8619,
+		"lat": 39.9424,
+		"summary": "Kaynaklara göre caminin ilk yapımı 1427-1428 yıllarına tarihlenmektedir. Bitişik türbe 1429 civarında tarihlendirilir ve 1947'de onarılmıştır. Yapı, 2016 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 109,
+		"name": "Bursa Ulu Cami",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.0608,
+		"lat": 40.1821,
+		"summary": "Yapı 55 x 69 metre ölçüsünde dikdörtgen planlıdır ve Türkiye'de Ulu Cami adını taşıyan camilerin en büyüğüdür. İç mekânında 41 hattat tarafından 13 farklı yazı türünde 192 yazı bulunmaktadır.",
+		"verified": true
+	},
+	{
+		"id": 110,
+		"name": "Yeşil Cami",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.0625,
+		"lat": 40.193,
+		"summary": "Yapımı 1419'da Çelebi Sultan Mehmed tarafından başlatılmış, II. Murad tarafından 1424'te tamamlanmıştır. Mimarı Hacı İvaz Paşa, nakkaşları Ali bin İlyas ve Mehmed el Mecnun'dur. Yapı 1552-1950 yılları arasında yaklaşık 20 onarım görmüştür.",
+		"verified": true
+	},
+	{
+		"id": 111,
+		"name": "Yeşil Türbe (Çelebi Sultan Mehmet Türbesi)",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.0643,
+		"lat": 40.1925,
+		"summary": "Kültür Portalı envanterine göre türbe 1413-1421 yılları arasına tarihlenmekte ve mimarı Hacı İvaz Paşa olarak verilmektedir. Adını turkuaz ve yeşil çinilerinden alır. Yapı, 2007-2009 yıllarında Kültür ve Turizm Bakanlığı, Bursa Valiliği ve TOBB katkısıyla restore edilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 112,
+		"name": "Eyüp Sultan Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.9339,
+		"lat": 41.0479,
+		"summary": "Cami ve türbe, Fatih Sultan Mehmet tarafından 1458'de Eyüp el-Ensarî'nin mezarı etrafında yaptırılmıştır. Bugünkü cami, eski yapının temellerine kadar yıkılmasının ardından 1800 yılında Hüseyin Efendi'nin gözetiminde inşa edilmiştir. Yapının 1458'deki mimarı kaynaklarda adı geçmemektedir.",
+		"verified": true
+	},
+	{
+		"id": 113,
+		"name": "Akdamar Kilisesi (Surp Haç)",
+		"category": "monument",
+		"province": "Van",
+		"lng": 42.958,
+		"lat": 38.377,
+		"summary": "Kilise, 915-921 yılları arasında Vaspurakan Kralı I. Gagik adına, mimar Manuel tarafından saray kilisesi olarak yapılmıştır. Manastır 1895 ve 1915 olaylarının ardından terk edilmiştir. 2005-2006 restorasyonunun ardından 2007'de anıt müze olarak ziyarete açılmıştır.",
+		"verified": true
+	},
+	{
+		"id": 114,
+		"name": "Eşrefoğlu Camii",
+		"category": "monument",
+		"province": "Konya (Beyşehir)",
+		"lng": 31.7289,
+		"lat": 37.6792,
+		"summary": "Cami 1296-1299 yılları arasında yapılmıştır ve GoTürkiye kaynağına göre Anadolu'daki ahşap taşıyıcılı ve ahşap çatılı camiler arasında en büyüğüdür. Yapı, 2023 yılında 45. UNESCO Dünya Miras Komitesi oturumunda, Anadolu'nun ahşap direkli camileri serisi içinde Dünya Mirası Listesi'ne alınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 115,
+		"name": "Gök Medrese",
+		"category": "monument",
+		"province": "Sivas",
+		"lng": 37.017,
+		"lat": 39.7468,
+		"summary": "Yapım tarihi kaynaklarda 1271 olarak verilmektedir. Bânisi için Sahip Ata Fahreddin Ali ile İlhanlı veziri Şemseddin Cüveyni kaynaklara göre farklı gösterilmektedir. Medrese 2014 yılında Anadolu Selçuklu Medreseleri grubu içinde UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 116,
+		"name": "Çifte Minareli Medrese",
+		"category": "monument",
+		"province": "Erzurum",
+		"lng": 41.2739,
+		"lat": 39.9057,
+		"summary": "Taç kapı kitabesindeki tarih kaynaklarda 1272-73 ile 1310 arasında farklı okunmaktadır. Kültür Portalı, medresenin 2014 yılında Anadolu Selçuklu Medreseleri başlığıyla UNESCO Dünya Mirası Geçici Listesi'ne alındığını belirtir. Yapı 1942-1967 yılları arasında Erzurum Müzesi olarak hizmet vermiştir.",
+		"verified": true
+	},
+	{
+		"id": 117,
+		"name": "Kasımiye Medresesi",
+		"category": "monument",
+		"province": "Mardin",
+		"lng": 40.7372,
+		"lat": 37.311,
+		"summary": "Mardin İl Kültür ve Turizm Müdürlüğü'ne göre yapı Akkoyunlu Hükümdarı Cihangiroğlu Kasım Padişah döneminde 1457-1502 yılları arasında tamamlanmıştır. Kültür Envanteri yapım tarihini 1487-1502 olarak verir. Tescil kararı 21.09.1979 tarihlidir.",
+		"verified": true
+	},
+	{
+		"id": 118,
+		"name": "Hacı Bektaş Veli Külliyesi",
+		"category": "monument",
+		"province": "Nevşehir",
+		"lng": 34.624,
+		"lat": 38.943,
+		"summary": "Külliyenin çekirdeğinde Hacı Bektaş Veli'ye ait Kızılca Halvet bulunmaktadır. Tekkeler 30 Kasım 1925'te kapatılmış, 1957-1964 yılları arasında onarılan yapı 16 Ağustos 1964'te müzeye dönüştürülmüştür. Külliye 2012 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": true
+	},
+	{
+		"id": 119,
+		"name": "Aziz Yuhanna Bazilikası (St. Jean)",
+		"category": "monument",
+		"province": "İzmir (Selçuk)",
+		"lng": 27.3669,
+		"lat": 37.9532,
+		"summary": "Jüstinyen ve Theodora döneminde (527-565) yapılan bazilika haç planlı ve kubbelidir; atriumuyla birlikte 130 metre uzunluğundadır. Ayasuluk Tepesi ve St. Jean Anıtı Kazısı, UNESCO Dünya Mirası Listesi'ndeki Efes alanının bileşenidir.",
+		"verified": true
+	},
+	{
+		"id": 120,
+		"name": "Mor Gabriel Manastırı (Deyrulumur)",
+		"category": "monument",
+		"province": "Mardin (Midyat)",
+		"lng": 41.5,
+		"lat": 37.3,
+		"summary": "Manastırın kuruluşu kaynaklara göre 397 yılında atılmış, bir kaynakta 379 olarak verilmektedir. Manastır 615-1049 yılları arasında metropolit merkezi olmuştur. UNESCO Geçici Liste kaydına göre yapıdaki mozaikler, Konstantinopolis'in doğusunda kalan 6. yüzyıl Bizans mozaikleri arasındadır.",
+		"verified": true
+	},
+	{
+		"id": 121,
+		"name": "Salda Gölü",
+		"category": "nature",
+		"province": "Burdur",
+		"lng": 29.7,
+		"lat": 37.58,
+		"summary": "Deniz seviyesinden yüksekliği kaynaklara göre 1140 metredir. Kaynaklara göre 1989'da doğal sit alanı olarak tescil edilmiştir. Göl kenarındaki 12 hektarlık alan 2011'de tabiat parkına dönüştürülmüştür.",
+		"verified": true
+	},
+	{
+		"id": 122,
+		"name": "Ölüdeniz (Kıdrak Tabiat Parkı)",
+		"category": "nature",
+		"province": "Muğla",
+		"lng": 29.12,
+		"lat": 36.55,
+		"summary": "Kıdrak Tabiat Parkı 1 Aralık 1983'te ilan edilmiştir. Ölüdeniz Lagünü ve Kıdrak Plajı sit alanı ve özel çevre koruma alanı içinde yer alır. İlk ilanda parkın alanı 24,58 hektar olarak kayıtlıdır.",
+		"verified": true
+	},
+	{
+		"id": 123,
+		"name": "Uzungöl",
+		"category": "nature",
+		"province": "Trabzon",
+		"lng": 40.14,
+		"lat": 40.65,
+		"summary": "Vadi içinde, yamaçlardan düşen kayaların Haldizen Deresi'ni kapatmasıyla oluşmuş bir göldür. Çaykara'ya 19 km, Trabzon'a 99 km uzaklıktadır. 1989'da tabiat parkı olarak ilan edilmiş ve alanı 1625 hektar olarak verilmiştir.",
+		"verified": true
+	},
+	{
+		"id": 124,
+		"name": "Tortum Şelalesi",
+		"category": "nature",
+		"province": "Erzurum",
+		"lng": 41.58,
+		"lat": 40.47,
+		"summary": "Tortum Gölü'nden taşan suyun Tev Vadisi'ndeki heyelan kütlesi üzerinden dökülmesiyle oluşmuştur. Kaynaklara göre şelalenin yüksekliği 48 metre, genişliği 21–22 metredir. İlçe bilgisi kaynaklarda farklı verilir (Uzundere veya Tortum).",
+		"verified": true
+	},
+	{
+		"id": 125,
+		"name": "Düden Şelalesi",
+		"category": "nature",
+		"province": "Antalya",
+		"lng": 30.8,
+		"lat": 36.87,
+		"summary": "Yukarı Düden Şelalesi kaynaklara göre 20 metre yükseklikten dökülür. Aşağı Düden, Lara yolunda denize 40 metre yükseklikten dökülür.",
+		"verified": true
+	},
+	{
+		"id": 126,
+		"name": "Manavgat Şelalesi",
+		"category": "nature",
+		"province": "Antalya",
+		"lng": 31.45,
+		"lat": 36.78,
+		"summary": "Kaynaklara göre şelale yaklaşık 5 metre yükseklikten dökülür. Manavgat ilçe merkezine yaklaşık 3 km uzaklıktadır.",
+		"verified": true
+	},
+	{
+		"id": 127,
+		"name": "Ihlara Vadisi",
+		"category": "nature",
+		"province": "Aksaray",
+		"lng": 34.33,
+		"lat": 38.25,
+		"summary": "Vadi, Melendiz Çayı'nın oluşturduğu kanyondur. Kaynakların çoğunda uzunluk yaklaşık 14 km olarak verilir; bir kaynak 18 km yazar. Yamaçların yer yer 120 metreye ulaştığı belirtilir.",
+		"verified": true
+	},
+	{
+		"id": 128,
+		"name": "Nemrut Krater Gölü",
+		"category": "nature",
+		"province": "Bitlis",
+		"lng": 42.25,
+		"lat": 38.65,
+		"summary": "Göl, deniz seviyesinden yaklaşık 2247 metre yükseklikte bir krater gölüdür. Çapı kaynaklarda yaklaşık 6 km olarak verilir. En derin noktası kaynaklara göre 155 metredir.",
+		"verified": true
+	},
+	{
+		"id": 129,
+		"name": "Tuz Gölü",
+		"category": "nature",
+		"province": "Konya-Aksaray",
+		"lng": 33.35,
+		"lat": 38.75,
+		"summary": "14.09.2000 tarihli ve 2000/1381 sayılı kararla Tuz Gölü Özel Çevre Koruma Bölgesi olarak ilan edilmiştir. Bölge Konya'da Kulu, Cihanbeyli ve Altınekin ilçelerini kapsar. Kaynaklarda göl yüzölçümü tutarlı verilmemiştir.",
+		"verified": true
+	},
+	{
+		"id": 130,
+		"name": "Saklıkent Kanyonu",
+		"category": "nature",
+		"province": "Muğla",
+		"lng": 29.43,
+		"lat": 36.55,
+		"summary": "Kanyonun uzunluğu Muğla İl Kültür ve Turizm Müdürlüğü'ne göre 18 km'dir. Duvar yüksekliği Muğla İl Kültür ve Turizm Müdürlüğü'ne göre 200–600 metre arasında verilir.",
+		"verified": true
+	},
+	{
+		"id": 131,
+		"name": "Kaputaş Plajı",
+		"category": "nature",
+		"province": "Antalya",
+		"lng": 29.55,
+		"lat": 36.2,
+		"summary": "Kaş–Kalkan yolu üzerinde, dar bir kanyonun ağzında yer alan bir plajdır. Yoldan yaklaşık 200 basamakla inilir. Birinci derece doğal sit alanı olarak tanımlanır.",
+		"verified": true
+	},
+	{
+		"id": 132,
+		"name": "Van Gölü",
+		"category": "nature",
+		"province": "Van",
+		"lng": 42.6,
+		"lat": 38.6,
+		"summary": "Türkiye'nin en büyük gölüdür; yüzölçümü 3712 km², ortalama derinliği 171 metre, en büyük derinliği 451 metredir. Deniz seviyesinden yüksekliği 1648 metredir ve soda gölüdür.",
+		"verified": true
+	},
+	{
+		"id": 133,
+		"name": "Cendere Köprüsü",
+		"category": "monument",
+		"province": "Adıyaman",
+		"lng": 38.6085,
+		"lat": 37.9328,
+		"summary": "Adıyaman'ın Kahta ve Sincik ilçeleri arasında, Cendere Çayı üzerinde yer alan Roma dönemi köprüsüdür. Yaklaşık MS 200 dolaylarında yapıldığı kaydedilir ve yakınındaki Arsameia antik kentiyle birlikte anılır.",
+		"verified": false
+	},
+	{
+		"id": 134,
+		"name": "Karakuş Tümülüsü",
+		"category": "ancient",
+		"province": "Adıyaman",
+		"lng": 38.588,
+		"lat": 37.8694,
+		"summary": "Kâhta ilçesi Çukurtaş köyü yakınında bulunan Kommagene dönemine ait anıt mezardır. Kral II. Mithridates'in MÖ 30-20 yıllarında kraliçe İsias ile prensesler Antiochis ve Aka I için yaptırdığı kabul edilir. Üzerindeki kartal figürlü sütunuyla tanınır.",
+		"verified": false
+	},
+	{
+		"id": 135,
+		"name": "Anavarza Antik Kenti",
+		"category": "ancient",
+		"province": "Adana",
+		"lng": 35.90556,
+		"lat": 37.26389,
+		"summary": "Kozan ilçesine bağlı Dilekkaya'da yer alan Roma dönemi antik kentidir; kolonlu cadde, hamam, tiyatro, amfitiyatro ve stadyum kalıntıları bulunur. Üç geçitli zafer takı, mozaik havuzu ve tepedeki ortaçağ kalesi de kentin kalıntıları arasındadır. 2014 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 136,
+		"name": "Misis Antik Kenti",
+		"category": "ancient",
+		"province": "Adana",
+		"lng": 35.62389,
+		"lat": 36.95778,
+		"summary": "Yüreğir ilçesinde, Ceyhan (Pyramus) Nehri kıyısında yer alan Mopsuestia antik kentidir. Kentin, kahin Mopsus tarafından kurulduğu geleneksel olarak anlatılır. Kent alanında Roma dönemi köprüsü bulunur ve yakınında Misis Mozaik Müzesi yer alır.",
+		"verified": false
+	},
+	{
+		"id": 137,
+		"name": "Afyon Kalesi",
+		"category": "castle",
+		"province": "Afyonkarahisar",
+		"lng": 30.53801,
+		"lat": 38.76526,
+		"summary": "Afyonkarahisar şehir merkezinde, 226 metre yüksekliğindeki bir tepe üzerinde yer alan kaledir. Vikipedi'ye göre Hitit dönemine (yaklaşık MÖ 1350) tarihlenir ve Hitit kralı II. Mursili'nin yaptırdığı kabul edilir. Osmanlılar kaleyi 1392'de ele geçirmiştir.",
+		"verified": false
+	},
+	{
+		"id": 138,
+		"name": "Selime Katedrali",
+		"category": "monument",
+		"province": "Aksaray",
+		"lng": 34.267,
+		"lat": 38.3,
+		"summary": "Güzelyurt ilçesi Selime'de bulunan katedraldir. Kaynakta, Roma baskısından kaçan Hıristiyanların peribacalarında yaşadığı ve Hıristiyanlığın kabulünden sonra burada kiliseler ve katedraller yapıldığı belirtilir.",
+		"verified": false
+	},
+	{
+		"id": 139,
+		"name": "Hasan Dağı",
+		"category": "nature",
+		"province": "Aksaray",
+		"lng": 34.16667,
+		"lat": 38.1275,
+		"summary": "Aksaray ilinde bulunan katmanlı volkan (stratovolkan) olup yüksekliği 3.268 metre olarak verilir. İki zirvesi yaklaşık 3.253 ve 3.069 metredir. En son püskürmesi yaklaşık MÖ 6200 olarak tarihlendirilir.",
+		"verified": false
+	},
+	{
+		"id": 140,
+		"name": "Pontus Kral Kaya Mezarları",
+		"category": "ancient",
+		"province": "Amasya",
+		"lng": 35.83028,
+		"lat": 40.65333,
+		"summary": "Amasya'da Harşena Dağı'nın yamaçlarına oyulmuş, Pontus krallarının kraliyet nekropolüdür. Pontus Krallığı'nı kuran Kral Mithridates I'in (MÖ 281-266) Amaseia'yı başkent yapmasının ardından oyulmuşlardır. Vikipedi'ye göre beş Pontus kralına ait mezarlar arasında Mithridates I, Ariobarzanes, Mithridates II, Mithridates III ve Pharnakes I bulunur.",
+		"verified": false
+	},
+	{
+		"id": 141,
+		"name": "Augustus Tapınağı",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.858311,
+		"lat": 39.944273,
+		"summary": "Ankara'nın Altındağ ilçesinde yer alan Roma dönemi tapınağıdır ve MÖ 25-20 dolaylarında yapıldığı kabul edilir. Tapınağın duvarlarında Res Gestae Divi Augusti metninin Latince ve Grekçe nüshaları bulunur; bu, metnin günümüze ulaşan en eksiksiz kopyasıdır.",
+		"verified": false
+	},
+	{
+		"id": 142,
+		"name": "Gordion",
+		"category": "ancient",
+		"province": "Ankara",
+		"lng": 31.978243,
+		"lat": 39.650356,
+		"summary": "Polatlı ilçesinde, Yassıhöyük'te yer alan Frig başkentidir ve Frig uygarlığının tip alanı kabul edilir. Kral Midas'ın bu dönemde burada hüküm sürdüğü kabul edilir; Tümülüs MM'nin geleneksel olarak Midas ya da babası Gordias'a bağlandığı belirtilir. 2023 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 143,
+		"name": "Phaselis Antik Kenti",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 30.55222,
+		"lat": 36.52361,
+		"summary": "Kemer ilçesinde bulunan Likya antik kentidir. Rodoslular tarafından MÖ 690 civarında kurulduğu belirtilir; iki liman arasındaki bir istmüs üzerinde kurulu olduğu için Likya'nın doğusundaki en önemli liman kentlerinden biri olmuştur. Korsan saldırıları nedeniyle 3. yüzyıldan sonra gerilemiş ve 11. yüzyılda büyük ölçüde terk edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 144,
+		"name": "Olympos Antik Kenti",
+		"category": "ancient",
+		"province": "Antalya",
+		"lng": 30.4725,
+		"lat": 36.39611,
+		"summary": "Çıralı yakınlarında, derin bir vadi içinde kurulmuş Likya antik kentidir. Likya Birliği'nin altı kentinden biri olup birliğe üç oyla temsil edilmiştir. 5. yüzyılda piskoposluk merkezi olmuş, Arap akınları sırasında veya sonrasında terk edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 145,
+		"name": "Kurşunlu Şelalesi",
+		"category": "nature",
+		"province": "Antalya",
+		"lng": 30.821,
+		"lat": 37.003,
+		"summary": "Antalya'da, Aksu Nehri'nin bir kolu üzerinde, çam ormanı içinde yer alan şelaledir. 586,5 hektarlık tabiat parkının içindedir ve 1991 yılında Çevre ve Orman Bakanlığı tarafından tabiat parkı ilan edilmiştir. Vikipedi'ye göre yaz aylarında akış çok azalır.",
+		"verified": false
+	},
+	{
+		"id": 146,
+		"name": "Çıldır Gölü",
+		"category": "nature",
+		"province": "Ardahan",
+		"lng": 43.2552778,
+		"lat": 41.0425,
+		"summary": "Çıldır ilçesinde bulunan, yaklaşık 123 km² yüzölçümlü bir göldür; yüksekliği yaklaşık 1.959 metredir. Kış aylarında donar.",
+		"verified": false
+	},
+	{
+		"id": 147,
+		"name": "Ardahan Kalesi",
+		"category": "castle",
+		"province": "Ardahan",
+		"lng": 42.7032,
+		"lat": 41.1177,
+		"summary": "Ardahan'da Kura Nehri kenarında yer alan kaledir. Vikipedi'ye göre ilk yapısı 12. yüzyılda Selçuklu döneminde yapılmış, 16. yüzyılda Kanuni Sultan Süleyman tarafından yenilenmiştir. Çok sayıda kulesi ve iç bahçesiyle bilinir ve bugün ziyarete açıktır.",
+		"verified": false
+	},
+	{
+		"id": 148,
+		"name": "Gevhernik Kalesi",
+		"category": "castle",
+		"province": "Artvin",
+		"lng": 42.05472,
+		"lat": 41.12667,
+		"summary": "Ardanuç ilçesinde, Adakale mevkiinde bulunan ortaçağ kalesi; tarihsel Klarceti bölgesinin merkeziydi. Kale büyük ölçüde yıkılmış olup birinci derece arkeolojik sit alanıdır ve 2021'den itibaren kazılar yapılmaktadır. Kale içinde Petre-Pavle Kilisesi harabesi bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 149,
+		"name": "Alinda",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 27.82972,
+		"lat": 37.55806,
+		"summary": "Karpuzlu ilçesinde, Karpuzlu Ovası'na bakan antik Karya kenti. Kaynaklarda Roma dönemine ait bir su kemeri, pazar yeri ve yaklaşık 5.000 kişilik tiyatro kalıntılarından söz edilmektedir. Kent, MÖ 334'te Büyük İskender'i karşılamasıyla da anılır.",
+		"verified": false
+	},
+	{
+		"id": 150,
+		"name": "Nysa",
+		"category": "ancient",
+		"province": "Aydın",
+		"lng": 28.14667,
+		"lat": 37.90167,
+		"summary": "Sultanhisar'da, Messogis Dağı'nın güney yamacında yer alan antik kent. Tiyatrosu Dionysos konulu friz kabartmalarıyla bilinir; 2. yüzyıla tarihlenen kütüphanesi, kaynağa göre Efes'teki Celsus Kütüphanesi'nden sonra Türkiye'de en iyi korunmuş ikinci antik kütüphanedir. Kent, 1402'de Timur tarafından yağmalanmıştır.",
+		"verified": false
+	},
+	{
+		"id": 151,
+		"name": "Antandros",
+		"category": "ancient",
+		"province": "Balıkesir",
+		"lng": 26.79056,
+		"lat": 39.57583,
+		"summary": "Edremit ilçesinde, Altınoluk Mahallesi yakınlarında, Troas bölgesinde yer alan antik kent. Kaz Dağı'ndan sağlanan kereste ihracatıyla zenginleşmiştir; kazılarda mozaikli bir Roma dönemi villası, kanalizasyon ağı ve çok sayıda lahit ortaya çıkarılmıştır. Buluntuların bir kısmı Bursa Arkeoloji Müzesi'nde sergilenmektedir.",
+		"verified": false
+	},
+	{
+		"id": 152,
+		"name": "Güzelcehisar Bazalt Sütunları",
+		"category": "nature",
+		"province": "Bartın",
+		"lng": 32.2042,
+		"lat": 41.6464,
+		"summary": "Bartın'ın Güzelcehisar köyü kıyısında, yaklaşık 80 milyon yıl önce oluşmuş beşgen prizma biçimli bazalt sütunları. Alan 14 Ağustos 2017'de tabiat anıtı olarak ilan edilmiştir. Sütunların yaklaşık 50 metre yükseklikte ve 5 kilometre uzunlukta olduğu belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 153,
+		"name": "Zeynel Bey Türbesi",
+		"category": "monument",
+		"province": "Batman",
+		"lng": 41.42278,
+		"lat": 37.725,
+		"summary": "Hasankeyf'te, Akkoyunlu hükümdarı Uzun Hasan'ın 1473'te Otlukbeli Savaşı'nda ölen oğlu Zeynel Bey için yaptırdığı türbe. Mimarı İran asıllı Pîr Hüseyin'dir. Ilısu Barajı nedeniyle yapı, 2017'de yaklaşık 2 km uzağa taşınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 154,
+		"name": "Bayburt Kalesi",
+		"category": "castle",
+		"province": "Bayburt",
+		"lng": 40.22944,
+		"lat": 40.26361,
+		"summary": "Bayburt şehrine hakim bir tepede yer alan tarihi kale. Yaptıranı ve ilk yapım tarihi bilinmemekle birlikte Bizans, Selçuklu, Saltuklu ve Danişmendli dönemlerinde onarılıp güçlendirilmiş, 1514'te Osmanlılar tarafından alınmıştır. Arkeolojik çalışma ve restorasyon 2017'de başlamıştır.",
+		"verified": false
+	},
+	{
+		"id": 155,
+		"name": "Şeyh Edebali Türbesi",
+		"category": "monument",
+		"province": "Bilecik",
+		"lng": 29.98833,
+		"lat": 40.14361,
+		"summary": "Bilecik'in Cumhuriyet Mahallesi'nde, bir tepede yer alan türbe ve zaviye kompleksi. Osman Gazi'nin kayınpederi ve hocası Şeyh Edebali ile eşi Râbi'a Bala Hâtun'un burada yattığı belirtilmektedir; yapıyı Orhan Gazi'nin yaptırdığı kaydedilmektedir. Kurtuluş Savaşı sırasında tahrip olan kubbesi yerine kiremit çatı yapılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 156,
+		"name": "Ertuğrul Gazi Türbesi",
+		"category": "monument",
+		"province": "Bilecik",
+		"lng": 30.17939,
+		"lat": 40.0255,
+		"summary": "Söğüt ilçesinde, Osman Gazi'nin babası Ertuğrul Gazi'nin sekizgen kubbeli türbesi. Yapım tarihi kesin olarak bilinmemekle birlikte 13. yüzyıl sonlarına tarihlenmektedir. Kaynağa göre 1921'de Yunan işgali sırasında dinamitle havaya uçurulmuştur.",
+		"verified": false
+	},
+	{
+		"id": 157,
+		"name": "Bitlis Kalesi",
+		"category": "castle",
+		"province": "Bitlis",
+		"lng": 42.1075,
+		"lat": 38.40167,
+		"summary": "Bitlis şehir merkezinde, dik kayalıklar üzerine kurulu kale. Kaynaklarda MÖ 312'de Büyük İskender'in komutanlarından Badlis tarafından yaptırıldığı belirtilmektedir. Surları yaklaşık 2.800 metre uzunluğundadır ve 670 mazgalı vardır; günümüze yalnızca kale ayakta kalmıştır.",
+		"verified": false
+	},
+	{
+		"id": 158,
+		"name": "İznik Ayasofyası",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.72015,
+		"lat": 40.4292,
+		"summary": "Bizans döneminde bazilika olarak yapılan yapının bugünkü hali büyük ölçüde yaklaşık 1065 civarındaki yeniden inşaya dayanır; daha önce depremde yıkılan Justinianus dönemi kilisenin yerine yapılmıştır. Osmanlı döneminde cami, ardından müze olarak kullanılmış, kaynağa göre yeniden cami olarak hizmet vermektedir.",
+		"verified": false
+	},
+	{
+		"id": 159,
+		"name": "Alexandria Troas",
+		"category": "ancient",
+		"province": "Çanakkale",
+		"lng": 26.15861,
+		"lat": 39.75167,
+		"summary": "Çanakkale'nin Ezine ilçesinde, Dalyan köyünün güneydoğusunda yer alan, yaklaşık 400 hektarlık bir Antik Yunan kenti. Kalıntıları arasında hamam, odeion, tiyatro, gymnasium kompleksi ve yakın zamanda ortaya çıkarılan bir stadyum bulunur; eski surlarının bazı kısımları izlenebilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 160,
+		"name": "Kilitbahir Kalesi",
+		"category": "castle",
+		"province": "Çanakkale",
+		"lng": 26.379565,
+		"lat": 40.147656,
+		"summary": "Çanakkale Boğazı'nın batı kıyısında, karşısındaki Çanakkale kalesiyle aynı görevi üstlenen bir kale. Kaynağa göre Fatih Sultan Mehmet tarafından 1463'te, boğazın en dar noktasını korumak için yapılmıştır; adı 'denizin kilidi' anlamına gelir.",
+		"verified": false
+	},
+	{
+		"id": 161,
+		"name": "Abant Gölü",
+		"category": "nature",
+		"province": "Bolu",
+		"lng": 31.267,
+		"lat": 40.6,
+		"summary": "Abant Dağları'nda, deniz seviyesinden yaklaşık 1.328 metre yükseklikte, yeraltı suyuyla beslenen krater-set gölü. Yaklaşık 127 hektar yüzölçümüne sahip olan göl, Abant alabalığı gibi endemik türlere ev sahipliği yapmaktadır. Kaynağa göre alan 1988'de tabiat parkı olarak korunmuş, 2022'de milli park ilan edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 162,
+		"name": "Kibyra",
+		"category": "ancient",
+		"province": "Burdur",
+		"lng": 29.4892,
+		"lat": 37.1601,
+		"summary": "Burdur'un Gölhisar ilçesinde, Cibyratis devletinin merkezi olan antik Yunan kenti. MÖ 2. yüzyılda güçlenen kentin kalıntıları arasında iyi korunmuş bir tiyatro, Medusa mozaikli bir odeion ve bir stadyum bulunmaktadır. Depremler ve gerilemenin ardından 8. yüzyılda kent terk edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 163,
+		"name": "Alacahöyük",
+		"category": "ancient",
+		"province": "Çorum",
+		"lng": 34.69556,
+		"lat": 40.23444,
+		"summary": "Çorum'un Alaca ilçesinde bir höyük ve ören yeri. Kalkolitik Çağ'dan Hitit, Frig, Roma, Bizans ve Osmanlı dönemlerine uzanan yerleşim katmanları bulunur. Erken Tunç Çağı kraliyet mezarlarından çıkan altın ve bronz eserler ile Hitit dönemine (MÖ 14. yüzyıl) tarihlenen Sfenksli Kapı ile bilinir.",
+		"verified": false
+	},
+	{
+		"id": 164,
+		"name": "Kaklık Mağarası",
+		"category": "cave",
+		"province": "Denizli",
+		"lng": 29.38528,
+		"lat": 37.87333,
+		"summary": "Denizli ilinde, 2002'de ziyarete açılmış turistik mağara. İçinde sarkıt, dikit ve travertenler ile dibinde küçük bir termal göl bulunur; yakındaki Pamukkale'ye atfen 'küçük Pamukkale' olarak anılır.",
+		"verified": false
+	},
+	{
+		"id": 165,
+		"name": "Kolossai",
+		"category": "ancient",
+		"province": "Denizli",
+		"lng": 29.26,
+		"lat": 37.78667,
+		"summary": "Honaz yakınlarında, yün ticareti ve şifalı kaynaklarıyla bilinen Frig dönemi kenti. MÖ 5. yüzyılda önemli bir kent olan Kolossai, Yeni Ahit'teki Koloseliler'e Mektup'un muhatap olduğu erken Hristiyan topluluğunun yeri olarak da anılır.",
+		"verified": false
+	},
+	{
+		"id": 166,
+		"name": "Zerzevan Kalesi",
+		"category": "castle",
+		"province": "Diyarbakır",
+		"lng": 40.49917,
+		"lat": 37.60806,
+		"summary": "Diyarbakır ilinde, Amida (Diyarbakır) ile Dara arasındaki antik yolu korumak için 4. yüzyılda Doğu Roma İmparatorluğu tarafından yapılmış bir askeri üs. Kuzeyindeki yeraltı Mithras tapınağına ev sahipliği yapmıştır; alan 'Zerzevan Castle and Mithraeum' adıyla UNESCO Dünya Mirası Geçici Listesi'nde yer almaktadır.",
+		"verified": false
+	},
+	{
+		"id": 167,
+		"name": "Efteni Gölü",
+		"category": "nature",
+		"province": "Düzce",
+		"lng": 31.04835,
+		"lat": 40.7766556,
+		"summary": "Düzce ovasının en alçak noktasında, Düzce merkez ile Gölyaka sınırında yer alan tektonik kökenli tatlı su gölü. 1992'de Orman Bakanlığı tarafından koruma altına alınmış, 2005'te çevresinde 76 hektarlık bir yaban hayatı geliştirme sahası oluşturulmuştur.",
+		"verified": false
+	},
+	{
+		"id": 168,
+		"name": "Çankırı Tuz Mağarası",
+		"category": "cave",
+		"province": "Çankırı",
+		"lng": 33.759633,
+		"lat": 40.544362,
+		"summary": "Balıbağı Köyü sınırları içinde, Çankırı'ya yakın bir tuz madeni. 2019'da ziyarete açılan maden içinde tuz heykeller, korunmuş hayvan kalıntıları ve madencilik ekipmanları sergilenmekte; çalışan madende tuz üretimi sürmektedir.",
+		"verified": false
+	},
+	{
+		"id": 169,
+		"name": "Üç Şerefeli Camii",
+		"category": "monument",
+		"province": "Edirne",
+		"lng": 26.55361,
+		"lat": 41.67806,
+		"summary": "Edirne'deki Osmanlı camisi; yapım tarihi ve yaptıranı tartışmalıdır, kaynakta 1437–1447 aralığı verilir. Mimarisi Mimar Sinan'ın hocası olduğu belirtilen Hacı Muslihiddin Ağa'ya atfedilir. Dört minaresinden en yükseğinin üç şerefesi bulunduğu için adını almıştır.",
+		"verified": false
+	},
+	{
+		"id": 170,
+		"name": "Harput Kalesi",
+		"category": "castle",
+		"province": "Elazığ",
+		"lng": 39.2575,
+		"lat": 38.70333,
+		"summary": "Harput'taki kale, kaynağa göre M.Ö. 8. yüzyılda Urartular tarafından inşa edilmiştir; iç kale ve dış surlardan oluşur. Harput İç Kale'de 2005'ten beri süren kazılarda cami, konut ve 36 metre derinliğinde bir su sarnıcı ortaya çıkarılmıştır. Halk arasında harcın süt ve yumurtayla hazırlandığı anlatıldığı için 'Süt Kalesi' olarak da anılır.",
+		"verified": false
+	},
+	{
+		"id": 171,
+		"name": "Karanlık Kanyon",
+		"category": "nature",
+		"province": "Erzincan",
+		"lng": 38.4975,
+		"lat": 39.27,
+		"summary": "Karasu Nehri'nin Munzur Dağları'nı kesmesiyle oluşan, yaklaşık 25 km uzunluğunda ve 1.000 m derinliğinde bir kanyon. Kaya tırmanışı, kanyoning ve tekne turları için kullanılır. UNESCO Dünya Mirası Geçici Listesi'ne 2021'de Kemaliye kent merkeziyle birlikte eklenmiştir.",
+		"verified": false
+	},
+	{
+		"id": 172,
+		"name": "Kemaliye Tarihi Konutları",
+		"category": "monument",
+		"province": "Erzincan",
+		"lng": 38.4967,
+		"lat": 39.2608,
+		"summary": "Erzincan'ın Kemaliye ilçesindeki tarihi konut dokusu; evler iki, üç veya dört katlıdır ve zemin katları taştan inşa edilmiştir. Kapı tokmaklarının sesinin misafirin cinsiyetine göre farklı olduğu, ev sahibinin de bu sese göre belirlendiği anlatılır.",
+		"verified": false
+	},
+	{
+		"id": 173,
+		"name": "Girlevik Şelalesi",
+		"category": "nature",
+		"province": "Erzincan",
+		"lng": 39.73083,
+		"lat": 39.58583,
+		"summary": "Erzincan Merkez ilçesi Çağlayan köyünde, üç kademe halinde 30–40 metre yükseklikten dökülen bir şelale. 1990 yılında doğal sit alanı ilan edilmiş, 1953'te aynı alanda hidroelektrik santral kurulmuştur. Kışın suyu donan şelale buz tırmanışçılarının kullandığı bir alandır.",
+		"verified": false
+	},
+	{
+		"id": 174,
+		"name": "Altıntepe Ören Yeri",
+		"category": "ancient",
+		"province": "Erzincan",
+		"lng": 39.64667,
+		"lat": 39.69639,
+		"summary": "Erzincan'ın Üzümlü ilçesinde, Erzincan–Erzurum yolu üzerindeki bir tepede yer alan, MÖ 9.–7. yüzyıllara tarihlenen Urartu kalesi ve tapınak alanı. 1959–1968 kazılarında saray veya tapınak, büyük salon, depo, surlar ve üç yeraltı mezar odası ortaya çıkarılmıştır. Sonraki dönemde Bizans merkezi olmuş, üç nefli kilise ve mozaik zeminler bulunmaktadır; alan bugün harabedir.",
+		"verified": false
+	},
+	{
+		"id": 175,
+		"name": "Erzurum Kalesi",
+		"category": "castle",
+		"province": "Erzurum",
+		"lng": 41.27721,
+		"lat": 39.90779,
+		"summary": "Erzurum'un tarihi merkezinde, Çifte Minareli Medrese'nin yakınında yer alan kale; Bizanslılar tarafından 422 yılında yapılan bir kale üzerine kurulmuştur. Saltuklular 12. yüzyılda kaleyi değiştirmiş, bugün kalan duvarların büyük bölümü bu döneme aittir. Kalede 12. yüzyıl tuğla minare ve 19. yüzyıl saat kulesi bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 176,
+		"name": "Üç Kümbetler",
+		"category": "monument",
+		"province": "Erzurum",
+		"lng": 41.27861,
+		"lat": 39.90389,
+		"summary": "Erzurum'un Yakutiye ilçesinde, 12.–14. yüzyıllar arasında yapıldığı düşünülen üç kümbet. En büyüğü, 12. yüzyıla tarihlenen Emir Saltuk Kümbeti'dir; sekizgen gövdesi, iki renkli kesme taşı ve nişlerindeki hayvan kabartmalarıyla öne çıkar.",
+		"verified": false
+	},
+	{
+		"id": 177,
+		"name": "Midas Anıtı",
+		"category": "ancient",
+		"province": "Eskişehir",
+		"lng": 30.717,
+		"lat": 39.2,
+		"summary": "Eskişehir'in Han ilçesi, Yazılıkaya mahallesinde kayalığa oyulmuş, tapınak cepheli bir Frig anıtı. Kaynaklara göre MÖ 7. yüzyıla tarihlenir; 17 metre yüksekliğindeki cephe geometrik bezemelidir. Üstteki Frig alfabeli yazıtta Kybele'ye adanma ve Midas'ın onurlandırılması geçer; eskiden Kral Midas'ın mezarı sanılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 178,
+		"name": "Rumkale",
+		"category": "castle",
+		"province": "Gaziantep",
+		"lng": 37.8379167,
+		"lat": 37.2707778,
+		"summary": "Fırat ile Merzimen Çayı'nın birleştiği yüksek bir tepede kurulmuş kale; Nizip-Birecik Barajı'nın gölü nedeniyle bugün bir yarımada üzerinde yer alır. İçinde Aziz Nerses Kilisesi, Barşavma Manastırı, su sarnıçları ve çok sayıda yapı kalıntısı bulunmaktadır. Adı antik dönemden beri birkaç kez değişmiştir.",
+		"verified": false
+	},
+	{
+		"id": 179,
+		"name": "Dülük Antik Kenti",
+		"category": "ancient",
+		"province": "Gaziantep",
+		"lng": 37.367,
+		"lat": 37.15,
+		"summary": "Gaziantep'in Şehitkamil ilçesinde yer alan antik kent; sayfaya göre Türkiye'de hâlâ iskân edilen en eski kent olarak tanımlanır. Hitit, Med, Asur, Pers ve İskender hâkimiyetlerinin ardından önemi, yakındaki Antiochia ad Taurum'un (bugünkü Gaziantep) kurulmasıyla azalmıştır. Buluntular arasında yeraltı Mitra Tapınağı ve kaya mezarları bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 180,
+		"name": "Giresun Kalesi",
+		"category": "castle",
+		"province": "Giresun",
+		"lng": 38.391831,
+		"lat": 40.921458,
+		"summary": "Giresun'un kent merkezine hâkim bir tepede yer alan kale; M.Ö. 2. yüzyılda Pontus Krallığı tarafından yapıldığı düşünülmektedir. Sonraki dönemlerde Trabzon İmparatorluğu ve Osmanlı tarafından kullanılmış, surları, kule kalıntıları ve Topal Osman Ağa'nın türbesi bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 181,
+		"name": "Karaca Mağarası",
+		"category": "cave",
+		"province": "Gümüşhane",
+		"lng": 39.40278,
+		"lat": 40.54417,
+		"summary": "Gümüşhane'nin Torul ilçesi, Cebeli köyünde bulunan mağara; yaklaşık 105 m uzunluğunda ve ortalama 18 m tavan yüksekliğindedir. Sarkıt, dikit, sütun, travertenli havuz ve mağara incileri gibi damlataş oluşumları barındırır. 1983'te bir jeolog tarafından keşfedilmiş, 1996'da ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 182,
+		"name": "Saint Pierre Kilisesi (Anıt Müze)",
+		"category": "monument",
+		"province": "Hatay",
+		"lng": 36.17806,
+		"lat": 36.20944,
+		"summary": "Antakya'nın yaklaşık 2 km uzağında, Habib-i Neccar Dağı yakınında bulunan doğal bir mağaradır ve sonradan kiliseye dönüştürülmüştür. Kesin inşa tarihi bilinmemekle birlikte Aziz Pierre'in burada vaaz verdiğine inanılmaktadır. Mağara tabanında MS 4-5. yüzyıllara ait mozaik kalıntıları bulunmakta olup yer 2011 yılında UNESCO Dünya Mirası Geçici Listesi'ne eklenmiştir.",
+		"verified": false
+	},
+	{
+		"id": 183,
+		"name": "Karakoyunlu Koçbaşlı Açık Hava Müzesi",
+		"category": "museum",
+		"province": "Iğdır",
+		"lng": 44.17278,
+		"lat": 39.9725,
+		"summary": "Iğdır şehir merkezinin yaklaşık 15 km kuzeydoğusunda, Karakoyunlu ilçesinde bulunan açık hava müzesidir. Sergilenen koç başı biçimli mezar taşları Karakoyunlular dönemine aittir ve Ağrı Dağı'ndaki siyah bazalttan yapılmıştır. Taşlar Karakoyunlu ilçesi ve Yaycı köyü mezarlığından getirilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 184,
+		"name": "Tuz Mağaraları",
+		"category": "cave",
+		"province": "Iğdır",
+		"lng": 43.66083,
+		"lat": 40.04944,
+		"summary": "Tuzluca ilçe merkezinde, Tuz Dağı'nın içinde yer alan mağaralardır. Kaya tuzu tabakalarının 24-37 milyon yıl önce oluştuğu düşünülmektedir. Mağaranın içi yıl boyunca yaklaşık 12 derece sıcaklıktadır.",
+		"verified": false
+	},
+	{
+		"id": 185,
+		"name": "Pisidia Antiokheia Antik Kenti",
+		"category": "ancient",
+		"province": "Isparta",
+		"lng": 31.18917,
+		"lat": 38.30611,
+		"summary": "Yalvaç ilçesinin yaklaşık 1 km kuzeydoğusunda, Sultan Dağları'nın güney yamaçlarında yer alan antik kenttir. Roma ve Bizans dönemine ait kalıntılar bulunur; kuzeyde su kemerleri, nymphaeum ve hamam, merkezde tiyatro ve Tiberius Alanı yer alır. Kentin kurulduğu dönem için Seleukos hanedanı dönemi (MÖ 3. yüzyıl) kabul edilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 186,
+		"name": "Eğirdir Gölü",
+		"category": "nature",
+		"province": "Isparta",
+		"lng": 30.88833,
+		"lat": 37.99361,
+		"summary": "Isparta'nın ortasında, Sultan ve Karakuş Dağları arasında yer alan karstik kökenli bir göldür. Kuzey-güney yönünde yaklaşık 50 km uzanır ve deniz seviyesinden 916 m yüksekliktedir. Kuzeydeki kısmı Hoyran Gölü, güneydeki kısmı Eğirdir Gölü olarak adlandırılır; Can Ada ve Yeşilada su seviyesinin düşmesiyle Eğirdir'e bağlanmıştır.",
+		"verified": false
+	},
+	{
+		"id": 187,
+		"name": "Kariye Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.93903,
+		"lat": 41.03122,
+		"summary": "Justinianus döneminde (527-565) inşa edilmiş, Komnenos döneminde saray şapeli olarak kullanılmış Bizans kilisesidir. 1511'de Hadım Ali Paşa tarafından camiye çevrilmiş, 1945'te müze olmuş, 2020 tarihli cumhurbaşkanlığı kararıyla yeniden camiye dönüştürülmüştür. Kaynağa göre bina şu an cami olarak kullanılmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 188,
+		"name": "Yerebatan Sarnıcı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97778,
+		"lat": 41.00806,
+		"summary": "Justinianus tarafından 532 yılında inşa ettirilen, Stoa Bazilikası'nın altında yer alan sarnıçtır. Yaklaşık 140 x 70 m ölçülerinde olup 336 sütunludur ve yaklaşık 100.000 ton su kapasitesine sahiptir. Su, Bozdoğan ve Mağlova su kemerleri üzerinden getirilmiştir; sarnıç 1985'teki restorasyonun ardından 1987'de ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 189,
+		"name": "Galata Kulesi",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97416,
+		"lat": 41.02566,
+		"summary": "Kulenin ilk hali MS 507-508 yılında Justinianus tarafından inşa edilmiştir; bugünkü yapı Cenevizliler tarafından 1348-49'da yeniden yapılmıştır. Üçüncü kata kadar Ceneviz, sonraki katlar Osmanlı karakterindedir. Kule 2013 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 190,
+		"name": "Agora Ören Yeri (Smyrna Agorası)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.13778,
+		"lat": 38.41889,
+		"summary": "Antik Smyrna kentinin devlet agorası olan alan, Konak'ta Kemeraltı ile Kadifekale arasında yer alır. Kalıntıların önemli bir kısmı MS 2. yüzyıla tarihlenir; yapı Hippodamos kent planına uygun olarak üç kademeli inşa edilmiştir. Yazıtlar, 178 depreminden sonra kente yardım edenler hakkında bilgi verir.",
+		"verified": false
+	},
+	{
+		"id": 191,
+		"name": "Kadifekale",
+		"category": "castle",
+		"province": "İzmir",
+		"lng": 27.14583,
+		"lat": 38.41389,
+		"summary": "İzmir merkezinde, körfeze hâkim bir tepede ve deniz seviyesinden 186 metre yükseklikte yer alan kaledir. Kaynağa göre M.Ö. 3. yüzyılda Büyük İskender'in talimatıyla generali Lysimachos tarafından yaptırılmıştır. Doğu ve güney surları yıkılmış; kuzey ve doğu surları ile beş kule ayakta kalmıştır. İçinde Bizans dönemine ait kemerli bir sarnıç ve bir mescit kalıntısı bulunur.",
+		"verified": false
+	},
+	{
+		"id": 192,
+		"name": "Kahramanmaraş Kalesi",
+		"category": "castle",
+		"province": "Kahramanmaraş",
+		"lng": 36.92583,
+		"lat": 37.58639,
+		"summary": "Kahramanmaraş'ın merkezinde, bir tepe üzerinde yer alan kaledir. Kaynağa göre Geç Hitit döneminde yapılmıştır; Asurlu, Med, Pers, Roma, Bizans, Anadolu Selçukluları, Osmanlı ve Cumhuriyet dönemlerinde onarım ve eklemeler görmüştür. Kare planlı kule ile dikdörtgen planlı surlardan oluşur.",
+		"verified": false
+	},
+	{
+		"id": 193,
+		"name": "Binbir Kilise (Karadağ)",
+		"category": "ancient",
+		"province": "Karaman",
+		"lng": 33.14417,
+		"lat": 37.43722,
+		"summary": "Karadağ üzerinde, Binbir Kilise olarak bilinen ören yerinde birçok kilise, manastır, bazilika ve şapel bulunmaktadır. Kaynağa göre Bizans döneminde Karaman, önemli Hristiyan merkezlerinden biriydi.",
+		"verified": false
+	},
+	{
+		"id": 194,
+		"name": "Hadrianapolis Antik Kenti",
+		"category": "ancient",
+		"province": "Karabük",
+		"lng": 32.4913,
+		"lat": 40.9258,
+		"summary": "Eskipazar ilçesinin yaklaşık 3 km batısında, Viranşehir mevkiinde yer alan antik kenttir. Kalıntılar arasında MS 6. yüzyıla ait üç Erken Bizans kilisesi bulunur. Kiliselerden birinde, kadın, erkek, hayvan ve meyve figürlü dört önemli mozaik ortaya çıkarılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 195,
+		"name": "Bulak (Mencilis) Mağarası",
+		"category": "cave",
+		"province": "Karabük",
+		"lng": 32.62444,
+		"lat": 41.27472,
+		"summary": "Karabük'ün Bulak Köyü sınırları içinde, Safranbolu ilçesiyle sınırdaş bir doğal mağaradır ve Doğal Varlık olarak tescillidir. Portala göre toplam uzunluğu 6,5 km olup 2,5 km'lik kısmı haritalanmıştır. Mağaranın 380 metrelik bölümü elektrifiye edilmiş ve yürüyüş parkuru yapılarak ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 196,
+		"name": "Kümbet Camii (Havariler Kilisesi)",
+		"category": "monument",
+		"province": "Kars",
+		"lng": 43.09144,
+		"lat": 40.61131,
+		"summary": "Kars Kaleiçi'nde bulunan yapı, Bagrat Kralı Abbas tarafından MS 932-937 yılları arasında On İki Havari onuruna yaptırılmış bir kilisedir. 1064'te Selçukluların Kars'ı fethinden sonra camiye çevrilmiş, Rus idaresi döneminde 1878'de yeniden kiliseye dönüştürülmüştür. Vakıflar Genel Müdürlüğü tarafından restore edilmiş olup kayıtlara göre son restorasyon 2007'dir.",
+		"verified": false
+	},
+	{
+		"id": 197,
+		"name": "Kastamonu Kalesi",
+		"category": "castle",
+		"province": "Kastamonu",
+		"lng": 33.76972,
+		"lat": 41.37444,
+		"summary": "Kastamonu'da bulunan Orta Çağ kalesidir. Vikipedi kaynağına göre Bizans komutanı Manuel Erotikos Komnenos tarafından 10. yüzyılda yapıldığı belirtilir ve kalenin özgün adı Kastra Komnenon'dur. Kale, kısmen ayakta olarak günümüze ulaşmıştır.",
+		"verified": false
+	},
+	{
+		"id": 198,
+		"name": "Pompeiopolis",
+		"category": "ancient",
+		"province": "Kastamonu",
+		"lng": 34.213,
+		"lat": 41.517,
+		"summary": "Taşköprü ilçesinde yer alan, Roma dönemine tarihlenen antik kenttir. Kentin Pompeius'un yönlendirmesiyle kurulduğu ve kuruluş tarihinin MÖ 65 olarak verildiği belirtilir. Kazılarda tiyatro, odeion, sekizgen macellum yapısı ve peristilli bir Roma evi (domus) ortaya çıkarılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 199,
+		"name": "Kültepe-Kaniş Karum",
+		"category": "ancient",
+		"province": "Kayseri",
+		"lng": 35.6367,
+		"lat": 38.8523,
+		"summary": "Kayseri'de bulunan, MÖ 3. binyılın başına tarihlenen yerleşimin höyük ve alt kent (karum) kalıntılarından oluşan arkeolojik alandır. Kaynakta sitenin yaklaşık 23.500 çivi yazılı tablet verdiği ve en büyük özel metin koleksiyonlarından biri olduğu belirtilir. Alan 2014'ten beri Türkiye'nin UNESCO Dünya Mirası Geçici Listesi'nde yer alır.",
+		"verified": false
+	},
+	{
+		"id": 200,
+		"name": "Erciyes Dağı",
+		"category": "nature",
+		"province": "Kayseri",
+		"lng": 35.45,
+		"lat": 38.53167,
+		"summary": "Kayseri'nin güneybatısında yükselen, 3.917 metre yüksekliğindeki sönmüş bir stratovolkandır. Kaynakta son püskürmesinin MÖ 253 civarında olduğu tahmin edildiği ve İç Anadolu'nun en yüksek dağı olduğu belirtilir.",
+		"verified": false
+	},
+	{
+		"id": 201,
+		"name": "Sultan Sazlığı",
+		"category": "park",
+		"province": "Kayseri",
+		"lng": 35.26611,
+		"lat": 38.33361,
+		"summary": "Kayseri'nin Yeşilhisar ilçesinde yer alan, yaklaşık 39.000 hektarlık sulak alandır. Alan, 1994 tarihli Ramsar Sözleşmesi kapsamında sulak alan olarak kayıtlıdır. Kaynakta 1971'de yaban hayatı koruma ve üreme alanı ilan edildiği belirtilir.",
+		"verified": false
+	},
+	{
+		"id": 202,
+		"name": "Dupnisa Mağarası",
+		"category": "cave",
+		"province": "Kırklareli",
+		"lng": 27.56389,
+		"lat": 41.85861,
+		"summary": "Demirköy ilçesi Sarpdere köyünde yer alan, 3.150 metre uzunluğunda iki katlı bir mağaradır. Kaynakta Trakya'da turizme açılmış tek mağara olduğu belirtilir. Kız Mağarası girişi, yarasaların üremesi nedeniyle 15 Kasım-15 Mayıs tarihleri arasında ziyarete kapalıdır.",
+		"verified": false
+	},
+	{
+		"id": 203,
+		"name": "Aya Nikola Manastırı",
+		"category": "monument",
+		"province": "Kırklareli",
+		"lng": 28.08472,
+		"lat": 41.63389,
+		"summary": "Vize ilçesi Kıyıköy'de yer alan, kayaya oyulmuş Bizans dönemi manastırıdır. Kaynakta 6. yüzyılda Justinianus dönemine tarihlendiği ve dünyanın en eski kaya oyma manastırlarından biri olduğu belirtilir. Kilisesi zemin katta, kutsal su (ayazma) ise alt katta bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 204,
+		"name": "Cacabey Medresesi",
+		"category": "monument",
+		"province": "Kırşehir",
+		"lng": 34.16135,
+		"lat": 39.14516,
+		"summary": "Kırşehir şehir merkezinde yer alan Anadolu Selçuklu dönemi medresesidir. Kaynakta H. 671 / M. 1272 yılında Kırşehir valisi Nureddin Cibril bin Cacabey tarafından yaptırıldığı ve 2014'te UNESCO Dünya Mirası Geçici Listesi'ne alındığı belirtilir. Yapı bugün cami olarak kullanılmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 205,
+		"name": "Kubadabad Sarayı",
+		"category": "monument",
+		"province": "Konya",
+		"lng": 31.43889,
+		"lat": 37.74333,
+		"summary": "Beyşehir ilçesinde, Selçuklu Sultanı I. Alâeddin Keykubad döneminde 1226-1236 yılları arasında yapılmış saray kalıntısıdır. Kaynakta Anadolu Selçuklu Devleti'nden günümüze ulaşan tek saray yapısı olduğu ve mimarının Sadeddin Köpek olduğu belirtilir.",
+		"verified": false
+	},
+	{
+		"id": 206,
+		"name": "Eflatun Pınarı",
+		"category": "ancient",
+		"province": "Konya",
+		"lng": 31.6747,
+		"lat": 37.8257,
+		"summary": "Beyşehir ilçesinde, iki doğal su kaynağının çıktığı bir höyük üzerindeki Hitit dönemi anıtıdır. Kaynakta MÖ 14. yüzyıla tarihlenen Geç Hitit kalıntıları olduğu belirtilir. 2014'te 'Hitit Kutsal Su Tapınağı' adıyla UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 207,
+		"name": "Beyşehir Gölü",
+		"category": "nature",
+		"province": "Konya",
+		"lng": 31.5075,
+		"lat": 37.78194,
+		"summary": "Konya ve Isparta illerinde yer alan, tektonik kökenli tatlı su gölüdür. Kaynakta Türkiye'nin üçüncü büyük gölü ve en büyük tatlı su gölü olduğu, 2011 itibarıyla alanının 663 km² olduğu belirtilir. Gölün yaklaşık yüzde 80'lik kısmı Konya sınırları içinde kalmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 208,
+		"name": "Kütahya Kalesi",
+		"category": "castle",
+		"province": "Kütahya",
+		"lng": 29.96972,
+		"lat": 39.41944,
+		"summary": "Kütahya şehir merkezinde, yüksek ve dik bir tepe üzerinde yer alan Bizans kökenli kaledir. Kaynakta on iki burçlu yapısının kısmen ayakta olduğu ve kalenin mavimsi kırmızı bir kaya üzerinde beşgen planlı olduğu belirtilir.",
+		"verified": false
+	},
+	{
+		"id": 209,
+		"name": "Arslantepe Höyüğü",
+		"category": "ancient",
+		"province": "Malatya",
+		"lng": 38.36111,
+		"lat": 38.38194,
+		"summary": "Tohma Çayı kenarında, Kalkolitik dönemden Demir Çağı'na kadar yerleşilmiş antik höyük (Melid olarak da bilinir). Vikipedi'ye göre 1932'de Louis Delaporte önderliğinde kazılmaya başlanmış, Geç Uruk dönemine ait tapınak-saray kompleksi ve Erken Tunç Çağı'na tarihlenen 'Kraliyet Mezarı' bulunmuştur. Höyük 2021'de UNESCO Dünya Mirası Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 210,
+		"name": "Tohma Kanyonu",
+		"category": "nature",
+		"province": "Malatya",
+		"lng": 37.49311,
+		"lat": 38.56907,
+		"summary": "Malatya'nın Darende ilçesinde, Tohma Çayı'nın oluşturduğu kanyon. Vadide selvi, çınar, söğüt ve incir gibi bitkiler yetişmekte; ahşap yaya köprüleri, küçük şelaleler, su değirmenleri ve yürüyüş yolları bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 211,
+		"name": "Kula-Salihli Jeoparkı",
+		"category": "nature",
+		"province": "Manisa",
+		"lng": 28.6625,
+		"lat": 38.59639,
+		"summary": "Kula ve Salihli ilçelerini kapsayan, Manisa İli'ndeki jeopark. Vikipedi'ye göre Eylül 2013'te Avrupa ve UNESCO destekli Global Jeoparklar Ağı tarafından Türkiye'nin ilk ve tek jeoparkı olarak kabul edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 212,
+		"name": "Bin Tepe Lidya Tümülüsleri",
+		"category": "ancient",
+		"province": "Manisa",
+		"lng": 28.0072,
+		"lat": 38.58,
+		"summary": "Manisa'nın Marmara Gölü güney kıyısında yer alan Lidya dönemi tümülüs alanı. Vikipedi'ye göre günümüzde yaklaşık 115 tümülüs bulunmakta olup, 2025'te 'Sardis and the Lydian Tumuli of Bin Tepe' adıyla UNESCO Dünya Mirası Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 213,
+		"name": "Spil Dağı Milli Parkı",
+		"category": "park",
+		"province": "Manisa",
+		"lng": 27.43139,
+		"lat": 38.57,
+		"summary": "Manisa ve İzmir illeri sınırında yer alan milli park. 22 Nisan 1968'de ilan edilmiş olup yaklaşık 6.801 hektar alan kaplamaktadır; zirve çevresindeki Atalanı bölgesi park sınırları içindedir.",
+		"verified": false
+	},
+	{
+		"id": 214,
+		"name": "Deyrulzafaran Manastırı",
+		"category": "monument",
+		"province": "Mardin",
+		"lng": 40.7925,
+		"lat": 37.29944,
+		"summary": "Mardin ilinin yaklaşık 3 km doğusunda, Tur Abdin bölgesinde yer alan Süryani Ortodoks manastırı. Vikipedi'ye göre yer önce güneş tanrısı Šamaš tapınağı olarak kullanılmış, 493'te manastıra dönüştürülmüş ve 1166'dan 1930'ların başına kadar Süryani Ortodoks patrikhanesi olarak hizmet vermiştir.",
+		"verified": false
+	},
+	{
+		"id": 215,
+		"name": "Dara Antik Kenti",
+		"category": "ancient",
+		"province": "Mardin",
+		"lng": 40.94111,
+		"lat": 37.17778,
+		"summary": "Mardin'in yaklaşık 30 km güneydoğusunda, Oğuz Köyü'nde yer alan antik kent. 505 yılında İmparator Anastasius tarafından Doğu Roma sınırını Sasanilere karşı korumak için garnizon kenti olarak kurulmuştur; 4 km uzunluğunda sur, kaya oyma yapılar, kiliseler, sarnıçlar ve korunan bir mezarlık bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 216,
+		"name": "Kanlıdivane Antik Kenti",
+		"category": "ancient",
+		"province": "Mersin",
+		"lng": 34.17917,
+		"lat": 36.52556,
+		"summary": "Mersin'in Erdemli ilçesinde, büyük bir obruk (doline) çevresine kurulmuş antik kent (antik adı Canytelis). Olba Krallığı'na bağlı olan kent, Bizans İmparatoru II. Theodosius döneminde Hristiyan dini merkezi olarak yeniden inşa edilmiş ve Neapolis adını almıştır; bazilikalar, sarnıçlar ve kaya mezarları kalıntıları bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 217,
+		"name": "Uzuncaburç (Diokaisareia) Antik Kenti",
+		"category": "ancient",
+		"province": "Mersin",
+		"lng": 33.933,
+		"lat": 36.583,
+		"summary": "Mersin'in Silifke ilçesinde, Diokaisareia antik kentinin kalıntıları. 36 sütunu ayakta duran Zeus Tapınağı, Tyche Tapınağı, altı sütunu kalan tören kapısı ve Marcus Aurelius ile Lucius Verus döneminde inşa edilen Roma tiyatrosu bulunmaktadır. Alan, Olba halkının kutsal merkezi olmuştur.",
+		"verified": false
+	},
+	{
+		"id": 218,
+		"name": "Knidos Antik Kenti",
+		"category": "ancient",
+		"province": "Muğla",
+		"lng": 27.375,
+		"lat": 36.68583,
+		"summary": "Datça Yarımadası'nın ucunda, Karia bölgesinde kurulmuş antik Yunan kenti. Afrodit Tapınağı'nın ve Praxiteles'in Knidoslu Afrodit heykelinin bulunduğu kent; heykelin günümüze yalnızca geç dönem kopyaları ulaşmıştır. Alan C. T. Newton tarafından 1857–1858'de kazılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 219,
+		"name": "Kaunos Antik Kenti",
+		"category": "ancient",
+		"province": "Muğla",
+		"lng": 28.62139,
+		"lat": 36.82639,
+		"summary": "Dalyan'da (Muğla) yer alan Karia-Yunan liman kenti. Vikipedi'ye göre Roma döneminde hamam, palestra ve yaklaşık 5.000 kişilik tiyatro bulunmaktadır; 1966'da başlayan kazılar sürmektedir. Kent 15. yüzyılda sıtma salgını sonrası terk edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 220,
+		"name": "Halikarnassos Mozolesi",
+		"category": "monument",
+		"province": "Muğla",
+		"lng": 27.4241,
+		"lat": 37.0379,
+		"summary": "Bodrum'da, M.Ö. 353–351 yılları arasında Karia satrabı Mausolos ve kız kardeşi/eşi Artemisia II için Halikarnassos'ta yapılmış anıt mezar. Vikipedi'ye göre depremler ve taş devşirme sonucu yapı yıkılmış; günümüzde yalnızca temeli ve küçük bir müze kalmıştır.",
+		"verified": false
+	},
+	{
+		"id": 221,
+		"name": "Kayaköy (Livissi)",
+		"category": "monument",
+		"province": "Muğla",
+		"lng": 29.09111,
+		"lat": 36.575,
+		"summary": "Fethiye ilçesinde, Rum nüfusun yaşadığı Karmylessos/Livissi köyünün terk edilmiş hali. Vikipedi'ye göre 1916–1918 sürgünleri ve 1922–1923'te kalan Rumların ayrılmasının ardından köy boşalmış; yaklaşık 500 harabe ev ve iki Rum Ortodoks kilisesi bulunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 222,
+		"name": "Malazgirt Kalesi",
+		"category": "castle",
+		"province": "Muş",
+		"lng": 42.54521,
+		"lat": 39.147,
+		"summary": "Muş ilinin Malazgirt ilçesinde, şehir merkezini çevreleyen tarihi kale. Vikipedi'ye göre 10. yüzyılda Bizanslılar tarafından yapıldığı belirtilmekte olup, koyu renkli sert taş ve Horasan harcıyla inşa edilmiştir; Manzikert kuşatması ve muharebesi dahil birçok çatışmaya sahne olmuştur.",
+		"verified": false
+	},
+	{
+		"id": 223,
+		"name": "Uçhisar Kalesi",
+		"category": "castle",
+		"province": "Nevşehir",
+		"lng": 34.80556,
+		"lat": 38.63028,
+		"summary": "Nevşehir'in Uçhisar beldesinde, yaklaşık 60 metre yüksekliğinde ve kasabaya hakim bir kaya oluşumu. İçi birbirine bağlı geçit ve odalarla oyulmuştur; Bizans döneminde konut veya manastır olarak kullanıldığı düşünülmektedir. Artık yerleşim değildir, ziyarete açıktır ve tepesinden manzara izlenebilir.",
+		"verified": false
+	},
+	{
+		"id": 224,
+		"name": "Zelve Açık Hava Müzesi",
+		"category": "museum",
+		"province": "Nevşehir",
+		"lng": 34.833,
+		"lat": 38.667,
+		"summary": "Nevşehir'de Ürgüp ile Avanos arasında, üç vadiye yayılan kaya oyma Bizans dönemi manastır yerleşimi. Vikipedi'ye göre 1952'ye kadar köy halkı burada yaşamış, 1967'de açık hava müzesi olmuştur; Direkli, Balıklı ve Üzümlü kiliseleri öne çıkmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 225,
+		"name": "Tyana (Kemerhisar) Antik Kenti",
+		"category": "ancient",
+		"province": "Niğde",
+		"lng": 34.61111,
+		"lat": 37.84806,
+		"summary": "Niğde'nin Bor ilçesinde, Kemerhisar yakınlarında yer alan antik kent. Tuwana adıyla Yeni Hitit krallığının başkentiydi; Hellenistik dönemde Eusebeia adını almış ve Kapadokya'nın en önemli kentlerinden biri olmuştur. Filozof Apollonius'un doğduğu kabul edilen yer olarak bilinir; bugün yalnızca önemsiz Bizans kalıntıları kalmıştır.",
+		"verified": false
+	},
+	{
+		"id": 226,
+		"name": "Bolaman Kalesi",
+		"category": "castle",
+		"province": "Ordu",
+		"lng": 37.59111,
+		"lat": 41.03667,
+		"summary": "Ordu'nun Fatsa ilçesinde, Karadeniz'e bakan bir burun üzerinde yer alan kale. Yapım tarihi bilinmemekte olup Pontus Krallığı tarafından yapıldığı düşünülmektedir; iç kalede 18. yüzyıla ait Kademoğlu Konağı bulunmaktadır ve Bakanlık tarafından restore edilerek etnografya müzesi olarak kullanılmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 227,
+		"name": "Karatepe-Aslantaş Açık Hava Müzesi",
+		"category": "museum",
+		"province": "Osmaniye",
+		"lng": 36.25004,
+		"lat": 37.30022,
+		"summary": "Osmaniye ilinin Kadirli ilçesinde, aynı adlı milli park içinde yer alan açık hava müzesi. 8. yüzyılda Yeni Hitit krallığı Kuve hükümdarının yaptırdığı kalenin kalıntıları, aslan heykelli kapılar ve kabartmalarıyla bilinir. Anadolu hiyerogliflerinin çözülmesine yardımcı olan çift dilli yazıtı barındırır.",
+		"verified": false
+	},
+	{
+		"id": 228,
+		"name": "Zilkale",
+		"category": "castle",
+		"province": "Rize",
+		"lng": 40.9622112,
+		"lat": 40.9589845,
+		"summary": "Rize ilinin Çamlıhemşin ilçesinde, Fırtına Vadisi'nde yer alan ortaçağ kalesi. Yaklaşık 380 metre yükseklikte bir uçurumun üzerinde konumlanmıştır.",
+		"verified": false
+	},
+	{
+		"id": 229,
+		"name": "Amisos Antik Kenti",
+		"category": "ancient",
+		"province": "Samsun",
+		"lng": 36.334861,
+		"lat": 41.290333,
+		"summary": "Samsun'un Atakum, Canik, İlkadım ve Tekkeköy ilçelerini kapsayan merkez alanda yer alan antik kent. Yaklaşık M.Ö. 670 yılında Yunan kolonistler tarafından kurulduğu belirtilmektedir. M.Ö. 63'te Roma yönetimine geçmiş, Bizans döneminde Aminsos adıyla anılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 230,
+		"name": "Botan Vadisi Milli Parkı",
+		"category": "park",
+		"province": "Siirt",
+		"lng": 41.952639,
+		"lat": 37.897667,
+		"summary": "Siirt merkez, Tillo ve Eruh ilçelerinin sınırları içinde yer alan milli park. 15 Ağustos 2019'da Resmî Gazete'de milli park olarak ilan edilmiştir. Yamaç paraşütü ve rafting gibi etkinliklere uygun olduğu belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 231,
+		"name": "Sinop Kalesi",
+		"category": "castle",
+		"province": "Sinop",
+		"lng": 35.146472,
+		"lat": 42.028472,
+		"summary": "Sinop kent merkezinde yer alan tarihi kale. İlk yapımının 8. yüzyılda Miletoslu yerleşimciler tarafından yapıldığı, sonradan Cenevizliler tarafından geliştirildiği belirtilmektedir. 2013 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmış, restorasyon çalışmaları 2019'da başlamıştır.",
+		"verified": false
+	},
+	{
+		"id": 232,
+		"name": "Balatlar Kilisesi",
+		"category": "monument",
+		"province": "Sinop",
+		"lng": 35.1572,
+		"lat": 42.0261,
+		"summary": "Sinop'ta, 2. yüzyılda Roma imparatorluk hamamı olarak başlayan yapı kompleksinden dönüştürülmüş Bizans kilisesi. 4.-5. yüzyıl civarında kiliseye çevrilmiş, 20. yüzyılın sonlarına kadar kullanılmıştır. Osmanlı döneminde Ortodoks mezarlığı olarak kullanılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 233,
+		"name": "Atatürk ve Kongre Müzesi",
+		"category": "museum",
+		"province": "Sivas",
+		"lng": 37.01389,
+		"lat": 39.74972,
+		"summary": "Sivas'ta İnönü Bulvarı üzerinde yer alan müze. Bina, 1919'da Sivas Kongresi'nin yapıldığı yapıdır. 1990 yılında restorasyonun ardından müze olarak açılmış, zemin katında etnografya, üst katında Atatürk ve kongre bölümleri sergilenmektedir.",
+		"verified": false
+	},
+	{
+		"id": 234,
+		"name": "Harran Ören Yeri",
+		"category": "ancient",
+		"province": "Şanlıurfa",
+		"lng": 39.025,
+		"lat": 36.87083,
+		"summary": "Şanlıurfa'nın Harran ilçesinde yer alan antik kent. M.Ö. 2500-2000 civarında kurulduğu belirtilen kentte ay tanrısı Sin'in tapınım merkezi olduğu kaydedilmiştir. Surlar, kale, Ulu Cami kalıntıları ve bir höyük kalıntıları arasındadır; 2000 yılında UNESCO Dünya Mirası Geçici Listesi'ne alınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 235,
+		"name": "Cizre Kalesi",
+		"category": "castle",
+		"province": "Şırnak",
+		"lng": 42.19278,
+		"lat": 37.32889,
+		"summary": "Şırnak'ın Cizre ilçesinde, Dicle Nehri'nin güney kıyısında yer alan kale. İç ve dış bölümden oluşur; surlarının büyük kısmı yok olmuştur. 2010 yılına kadar sınır tabur komutanlığı olarak kullanılmış, 2012 yılında restore edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 236,
+		"name": "Cudi Dağı",
+		"category": "nature",
+		"province": "Şırnak",
+		"lng": 42.45444,
+		"lat": 37.3775,
+		"summary": "Şırnak ilinde, Dicle'nin kaynak bölgesine yakın, Suriye ve Irak sınırlarına yakın bir dağ. Yüksekliği 2.089 metre olarak verilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 237,
+		"name": "Perinthos (Herakleia) Antik Kenti",
+		"category": "ancient",
+		"province": "Tekirdağ",
+		"lng": 27.95293,
+		"lat": 40.97131,
+		"summary": "Marmara Ereğlisi'nde yer alan antik kent. Kaynağa göre MÖ 602'de Samoslu kolonistler tarafından kurulmuş, MS 286'da Diocletianus tarafından Herakleia adı verilmiştir. Kaynak ayrıca 5. yüzyıla ait ve zemin mozaikleri iyi korunmuş bir bazilikaya değinir.",
+		"verified": false
+	},
+	{
+		"id": 238,
+		"name": "Ballıca Mağarası",
+		"category": "cave",
+		"province": "Tokat",
+		"lng": 36.30139,
+		"lat": 40.22722,
+		"summary": "Pazar ilçesinde bulunan fosil mağara. Toplam uzunluğu 68 metredir ve üst kesimleri Permiyen–Triassic yaşlı mermer ve kireçtaşından oluşur. Kaynağa göre mağara yedi katmandan oluşmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 239,
+		"name": "Ayasofya (Trabzon)",
+		"category": "monument",
+		"province": "Trabzon",
+		"lng": 39.69611,
+		"lat": 41.00333,
+		"summary": "Ortahisar'da, deniz kıyısına yakın bölgede bulunan ve 1238–1263 yılları arasında Trabzon İmparatoru I. Manuel döneminde kilise olarak yapılmış bir yapı. Kaynağa göre 1461'de şehri alan Fatih Sultan Mehmet'ten sonra camiye çevrilmiş olabilir; 1964'te müze olarak düzenlenmiş, 2013'te kısmen camiye dönüştürülmüştür. Bir yerel mahkeme bu dönüşümü hukuka aykırı bularak müze olarak sürdürülmesine karar vermiş, ancak yapı camii olarak kullanılmaya devam etmiştir.",
+		"verified": false
+	},
+	{
+		"id": 240,
+		"name": "Çamlık Milli Parkı",
+		"category": "park",
+		"province": "Yozgat",
+		"lng": 34.81524,
+		"lat": 39.8059,
+		"summary": "Yozgat şehir merkezinin yaklaşık 5 km güneyinde yer alan, 264 hektarlık milli park. 5 Şubat 1958'de Türkiye'nin ilk milli parkı olarak ilan edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 241,
+		"name": "Kerkenes Dağı",
+		"category": "ancient",
+		"province": "Yozgat",
+		"lng": 35.06556,
+		"lat": 39.75,
+		"summary": "Yozgat ile Sorgun arasında, Demir Çağı'ndan Yüksek Orta Çağ'a uzanan yerleşim. Yaklaşık 7 km uzunluğundaki taş surla çevrili olup, sur yedi kapı ile delinmiştir; çevrelediği alan 2,5 km²'dir. Kaynağa göre pre-Hellenistik Anadolu Platosu'nun en büyük yerleşimidir ve yerleşim kısa süre kullanılıp yakılarak terk edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 242,
+		"name": "Pertek Kalesi",
+		"category": "castle",
+		"province": "Tunceli",
+		"lng": 39.271,
+		"lat": 38.844,
+		"summary": "Pertek ilçesinde, Keban Baraj Gölü'nde bir ada üzerinde yer alan kale. Kaynağa göre mevcut yapı 11. yüzyılda Mengücekoğulları tarafından inşa edilmiş olup, Urartu dönemine uzanan bir geçmişi olabilir. 1974'te Keban Barajı'nın sularının yükselmesiyle kale, gölün kuzey kıyısından yaklaşık 5 km uzakta bir adacık hâline gelmiştir.",
+		"verified": false
+	},
+	{
+		"id": 243,
+		"name": "Ulubey Kanyonu Tabiat Parkı",
+		"category": "nature",
+		"province": "Uşak",
+		"lng": 29.29972,
+		"lat": 38.38444,
+		"summary": "Ulubey ve Karahallı ilçeleri sınırları içinde uzanan, uzunluğu 40–45 km olan kanyon. Ulubey Çayı ve Banaz Çayı kanyondan geçmektedir; bu çaylar Büyük Menderes'in kollarıdır. Orman ve Su İşleri Bakanlığınca Ağustos 2013'te tabiat parkı ilan edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 244,
+		"name": "Blaundus Antik Kenti",
+		"category": "ancient",
+		"province": "Uşak",
+		"lng": 29.20889,
+		"lat": 38.35694,
+		"summary": "Ulubey ilçesine bağlı Sülümenli yakınlarında bulunan, Helenistik dönemde kurulmuş Yunan kenti. Kazılarda bulunan silindir mühürler, bölgede MÖ 2. binyılın başlarında bir yerleşim olduğunu göstermektedir. Roma ve Bizans döneminde piskoposluk merkezi olmuş, son kaydı 12. yüzyıla aittir.",
+		"verified": false
+	},
+	{
+		"id": 245,
+		"name": "Hoşap Kalesi",
+		"category": "castle",
+		"province": "Van",
+		"lng": 43.80167,
+		"lat": 38.31722,
+		"summary": "Gürpınar ilçesinde, Hoşap köyü yakınında bulunan ortaçağ kalesi. Kalenin büyük bölümü, giriş kulesi ve dış duvarlar 1649'da Mahmudi beyliğinden Sarı Süleyman Bey tarafından yapılmış veya yeniden inşa edilmiştir. Alanda daha önce bir Ermeni kalesi ve Urartu dönemine ait bir yerleşim bulunduğu belirtilmektedir; kale Kültür ve Turizm Bakanlığı'nın denetiminde ve ziyarete açıktır.",
+		"verified": false
+	},
+	{
+		"id": 246,
+		"name": "Muradiye Şelalesi",
+		"category": "nature",
+		"province": "Van",
+		"lng": 43.75667,
+		"lat": 39.05694,
+		"summary": "Muradiye ilçesinin yaklaşık 8 km kuzeyinde, Bendimahi Çayı üzerinde bulunan şelale. Yüksekliği 18 m, genişliği 77 m'dir ve adını IV. Murat'tan almaktadır. Sert ve genç bazalt kayaçlar üzerinde oluşmuştur; bazı kışlarda donarak Pamukkale travertenlerine benzer bir görüntü oluşturur.",
+		"verified": false
+	},
+	{
+		"id": 247,
+		"name": "Tium (Filyos) Antik Kenti",
+		"category": "ancient",
+		"province": "Zonguldak",
+		"lng": 32.023112,
+		"lat": 41.561257,
+		"summary": "Filyos (eski adıyla Hisarönü) yakınında bulunan antik kent. Kaynağa göre MÖ 7. yüzyılda Miletos'un bir kolonisi olarak kurulmuştur; Strabon, Pergamon kraliyet hanedanının kurucusu Philetairos'un bu kentte doğduğunu aktarır. Kaynakta kentin fiziki kalıntılarından söz edilmemekte, sikkelerinin Gallienus dönemine kadar uzandığı belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 248,
+		"name": "Gümrük Hanı",
+		"category": "khan",
+		"province": "Şanlıurfa",
+		"lng": 38.7894249,
+		"lat": 37.148735,
+		"summary": "Kanuni dönemine ait, 1563 yılında Halhallı Behram Paşa tarafından yaptırılan kare planlı, tek avlulu ve kısmen üç katlı bir kervansaraydır. Şehir merkezinde Haşimiye Meydanı çevresinde yer alır ve revaklı iki katıyla bugün de ticari işlevini sürdürmektedir.",
+		"verified": false
+	},
+	{
+		"id": 249,
+		"name": "Barutçu Hanı",
+		"category": "khan",
+		"province": "Şanlıurfa",
+		"lng": 38.789195,
+		"lat": 37.147556,
+		"summary": "Balıklıgöl çevresinde, Demirciler Pazarı bölgesinde yer alan Osmanlı dönemi ticari yapısıdır. Bir avlusu olan, kısmen üç katlı ve üçüncü katı U planlı bir han olarak tanımlanır; tarihi 17. yüzyılın sonu ile 18. yüzyılın başı olarak verilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 250,
+		"name": "Balıklıgöl",
+		"category": "monument",
+		"province": "Şanlıurfa",
+		"lng": 38.7845342,
+		"lat": 37.1476911,
+		"summary": "Şanlıurfa'nın güneybatısında yer alan, Halil-ür Rahman Gölü olarak da bilinen kutsal bir havuzdur. Yahudi ve İslami rivayetlerde İbrahim'in Nemrut tarafından ateşe atıldığı yer olarak anılır ve içindeki balıklar kutsal kabul edildiğinden avlanmaz.",
+		"verified": false
+	},
+	{
+		"id": 251,
+		"name": "Urfa Kalesi",
+		"category": "castle",
+		"province": "Şanlıurfa",
+		"lng": 38.78389,
+		"lat": 37.14548,
+		"summary": "Şanlıurfa kentinin merkezine hâkim bir tepe üzerindeki kaledir ve bugün açık hava müzesi olarak işlev görmektedir. Osroene dönemine kadar uzanan bir geçmişi olduğu belirtilir; mevcut surları Abbasi dönemine, 814 yılına tarihlenmektedir.",
+		"verified": false
+	},
+	{
+		"id": 252,
+		"name": "Şanlıurfa Müzesi",
+		"category": "museum",
+		"province": "Şanlıurfa",
+		"lng": 38.78167,
+		"lat": 37.15361,
+		"summary": "Arkeoloji müzesi ile mozaik müzesinden oluşan, kapalı alanı 34.000 metrekare olan büyük bir müze kompleksidir. Edessa, Göbekli Tepe, Karahan Tepe ve Harran koleksiyonlarının yanı sıra, yaklaşık MÖ 9000 tarihli Urfa Adamı heykelini barındırır.",
+		"verified": false
+	},
+	{
+		"id": 253,
+		"name": "Karahan Tepe",
+		"category": "ancient",
+		"province": "Şanlıurfa",
+		"lng": 39.30361,
+		"lat": 37.0925,
+		"summary": "Göbekli Tepe ile ilişkilendirilen T biçimli steller bulunan Neolitik bir yerleşim alanıdır; Göbekli Tepe'nin yaklaşık 46 km doğusunda yer alır. MÖ yaklaşık 10.000-9.500 yılları arasına tarihlendirilir ve dünyanın bilinen en eski insan yerleşimlerinden biri olabileceği öne sürülmektedir.",
+		"verified": false
+	},
+	{
+		"id": 254,
+		"name": "Roma Hamamı",
+		"category": "ancient",
+		"province": "Ankara",
+		"lng": 32.85306,
+		"lat": 39.94639,
+		"summary": "Altındağ ilçesinde yer alan bir Roma hamamıdır ve ilk katmanı Frig dönemine uzanan bir höyük üzerine inşa edilmiştir. Yapının Caracalla döneminde tamamlandığı yönünde görüşler olsa da bu konuda kesin bilgi bulunmamaktadır. Kültür ve Turizm Bakanlığı 2022 Nisan ayında alanda restorasyon ve konservasyon çalışmaları yapmıştır.",
+		"verified": false
+	},
+	{
+		"id": 255,
+		"name": "Julianus Sütunu",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.85639,
+		"lat": 39.94333,
+		"summary": "Ulus semtinde bulunan, yaklaşık 15 metre yüksekliğinde bir dikilitaştır ve halk arasında Belkıs Minaresi olarak da anılır. Sayfaya göre 362 yılında Pers seferine çıkan Roma imparatoru Julianus onuruna dikilmiştir. Zemin bozukluğu nedeniyle eğilmeye başlayan sütun 1934'te bugünkü Hükûmet Meydanı konumuna taşınmış ve 2001'de restore edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 256,
+		"name": "Arslanhane Camii",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.86528,
+		"lat": 39.93667,
+		"summary": "Ankara Kalesi'nin güney ucunda yer alan, 13. yüzyıla tarihlenen ahşap direkli bir Anadolu Selçuklu camisidir. Adını, yapının müştemilatının duvarına gömülü Bizans dönemine ait arslan heykellerinden almaktadır. Sayfada yapının 2023 itibarıyla UNESCO Dünya Mirası Listesi'ndeki kültür varlıkları arasında olduğu belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 257,
+		"name": "Hamamönü",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.865548,
+		"lat": 39.933384,
+		"summary": "Altındağ ilçesinde yer alan, Romalılar döneminden beri yerleşilen şehrin en eski semtlerinden biridir. Adını, Karaca Bey'in yaptırdığı külliyedeki hamamdan almıştır. Milli Mücadele yıllarında birçok devlet adamını ağırlamış, Mehmet Akif Ersoy'un yaşadığı ev bugün müze olarak hizmet vermektedir.",
+		"verified": false
+	},
+	{
+		"id": 258,
+		"name": "Karacabey Camii",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.86556,
+		"lat": 39.93139,
+		"summary": "Hamamönü semtinde yer alan ve 1427 yılında inşa edildiği sanılan bir camidir. Bugün Hacettepe Hastanesi arazisinde bulunmaktadır ve Bursa camileri tarzındaki yapısıyla Ankara'daki bu tipin tek örneği olduğu belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 259,
+		"name": "Kocatepe Camii",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.86056,
+		"lat": 39.91667,
+		"summary": "Kocatepe semtinde yer alan camisinin inşaatına 1967'de başlanmış, 1987'de Türkiye Diyanet Vakfı tarafından tamamlanmıştır. Ana mekânı merkezi bir kubbe ile dört yarım kubbeden oluşur ve 88 metre yüksekliğinde dört minaresi vardır. Vedat Dalokay'ın yarışmayı kazanan projesi terk edilmiş, yerine Hüsrev Tayla ve Fatin Uluengin'in tasarımı uygulanmıştır.",
+		"verified": false
+	},
+	{
+		"id": 260,
+		"name": "Beypazarı Tarihî Kenti",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 31.9194,
+		"lat": 40.1614,
+		"summary": "Ankara'ya bağlı Beypazarı ilçesinin konakları ile ünlü tarihî kentidir. UNESCO, 2020'de Beypazarı Tarihî Kenti'ni Dünya Mirası Geçici Listesi'ne dahil etmiştir. Koordinat ilçe merkezine aittir.",
+		"verified": false
+	},
+	{
+		"id": 261,
+		"name": "Ankara Etnografya Müzesi",
+		"category": "museum",
+		"province": "Ankara",
+		"lng": 32.855,
+		"lat": 39.93278,
+		"summary": "Altındağ ilçesinde, Kurtuluş Savaşı sırasında cuma namazlarının kılındığı Namazgâh Tepesi'nde kurulmuştur. Binayı Arif Hikmet Koyunoğlu yapmış, müze 18 Temmuz 1930'da bugünkü işlevine kavuşmuştur. Halk giysileri, halı ve kilimler, madeni eserler, çini ve porselen gibi Anadolu etnografyasına ait geniş bir koleksiyona sahiptir.",
+		"verified": false
+	},
+	{
+		"id": 262,
+		"name": "Ankara Resim ve Heykel Müzesi",
+		"category": "museum",
+		"province": "Ankara",
+		"lng": 32.85583,
+		"lat": 39.93306,
+		"summary": "Ulus'ta Namazgâh Tepesi üzerinde bulunan, Cumhuriyet öncesi ve sonrası Türk plastik sanatı eserlerini sergileyen bir sanat müzesidir. Bina 1927'de Türk Ocakları Merkez Binası olarak inşa edilmiş ve Birinci Ulusal Mimarlık Akımı'nın önemli örneklerinden sayılmaktadır. Sayfada 2009'da 13 eskizin çalındığı belirtilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 263,
+		"name": "Çankaya Köşkü",
+		"category": "monument",
+		"province": "Ankara",
+		"lng": 32.86444,
+		"lat": 39.88917,
+		"summary": "1923-2014 yılları arasında cumhurbaşkanlarının Ankara'daki ikamet yerleşkesidir. 2014'ten sonra resmî konut Cumhurbaşkanlığı Sarayı olmuş, 10 Temmuz 2018'den beri köşk Cumhurbaşkanı Yardımcısı'nın resmî ikametgâhı olarak kullanılmaktadır. Yerleşke, Kızılay Meydanı'nın yaklaşık 5 kilometre güneyinde, 1,77 km² büyüklüğünde ağaçlık ve çevresi kapalı bir arazidedir.",
+		"verified": false
+	},
+	{
+		"id": 264,
+		"name": "Soğuksu Milli Parkı",
+		"category": "park",
+		"province": "Ankara",
+		"lng": 32.62139,
+		"lat": 40.46528,
+		"summary": "Kızılcahamam ilçesinde, 19 Şubat 1959'da kurulmuş bir milli parktır ve Ankara merkezine yaklaşık 80 km uzaklıktadır. Volkanik arazide yer alan parkta sıcak ve soğuk su kaynakları bulunur ve bunlar kaplıca olarak değerlendirilmektedir. Park 1.030-1.800 metre yükseklik aralığındadır ve ormanlarının yaklaşık %65'ini sarıçam oluşturur.",
+		"verified": false
+	},
+	{
+		"id": 265,
+		"name": "Eymir Gölü",
+		"category": "nature",
+		"province": "Ankara",
+		"lng": 32.82444,
+		"lat": 39.82389,
+		"summary": "Arazisi Orta Doğu Teknik Üniversitesi'ne ait, yüzölçümü yaklaşık 1,1 km² olan bir göldür. Ortalama derinliği 3,8 metre olup esas olarak komşu Mogan Gölü'nden beslenmektedir. Göl kıyısındaki kayıkhane ODTÜ Spor Kulübü Kürek ve Yelken takımlarının çalışma alanıdır.",
+		"verified": false
+	},
+	{
+		"id": 266,
+		"name": "Mogan Gölü",
+		"category": "nature",
+		"province": "Ankara",
+		"lng": 32.79194,
+		"lat": 39.76778,
+		"summary": "Gölbaşı ilçesinde bulunan, derelerin taşıdığı alüvyonlarla vadinin önü kapanarak oluşmuş bir set gölüdür. Yüzölçümü 6,3 km² olan göl, sulak alan ve rekreasyon mekanı olmasının yanı sıra flora ve fauna bakımından Türkiye'nin önemli doğal yaşam alanlarından biri sayılmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 267,
+		"name": "Klazomenai",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 26.767583,
+		"lat": 38.358167,
+		"summary": "Klazomenai, İzmir Körfezi'nin güney kıyısında yer alan İon Birliği'nin on iki kentinden biriydi. Zeytinyağı, terrakotta lahitleri ve balık sosu ticaretiyle tanınıyordu; filozof Anaksagoras burada doğmuştur. Kalıntıları Urla ilçesindedir.",
+		"verified": false
+	},
+	{
+		"id": 268,
+		"name": "Teos",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 26.785,
+		"lat": 38.17722,
+		"summary": "Teos, İon Birliği'nin on iki kentinden biriydi ve Kuzey Ege kıyısında bir yarımadada kurulmuştur. Kalıntıları modern Sığacık köyünün güneyinde yer alır.",
+		"verified": false
+	},
+	{
+		"id": 269,
+		"name": "Kolophon",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.14167,
+		"lat": 38.10889,
+		"summary": "Kolophon, İon kentlerinden biriydi ve süvarileri ile zenginliğiyle ünlüydü. Lidya Kralı Gyges tarafından MÖ 7. yüzyılda fethedilmiş, MÖ 3. yüzyılda Lysimakhos tarafından yıkılmıştır. Kalıntıları Değirmendere'nin güneyinde, Menderes ilçesindedir.",
+		"verified": false
+	},
+	{
+		"id": 270,
+		"name": "Notion (Notium)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.1975,
+		"lat": 37.99278,
+		"summary": "Notion, Kolophon ve Klaros için liman görevi gören antik bir Yunan kent devletiydi ve İzmir'in yaklaşık 50 km güneyinde yer alır. Kalıntıları arasında savunma duvarları, bir tapınak, agora ve tiyatro bulunur. MÖ 406'da burada bir Sparta zaferi kazanılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 271,
+		"name": "Erythrai",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 26.48083,
+		"lat": 38.38278,
+		"summary": "Erythrai, İon Birliği'nin on iki kentinden biriydi ve Sakız Adası'nın karşısındaki küçük bir yarımadada kuruluydu. Şarabı ve Erythrai Sibyl'i ile tanınan kehanet merkeziydi. Kalıntıları Çeşme ilçesine bağlı Ildırı'nın kuzeyinde yer alır.",
+		"verified": false
+	},
+	{
+		"id": 272,
+		"name": "Phokaia (Foça Antik Kenti)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 26.75806,
+		"lat": 38.6675,
+		"summary": "Phokaia, Hermos Nehri ağzı yakınında, bugünkü Foça'nın bulunduğu yerde kurulmuş İon Yunan kentidir. Kolonistleri MÖ yaklaşık 600'de Massalia'yı (Marsilya) kurmuştur. 1953'ten beri yapılan kazılarda Hellenistik tiyatro, Athena tapınağı ve liman kutsal alanı ortaya çıkarılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 273,
+		"name": "Kyme (Kumi Antik Kenti)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.059326,
+		"lat": 38.860028,
+		"summary": "Kyme (Cumae), Lidya krallığına yakın, Anadolu'nun Ege kıyısında kurulmuş bir Eolya Yunan kentidir. Denize doğrudan erişimi ticarete destek olmuştur. Kent sırasıyla Pers, Makedon, Attalos ve Roma yönetimine girmiştir.",
+		"verified": false
+	},
+	{
+		"id": 274,
+		"name": "Kemeraltı",
+		"category": "monument",
+		"province": "İzmir",
+		"lng": 27.13222,
+		"lat": 38.41833,
+		"summary": "Kemeraltı, İzmir'in tarihi çarşı bölgesidir ve şehrin en aktif alanlarından biridir. Bölgenin en bilinen yapılarından Hisar Camii, 16. yüzyılın sonunda tamamlanmıştır. 1922 İzmir Yangını'ndan sonra tarihi han yapılarının çoğu yok olmuş, bölge 2020'de Türkiye'nin geçici Dünya Miras Listesi'ne eklenmiştir.",
+		"verified": false
+	},
+	{
+		"id": 275,
+		"name": "İzmir Saat Kulesi",
+		"category": "monument",
+		"province": "İzmir",
+		"lng": 27.128667,
+		"lat": 38.418861,
+		"summary": "Konak Meydanı'ndaki Saat Kulesi, şehrin ana simgesidir ve belediye amblemine de yer almaktadır. Fransız mimar Raymond Charles Péré tarafından tasarlanmış ve 1901'de açılmıştır. 1928 ve 1974 depremlerinde üst kısmı hasar görmüş, 2019'da restore edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 276,
+		"name": "Kızlarağası Hanı",
+		"category": "khan",
+		"province": "İzmir",
+		"lng": 27.13306,
+		"lat": 38.42139,
+		"summary": "Konak ilçesinde yer alan tarihi bir handır. Hacı Beşir Ağa tarafından 1744'te yaptırılmış, alt katı ticarete, üst katı konaklamaya ayrılmıştır. Restore edilerek Kemeraltı'nda turistik bir çarşıya dönüştürülmüştür.",
+		"verified": false
+	},
+	{
+		"id": 277,
+		"name": "Çeşme Kalesi",
+		"category": "castle",
+		"province": "İzmir",
+		"lng": 26.3036,
+		"lat": 38.3236,
+		"summary": "Çeşme'de bulunan Osmanlı dönemi kalesidir. II. Bayezid döneminde 1508'de, 1472 ve 1501'de kasabaya yapılan Venedik akınlarına karşı yapılmıştır. Dikdörtgen planlı olup altı burcu vardır ve 2020'den beri UNESCO'nun geçici listesinde yer almaktadır.",
+		"verified": false
+	},
+	{
+		"id": 278,
+		"name": "Sığacık Kalesi",
+		"category": "castle",
+		"province": "İzmir",
+		"lng": 26.78444,
+		"lat": 38.19444,
+		"summary": "Seferihisar ilçesinde, Sığacık Limanı'nın kuzeydoğusunda yer alan bir kaledir. Selçuklu döneminde yapıldığı tahmin edilmekte; Aydınoğulları ve Osmanlılar döneminde onarılmıştır. En kapsamlı onarımı 1521-1522 yıllarında Teos harabelerinden alınan taşlarla yapılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 279,
+		"name": "Kızıl Avlu (Bergama)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.1833,
+		"lat": 39.1219,
+		"summary": "Bergama'da, Pergamon akropolünün yaklaşık 1 km güneyinde yer alan Roma dönemi tapınak kompleksidir. MS 2. yüzyılda, muhtemelen Hadrianus döneminde yapıldığı düşünülür ve İsis ve Serapis tapınımına hizmet ettiği kabul edilir. Daha sonra kiliseye dönüştürülmüş ve yıkılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 280,
+		"name": "Bergama Akropolü (Pergamon)",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.18417,
+		"lat": 39.1325,
+		"summary": "Pergamon antik kenti 335 metrelik andezit bir masa dağı etrafında kurulmuştur. Üst akropolde Pergamon Sunağı, tiyatro, Traianeum, Dionysos ve Athena tapınakları; alt akropolde gymnasion ile Hera ve Demeter kutsal alanları bulunur.",
+		"verified": false
+	},
+	{
+		"id": 281,
+		"name": "Bergama Asklepyonu",
+		"category": "ancient",
+		"province": "İzmir",
+		"lng": 27.164,
+		"lat": 39.119,
+		"summary": "Bergama'da, akropolün yaklaşık 3 km güneybatısında yer alan Asklepios ve Hygieia'ya adanmış şifa tapınağıdır. MÖ 4. yüzyıla uzanan kökeni Helenistik ve Roma dönemlerinde tıbbi ve dini bir merkez olmasını sağlamıştır. Hekim Galen burada uzun yıllar çalışmıştır.",
+		"verified": false
+	},
+	{
+		"id": 282,
+		"name": "Orhan Gazi Külliyesi",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.06389,
+		"lat": 40.18417,
+		"summary": "Orhan Gazi tarafından 14. yüzyılın ikinci yarısında yaptırılan yapı grubu; cami, bugün yıkılmış bir medrese ve imaret, Aynalı Çarşı adıyla çarşı olarak kullanılan bir hamam ve Emir Han adlı handan oluşur. 2014'te 'Bursa ve Cumalıkızık' bileşeni olarak UNESCO Dünya Mirası Listesi'ne girmiştir.",
+		"verified": false
+	},
+	{
+		"id": 283,
+		"name": "Hüdavendigar Külliyesi",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.02083,
+		"lat": 40.2025,
+		"summary": "I. Murad tarafından Bursa'nın batısındaki Çekirge semtinde yaptırılan yapı topluluğudur. Alt katı ibadet yeri, üst katı medrese olan cami, imaret, hamam, türbe ve çeşmeden oluşur. 2014'te 'Bursa ve Cumalıkızık' bileşeni olarak UNESCO listesine girmiştir.",
+		"verified": false
+	},
+	{
+		"id": 284,
+		"name": "Muradiye Külliyesi ve Türbeleri",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.04611,
+		"lat": 40.19083,
+		"summary": "Sultan II. Murad tarafından 1425-1426 yıllarında yaptırılmış; cami, hamam, medrese, imaret ve sonradan eklenen 12 türbeden oluşur. Külliyedeki en büyük türbe II. Murad'a, en zengin süslemeli türbe Cem Sultan'a aittir.",
+		"verified": false
+	},
+	{
+		"id": 285,
+		"name": "Yıldırım Bayezid Külliyesi",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.0825,
+		"lat": 40.1875,
+		"summary": "Yıldırım Bayezid tarafından 1391-1395 yılları arasında yaptırılan külliyenin camisi; büyük merkezi kubbe, iki minare ve tamamen yonu taştan inşa edilmiş yapısıyla bilinir. 1855 Bursa depreminden sonra kapsamlı onarım görmüş ve UNESCO listesinde yer almaktadır.",
+		"verified": false
+	},
+	{
+		"id": 286,
+		"name": "Emir Sultan Camii",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.08111,
+		"lat": 40.18111,
+		"summary": "Yıldırım Bayezid'in kızı Hundi Fatma Hatun tarafından kocası Emir Sultan adına yaptırılmıştır. 1795 depreminde tamamen yıkılan cami, 1804'te III. Selim tarafından aynı plan üzerine yeniden inşa edilmiştir ve Emir Sultan mezarlığının yanında bulunur.",
+		"verified": false
+	},
+	{
+		"id": 287,
+		"name": "Osman Gazi ve Orhan Gazi Türbeleri",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.05732,
+		"lat": 40.186759,
+		"summary": "Osmangazi ilçesinde yer alan türbeler; Wikidata'da Osman Gazi Türbesi 'Osmangazi'de martyrium, şapel, türbe' olarak tanımlanır. Orhan Gazi'nin türbesi de Osmangazi'de bir türbe kompleksi olarak kayıtlıdır.",
+		"verified": false
+	},
+	{
+		"id": 288,
+		"name": "Bursa Kalesi",
+		"category": "castle",
+		"province": "Bursa",
+		"lng": 29.05833,
+		"lat": 40.18472,
+		"summary": "Bursa'nın çekirdeğini oluşturan Prusa ad Olympum antik kentini çevreleyen tarihi surlardır. Bitinyalılar tarafından inşa edilen kale, Roma, Bizans ve Osmanlı dönemlerinde 19. yüzyıla kadar kullanılmıştır. 1855 depreminde bir kısmı yıkılmış, 2004'ten itibaren restore edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 289,
+		"name": "Irgandı Köprüsü",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 29.07083,
+		"lat": 40.18194,
+		"summary": "Osmangazi ilçesinde, zanaatkârların geleneksel el sanatlarını sürdürdüğü tarihi bir köprüdür. 1442'de Irgandılı Ali'nin oğlu Hacı Muslihiddin tarafından yaptırılmıştır. 1854 depreminde hasar görmüş, 2004'te Osmangazi Belediyesi tarafından yenilenerek yeniden açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 290,
+		"name": "Bursa Kent Müzesi",
+		"category": "museum",
+		"province": "Bursa",
+		"lng": 29.06667,
+		"lat": 40.18222,
+		"summary": "14 Şubat 2004'te açılan ve Bursa'nın yaklaşık 7000 yıllık değişimini sergileyen bir kent müzesidir. 1926'da adliye binası olarak inşa edilen yapıda, Osmangazi'deki Heykel Meydanı yakınında hizmet vermektedir. Altı Osmanlı padişahının balmumu heykelleri sergilenir.",
+		"verified": false
+	},
+	{
+		"id": 291,
+		"name": "Tofaş Anadolu Arabaları Müzesi",
+		"category": "museum",
+		"province": "Bursa",
+		"lng": 29.07139,
+		"lat": 40.17694,
+		"summary": "30 Haziran 2002'de, Yıldırım ilçesindeki yaklaşık 17.000 m² eski bir ipek fabrikası binasında açılmıştır. Koleksiyonunda Türk arabaları ve fayton türü at arabaları, bir savaş arabası replikası ve Türkiye'de üretilen ilk Murat 124 bulunur.",
+		"verified": false
+	},
+	{
+		"id": 292,
+		"name": "Mudanya Mütareke Evi",
+		"category": "museum",
+		"province": "Bursa",
+		"lng": 28.88167,
+		"lat": 40.37972,
+		"summary": "Türk Kurtuluş Savaşı'nı sonlandıran Mudanya Mütarekesi'nin imzalandığı, Rus asıllı tüccar Aleksandr Ganyanof'a ait tarihi bir evdir. 1937'de müzeye dönüştürülmüş, 1959'da Eski Eserler Genel Müdürlüğü'ne devredilmiştir. İki katlı ahşap yapıda mütareke dönemine ait eşya, fotoğraf ve belgeler sergilenmektedir.",
+		"verified": false
+	},
+	{
+		"id": 293,
+		"name": "Trilye",
+		"category": "monument",
+		"province": "Bursa",
+		"lng": 28.796,
+		"lat": 40.393,
+		"summary": "Mudanya ilçesine bağlı, Marmara Denizi kıyısında bir mahalledir. Nüfus mübadelesinden önce zeytin ve zeytinyağıyla tanınan Rum bir kasabaydı; Bizans ve Osmanlı mimarisinin izlerini taşır. Bugün turistik bir yerleşimdir.",
+		"verified": false
+	},
+	{
+		"id": 294,
+		"name": "Apollonia ad Rhyndacum Tiyatrosu",
+		"category": "ancient",
+		"province": "Bursa",
+		"lng": 28.6826,
+		"lat": 40.169735,
+		"summary": "Nilüfer ilçesindeki Gölyazı yakınında, Zambak Tepe yamacında yer alan antik tiyatro kalıntısıdır. Antik Apollonia Ad Rhyndacum kentine aittir; yakınında nekropol, Taş Kapı adlı antik kale kalıntısı ve Kız Adası'ndaki Apollon Tapınağı kalıntıları bulunur.",
+		"verified": false
+	},
+	{
+		"id": 295,
+		"name": "İznik Roma Tiyatrosu",
+		"category": "ancient",
+		"province": "Bursa",
+		"lng": 29.71694,
+		"lat": 40.42667,
+		"summary": "MS 2. yüzyılda Bitinya valisi Plinius tarafından İmparator Traianus döneminde inşa edilmiştir. Yaklaşık 84 x 63 metre boyutlarında, yaklaşık 10.000 seyirci kapasiteli olup iki yüzyıl boyunca gösteriler için kullanılmıştır. Yapı şu anda geçici olarak kapalıdır.",
+		"verified": false
+	},
+	{
+		"id": 296,
+		"name": "İznik Müzesi",
+		"category": "museum",
+		"province": "Bursa",
+		"lng": 29.72083,
+		"lat": 40.42417,
+		"summary": "Bursa'nın İznik ilçesinde arkeolojik eserleri sergileyen müzedir. 1935'te Yakup Çelebi Zaviyesi'nde açılmış, 1960'ta Nilüfer Hatun İmareti'ne taşınmıştır. Yeni binası 16 Ocak 2023'ten beri ziyarete açıktır ve yaklaşık 1500 eser sergilenmektedir.",
+		"verified": false
+	},
+	{
+		"id": 297,
+		"name": "İznik Surları ve Lefke Kapısı",
+		"category": "castle",
+		"province": "Bursa",
+		"lng": 29.7290668,
+		"lat": 40.4288559,
+		"summary": "Yaklaşık 5 km uzunluğunda, 10 metre yüksekliğinde ve 100'ü aşkın kuleli surlardır; kara yönündeki üç tarafta büyük kapılar bulunur. Lefke Kapısı şehrin doğu tarafındadır ve Yeşil Cami yakınında yer alır. Surlar bugün harap olmakla birlikte yürüyüş rotası oluşturacak kadar kalıntı içerir.",
+		"verified": false
+	},
+	{
+		"id": 298,
+		"name": "Suuçtu Şelalesi",
+		"category": "nature",
+		"province": "Bursa",
+		"lng": 28.38438,
+		"lat": 39.90067,
+		"summary": "Bursa ili sınırları içinde yer alan bir şelaledir ve Mustafakemalpaşa ilçesi üzerinden ulaşılır. Kaynakta şelalenin yüksekliği ve oluşumu belirtilmemiştir.",
+		"verified": false
+	},
+	{
+		"id": 299,
+		"name": "Amasra Kalesi",
+		"category": "castle",
+		"province": "Bartın",
+		"lng": 32.38667,
+		"lat": 41.74972,
+		"summary": "Amasra Kalesi, Bartın’ın Amasra ilçesinde yer alan tarihi bir kaledir. Romalılar tarafından inşa edilmiş, sonra Bizanslılar, Cenevizliler ve Osmanlılar tarafından onarılmıştır. Sormagir ve Zindan Kalesi olmak üzere iki bölümden oluşur; UNESCO 2013’te kaleyi Dünya Mirası Geçici Listesi’ne eklemiştir.",
+		"verified": false
+	},
+	{
+		"id": 300,
+		"name": "Yürüyen Köşk",
+		"category": "museum",
+		"province": "Yalova",
+		"lng": 29.29778,
+		"lat": 40.66472,
+		"summary": "1929’da Yalova Millet Çiftliği’nde yapılan, dörtgen planlı ve iki katlı ahşap bir köşktür. Atatürk’ün isteğiyle yakındaki çınar ağacı kesilmek yerine bina tramvay rayları üzerinde yaklaşık 5 metre kaydırılmış, bu olaydan sonra adını almıştır. 2006’da Yalova Belediyesi tarafından onarılarak müze olarak açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 301,
+		"name": "İzmit Saat Kulesi",
+		"category": "monument",
+		"province": "Kocaeli",
+		"lng": 29.91972,
+		"lat": 40.76278,
+		"summary": "İzmit Garı’nın kuzeydoğusundaki bir tepede yer alan, 1900’de temeli atılıp 1902’de açılan 16,4 metrelik neoklasik Osmanlı tarzı bir saat kulesidir. Kocaeli’nin sembollerinden biri olarak anılır.",
+		"verified": false
+	},
+	{
+		"id": 302,
+		"name": "Sudüşen Şelalesi",
+		"category": "nature",
+		"province": "Yalova",
+		"lng": 29.14722,
+		"lat": 40.57611,
+		"summary": "Yalova’nın Termal ilçesinde, Nacaklı Deresi üzerinde bulunan bir şelaledir. Oluşturduğu havuz yüzmeye elverişlidir ve Yalova’dan düzenlenen turlarla ziyaret edilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 303,
+		"name": "Fatih Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.94972,
+		"lat": 41.01972,
+		"summary": "II. Mehmed tarafından 1463-1470 yılları arasında yaptırılmış Osmanlı camisidir; mimarı Atik Sinan'dır. Sayfaya göre 1766 depreminden sonra 1767-1771 yılları arasında Mehmed Tahir Ağa tarafından onarılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 304,
+		"name": "Şehzade Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.95722,
+		"lat": 41.01389,
+		"summary": "I. Süleyman tarafından 1543'te ölen oğlu Şehzade Mehmed'in anısına yaptırılmıştır. Mimarı Mimar Sinan olup yapımı 1543-1548 yılları arasında gerçekleşmiştir.",
+		"verified": false
+	},
+	{
+		"id": 305,
+		"name": "Beyazıt Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.96528,
+		"lat": 41.01028,
+		"summary": "II. Bayezid tarafından yaptırılmış ve 1501-1506 yılları arasında tamamlanmıştır. Mimarı kesin bilinmemekte; Mimar Hayrettin, Mimar Kemaleddin veya Yakupşah bin Sultanşah'a atfedilen görüşler bulunur. Yapı, semte dağınık biçimde kurulan külliyenin ana elemanıdır.",
+		"verified": false
+	},
+	{
+		"id": 306,
+		"name": "Yeni Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97222,
+		"lat": 41.01694,
+		"summary": "Safiye Sultan'ın emriyle 1597'de temeli atılmış, 1665'te Turhan Hatice Sultan'ın katkılarıyla tamamlanmıştır. İnşaatta Davud Ağa, Dalgıç Ahmed Ağa ve Mustafa Ağa görev yapmıştır.",
+		"verified": false
+	},
+	{
+		"id": 307,
+		"name": "Nuruosmaniye Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97028,
+		"lat": 41.01028,
+		"summary": "I. Mahmut tarafından 1748-1755 yılları arasında yaptırılmıştır. Mimarları Mustafa Ağa ile Simon Kalfa (Simeon Kalfa) olarak belirtilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 308,
+		"name": "Rüstem Paşa Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.96861,
+		"lat": 41.0175,
+		"summary": "Kanuni Sultan Süleyman'ın sadrazamı Damat Rüstem Paşa için Mimar Sinan tarafından 1561'de yaptırılmıştır; sayfada tamamlanma 1563 olarak verilmektedir. Kubbe eteklerine kadar çinilerle kaplıdır ve lale motifli çinileri Osmanlı çini sanatının başarılı örnekleri arasında sayılır.",
+		"verified": false
+	},
+	{
+		"id": 309,
+		"name": "Ortaköy Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.02694,
+		"lat": 41.04722,
+		"summary": "Sultan Abdülmecid tarafından 1853'te Ermeni mimar Nigoğos Balyan'a yaptırılmıştır; sayfanın kutusunda tamamlanma 1854 veya 1856 olarak verilmektedir. Mimar olarak Balyan ailesi gösterilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 310,
+		"name": "Mihrimah Sultan Camii (Üsküdar)",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.01611,
+		"lat": 41.02667,
+		"summary": "Kanuni Sultan Süleyman'ın kızı Mihrimah Sultan için yaptırılmıştır. Yapımına 1540'ta başlanmış, 1548'de tamamlanıp açılmıştır; mimarı Mimar Sinan'dır.",
+		"verified": false
+	},
+	{
+		"id": 311,
+		"name": "Sokollu Mehmed Paşa Külliyesi",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97194,
+		"lat": 41.00472,
+		"summary": "Mimar Sinan'ın eseri olup 1571'de tamamlanmıştır. Üç padişaha sadrazamlık yapan Sokollu Mehmet Paşa adına eşi Esmehan Sultan tarafından yaptırılmıştır. Kadırga semtinde, Şehit Mehmet Paşa yokuşunda yer alır.",
+		"verified": false
+	},
+	{
+		"id": 312,
+		"name": "Fethiye Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.94639,
+		"lat": 41.02917,
+		"summary": "Özgün adı Pammakaristos olan Orta Bizans dönemi (Komnenoslar) kilise ve manastırıdır; kitabeye göre İoannes Komnenos ile eşi Anna Dukaina kurmuştur. Yaklaşık 1587'de III. Murad döneminde camiye çevrilmiş, yan bölümü olan pareklezyondaki zengin mozaikler müze olarak korunmaktadır.",
+		"verified": false
+	},
+	{
+		"id": 313,
+		"name": "Küçük Ayasofya Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97194,
+		"lat": 41.00278,
+		"summary": "Bizans İmparatoru I. Justinianus ve eşi Theodora tarafından 527-536 yılları arasında Aziz Sergios ve Bakhos adına yaptırılmış Yunan haçı planlı bir kilisedir. 1497'de II. Beyazıt döneminde Hüseyin Ağa tarafından camiye çevrilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 314,
+		"name": "Kalenderhane Camii",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.96028,
+		"lat": 41.01306,
+		"summary": "Vefa semtinde, Doğu Roma döneminden kalma Yunan haçı planlı bir kilisedir; 9. veya 10. yüzyıla ait olduğu varsayılır. 18. yüzyılda camiye çevrilmiş, 1966-1975 arasında Harvard Üniversitesi ve İTÜ iş birliğiyle araştırma ve kazı yapılmış, 1968'de restore edilerek ibadete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 315,
+		"name": "Teodosius Surları (Edirnekapı)",
+		"category": "castle",
+		"province": "İstanbul",
+		"lng": 28.93917,
+		"lat": 41.03111,
+		"summary": "Teodosius Surları üzerindeki Edirnekapı (Charisius) kapısının bulunduğu mahalledir ve adını bu kapıdan alır. Sayfaya göre Sultan II. Mehmed şehre bu kapıdan girmiştir. Mahallede Bizans kökenli kilise ve camiler bulunur.",
+		"verified": false
+	},
+	{
+		"id": 316,
+		"name": "Binbirdirek Sarnıcı",
+		"category": "cave",
+		"province": "İstanbul",
+		"lng": 28.97444,
+		"lat": 41.0075,
+		"summary": "Bizans kaynaklarına göre 4. yüzyılda I. Konstantin döneminde senatör Philoksenos tarafından yaptırılmış, İstanbul'un ikinci büyük sarnıcıdır. Özgün olarak 224 sütunu bulunmakta, bunlardan 212 adedi günümüze ulaşmıştır.",
+		"verified": false
+	},
+	{
+		"id": 317,
+		"name": "Çemberlitaş Sütunu",
+		"category": "ancient",
+		"province": "İstanbul",
+		"lng": 28.97111,
+		"lat": 41.00861,
+		"summary": "Roma imparatoru Büyük Konstantin tarafından yaptırılmış, yaklaşık MS 328'de tamamlanıp 11 Mayıs 330'da ithaf edilmiştir. Özgün yüksekliği heykel hariç yaklaşık 37-40 metre olarak tahmin edilmektedir.",
+		"verified": false
+	},
+	{
+		"id": 318,
+		"name": "Hipodrom Dikilitaşı",
+		"category": "ancient",
+		"province": "İstanbul",
+		"lng": 28.9754,
+		"lat": 41.0059,
+		"summary": "Karnak'ta III. Thutmose döneminde dikilmiş Mısır dikilitaşıdır. 390 yılında I. Theodosius tarafından İskenderiye'den Konstantinopolis'e getirilip hipodromun spinasına dikilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 319,
+		"name": "Bozdoğan Kemeri",
+		"category": "ancient",
+		"province": "İstanbul",
+		"lng": 28.95556,
+		"lat": 41.01611,
+		"summary": "Konstantin döneminde başlanmış, 378 yılında İmparator Valens tarafından tamamlanmış Roma su kemeridir. Sayfaya göre uzunluğu 971 metredir; kemerlerin bir bölümü II. Mustafa ve Kanuni Sultan Süleyman döneminde eklenmiştir.",
+		"verified": false
+	},
+	{
+		"id": 320,
+		"name": "Kız Kulesi",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.00417,
+		"lat": 41.02111,
+		"summary": "Salacak açıklarındaki bir adacıkta yer alır; 1110'da Bizans İmparatoru I. Aleksios'un yaptırdığı ahşap kule ile başlamıştır. Gemilerden vergi toplamak için kullanılmış, 1829'dan itibaren karantina istasyonu olarak hizmet vermiştir; restorasyonu 11 Mayıs 2023'te tamamlanarak yeniden açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 321,
+		"name": "Galata Köprüsü",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.97306,
+		"lat": 41.02,
+		"summary": "Haliç üzerinde Karaköy ile Eminönü'nü birleştirir. Haliç'teki ilk modern köprü 1845'te yapılmış; bugünkü 490 metrelik baskül köprü 1994 Aralık'ında tamamlanmıştır. Üzerinden tramvay geçen az sayıdaki baskül köprüden biridir.",
+		"verified": false
+	},
+	{
+		"id": 322,
+		"name": "15 Temmuz Şehitler Köprüsü",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.03389,
+		"lat": 41.04556,
+		"summary": "İstanbul Boğazı'nı aşan asma köprü olup 30 Ekim 1973'te hizmete açılmıştır. Toplam uzunluğu 1.560 metre, orta açıklığı 1.074 metredir. 2016'da eski adı Boğaziçi Köprüsü'nden 15 Temmuz Şehitler Köprüsü olarak değiştirilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 323,
+		"name": "Çamlıca Kulesi",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.06556,
+		"lat": 41.01639,
+		"summary": "Üsküdar'daki Küçük Çamlıca Tepesi'nde yer alan televizyon ve seyir kulesidir. Toplam yüksekliği 369 metredir ve 29 Mayıs 2021'de açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 324,
+		"name": "Balat",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 28.9456,
+		"lat": 41.0328,
+		"summary": "Fatih'te Haliç kıyısında, rengarenk teraslı evleriyle bilinen tarihi semttir. Bir zamanlar İstanbul Yahudi topluluğunun merkeziydi; Bulgar Demir Kilise, Ahrida Sinagogu ve Hagios Georgios Metochi kilisesi öne çıkan yerlerdendir.",
+		"verified": false
+	},
+	{
+		"id": 325,
+		"name": "Küçüksu Kasrı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.06472,
+		"lat": 41.07833,
+		"summary": "Sultan Abdülmecid'in yaptırdığı, mimarı Nikoğos Balyan olan ve 1856'da tamamlanan Boğaziçi biniş kasrıdır. 1983'ten itibaren müze olarak ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 326,
+		"name": "Çırağan Sarayı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.01528,
+		"lat": 41.04333,
+		"summary": "Beşiktaş'ta, Balyan ailesi tarafından inşa edilmiş tarihî saraydır; yapımına 1863'te başlanmış, Sultan Abdülaziz döneminde 1871'de tamamlanmıştır (bilgi kutusunda 1867 görünür). Bugün Kempinski adıyla otel olarak hizmet vermektedir.",
+		"verified": false
+	},
+	{
+		"id": 327,
+		"name": "Beykoz Kasrı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.08139,
+		"lat": 41.13806,
+		"summary": "Mısır valisi Kavalalı Mehmed Ali Paşa tarafından 1845'te yapımına başlanmış, paşanın oğlu tarafından 1854'te tamamlanarak Sultan Abdülmecid'e armağan edilmiştir. 2005'te başlayan restorasyonu 2011'de tamamlanmış, bugün Millî Saraylar Daire Başkanlığı'na tahsislidir.",
+		"verified": false
+	},
+	{
+		"id": 328,
+		"name": "Yıldız Sarayı",
+		"category": "monument",
+		"province": "İstanbul",
+		"lng": 29.01111,
+		"lat": 41.04944,
+		"summary": "Yapı ilk olarak III. Selim'in annesi Mihrişah Sultan için yaptırılmış; II. Abdülhamid döneminde Osmanlı Devleti'nin ana sarayı olarak kullanılmıştır. 2024 yılında müze olarak ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 329,
+		"name": "Türk ve İslam Eserleri Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.97444,
+		"lat": 41.00639,
+		"summary": "Fatih'te İslam sanatı eserlerini bir arada sergileyen ilk Türk müzesidir. 1914'te Süleymaniye Külliyesi'ndeki imarette Evkaf-ı İslâmiye Müzesi olarak açılmış, 1983'te Sultanahmet Meydanı'nın batısındaki İbrahim Paşa Sarayı'na taşınmıştır.",
+		"verified": false
+	},
+	{
+		"id": 330,
+		"name": "Galata Mevlevihanesi Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.975,
+		"lat": 41.02806,
+		"summary": "1491'de İskender Paşa tarafından yaptırılmış, şehirdeki ilk mevlevihane niteliğindeki yapıdır. 1925'te faaliyeti sona erdirilmiş; 21 Kasım 2011'den beri müze olarak ziyarete açıktır.",
+		"verified": false
+	},
+	{
+		"id": 331,
+		"name": "Sakıp Sabancı Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 29.05361,
+		"lat": 41.09917,
+		"summary": "Sarıyer'in Emirgan mahallesinde, Atlı Köşk'te ve bitişiğindeki modern galeride hizmet veren sanat müzesidir. 2002'de kurulmuş ve ziyarete açılmıştır; kitap sanatları, hat, resim, mobilya ve arkeolojik eserleri sergiler.",
+		"verified": false
+	},
+	{
+		"id": 332,
+		"name": "İstanbul Modern",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 28.98306,
+		"lat": 41.02611,
+		"summary": "Karaköy'de 2004'te açılan Türkiye'nin ilk modern ve çağdaş sanat müzesidir. Yeni binası Renzo Piano Building Workshop tarafından tasarlanmış, beş katlı ve yaklaşık 10.500 metrekare kullanım alanına sahiptir; 4 Mayıs 2023'te ziyarete açılmıştır.",
+		"verified": false
+	},
+	{
+		"id": 333,
+		"name": "İstanbul Deniz Müzesi",
+		"category": "museum",
+		"province": "İstanbul",
+		"lng": 29.00556,
+		"lat": 41.04167,
+		"summary": "1897'de kurulan müze Beşiktaş'ta, Hayrettin İskelesi Sokak'ta yer almaktadır. Saltanat kayıkları, model gemiler ve Atatürk'e ait koleksiyonları sergiler; tarihi kayıklar galerisi ve açık hava bahçesi bulunur.",
+		"verified": false
+	},
+	{
+		"id": 334,
+		"name": "Mısır Çarşısı",
+		"category": "khan",
+		"province": "İstanbul",
+		"lng": 28.97056,
+		"lat": 41.01639,
+		"summary": "Eminönü'nde, en eski kapalı çarşılardan biridir. Bugünkü yapı 1660'ta Turhan Sultan tarafından Hassa baş mimarı Kâzım Ağa'ya yaptırılmıştır. Aktarları ile baharat, kuruyemiş ve şarküteri ürünleriyle bilinir.",
+		"verified": false
+	},
+	{
+		"id": 335,
+		"name": "Büyükada",
+		"category": "nature",
+		"province": "İstanbul",
+		"lng": 29.12,
+		"lat": 40.85778,
+		"summary": "Adalar'ın en büyüğüdür; yaklaşık 5,4 km² yüzölçümüne ve 2018 verilerine göre 8.586 kişilik nüfusa sahiptir. Aya Yorgi Manastırı, Adalar Müzesi ve Lev Troçki'nin yaşadığı ev gibi yerleriyle bilinir; ulaşım bisiklet ve elektrikli araçlarla sağlanır.",
+		"verified": false
+	},
+	{
+		"id": 336,
+		"name": "Polonezköy",
+		"category": "nature",
+		"province": "İstanbul",
+		"lng": 29.2122,
+		"lat": 41.1139,
+		"summary": "Beykoz'da, 1830 Polonya Ayaklanması'nın ardından sürgün Polonyalıların lideri Prens Adam Czartoryski tarafından 1842'de kurulmuş köydür. Başlangıçta tarım ve hayvancılık yapılan köy, zamanla piknik ve tatil yeri olarak tercih edilmiştir.",
+		"verified": false
+	},
+	{
+		"id": 337,
+		"name": "Belgrad Ormanı",
+		"category": "park",
+		"province": "İstanbul",
+		"lng": 28.95139,
+		"lat": 41.19472,
+		"summary": "Avrupa Yakası'nda, Çatalca Yarımadası'nın doğu ucunda, yüzölçümü 54,42 km² olan doğal bir ormandır. Bizans ve Osmanlı dönemlerinde İstanbul'a içme suyu sağlayan en önemli kaynaklardan biriydi; ormanda tarihi bentler ve çok sayıda akarsu bulunur.",
+		"verified": false
+	}
+]
