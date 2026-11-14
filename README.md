@@ -42,7 +42,7 @@ The search box ignores accents and case (`sanliurfa` finds Şanlıurfa), matches
 
 ## Workflow
 
-`bun install` sets up a pre-commit hook (`.githooks/pre-commit`) that runs Biome format and lint on staged files. Every push to `main` is deployed to Vercel automatically.
+`bun install` sets up a pre-commit hook (`.githooks/pre-commit`) that validates `data/places.json` (`bun run validate`: known category, unique id and name, coordinates inside Türkiye) and runs Biome format and lint on staged files. Every push to `main` is deployed to Vercel automatically.
 
 ## License
 

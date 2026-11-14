@@ -1,3 +1,4 @@
 #!/bin/sh
-# Format + lint staged files, re-stage the fixes.
+# Validate data, then format + lint staged files and re-stage the fixes.
+bun run validate || exit 1
 bunx biome check --write --staged --no-errors-on-unmatched && git update-index --again
