@@ -59,9 +59,7 @@ onMount(() => {
 <aside
 	class="fixed inset-x-2 bottom-[max(0.5rem,env(safe-area-inset-bottom))] z-10 flex h-[52dvh] flex-col overflow-hidden rounded-[20px] bg-paper/85 shadow-panel backdrop-blur-2xl backdrop-saturate-150 md:inset-x-auto md:inset-y-4 md:left-4 md:h-auto md:w-95 md:rounded-[22px]"
 >
-	<header
-		class="flex items-center gap-2.5 px-4.5 pt-4 pb-2.5 md:px-5.5 md:pt-5.5 md:pb-4"
-	>
+	<header class="flex items-center gap-2.5 px-4 pt-4 pb-2.5 md:pt-5.5 md:pb-4">
 		<!-- Easter egg: the logo explains its own parts. -->
 		<div bind:this={logo} class="group relative">
 			<button
@@ -80,7 +78,7 @@ onMount(() => {
 				id="logo-about"
 				role="tooltip"
 				data-open={about}
-				class="pointer-events-none invisible absolute top-full left-0 z-20 mt-2.5 w-72 origin-top-left scale-97 rounded-2xl bg-paper p-3.5 opacity-0 shadow-panel transition-[opacity,scale,visibility] duration-150 ease-out-strong group-hover:visible group-hover:scale-100 group-hover:opacity-100 group-hover:delay-300 group-has-[:focus-visible]:visible group-has-[:focus-visible]:scale-100 group-has-[:focus-visible]:opacity-100 data-[open=true]:visible data-[open=true]:scale-100 data-[open=true]:opacity-100 motion-reduce:scale-100"
+				class="pointer-events-none invisible absolute top-full left-0 z-20 mt-2.5 w-72 origin-top-left scale-97 rounded-2xl bg-paper p-3.5 opacity-0 shadow-panel transition-[opacity,scale,visibility] duration-200 ease-out group-hover:visible group-hover:scale-100 group-hover:opacity-100 group-hover:delay-300 group-has-[:focus-visible]:visible group-has-[:focus-visible]:scale-100 group-has-[:focus-visible]:opacity-100 data-[open=true]:visible data-[open=true]:scale-100 data-[open=true]:opacity-100 motion-reduce:scale-100"
 			>
 				<dl
 					class="m-0 grid grid-cols-[1.25rem_1fr] items-start gap-3 text-[13px] leading-snug"
@@ -124,7 +122,7 @@ onMount(() => {
 			</div>
 		</div>
 		<h1
-			class="font-display text-2xl leading-none font-semibold tracking-tight md:text-[26px]"
+			class="font-display text-2xl leading-none font-semibold tracking-tight [text-box:trim-both_cap_alphabetic] md:text-[26px]"
 		>
 			Discover Türkiye
 		</h1>

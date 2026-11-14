@@ -1,5 +1,6 @@
 <script lang="ts">
 import { tick } from "svelte";
+import { fade } from "svelte/transition";
 import { CATEGORIES } from "../lib/categories";
 import { app } from "../lib/store.svelte";
 import Glyph from "./Glyph.svelte";
@@ -17,7 +18,9 @@ $effect(() => {
 		last = null;
 		// Wait for the detail view to unmount; skip if focus went elsewhere (e.g. search).
 		tick().then(() => {
-			if (document.activeElement === document.body)
+			const active = document.activeElement;
+			// The detail view may still be fading out with focus inside it.
+			if (active === document.body || active?.closest("[data-detail]"))
 				list
 					.querySelector<HTMLElement>(`[data-id="${id}"]`)
 					?.focus({ preventScroll: true });
@@ -26,10 +29,11 @@ $effect(() => {
 });
 </script>
 
+<!-- Visibility transitions only on the way out: on the way in it would still be hidden when focus returns to a row. -->
 <section
 	inert={hidden}
 	class="absolute inset-0 overflow-y-auto px-2.5 pt-2 pb-3.5 transition-[opacity,translate] duration-200 ease-out-strong starting:translate-y-1.5 starting:opacity-0 motion-reduce:transition-none {hidden
-		? "invisible translate-y-1.5 opacity-0"
+		? "invisible translate-y-1.5 opacity-0 motion-safe:transition-[opacity,translate,visibility] motion-safe:duration-120 motion-safe:ease-out"
 		: ""}"
 >
 	<div
@@ -43,7 +47,8 @@ $effect(() => {
 			<button
 				type="button"
 				onclick={() => app.clear()}
-				class="rounded-md px-1.5 py-0.5 font-medium text-ink transition-transform duration-160 ease-out-strong hover:bg-ink/5 active:scale-[0.97]"
+				transition:fade={{ duration: 150 }}
+				class="rounded-md px-1.5 py-0.5 font-medium text-ink transition-[scale,background-color] duration-160 ease-out-strong hover:bg-ink/5 active:scale-[0.97]"
 			>
 				Filtreleri temizle
 			</button>
@@ -59,7 +64,7 @@ $effect(() => {
 					onclick={() => (app.selectedId = place.id)}
 					style:--c={style.color}
 					style:animation-delay="{Math.min(i, 10) * 30}ms"
-					class="flex w-full animate-rise items-center gap-3 rounded-xl px-2 py-2.5 transition-[transform,background-color] duration-120 ease-out-strong hover:bg-ink/5 active:scale-[0.985] motion-reduce:animate-none"
+					class="flex w-full animate-rise items-center gap-3 rounded-xl px-2 py-2.5 transition-[scale,background-color] duration-120 ease-out-strong hover:bg-ink/5 active:scale-[0.985] motion-reduce:animate-none"
 				>
 					<Glyph glyph={style.glyph} class="size-5 shrink-0 text-(--c)" />
 					<span class="min-w-0 flex-1">

@@ -23,7 +23,7 @@ const counts = Object.fromEntries(
 			onclick={() => app.toggleOnly(key)}
 			aria-pressed={app.only === key}
 			style:--c={style.color}
-			class="flex shrink-0 snap-start items-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-2.5 py-2 tall:min-w-0 transition-[transform,opacity,background-color,border-color] duration-160 ease-out-strong hover:bg-white active:scale-[0.97] aria-pressed:border-(--c) aria-pressed:bg-white {dimmed
+			class="flex shrink-0 snap-start items-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-2.5 py-2 tall:min-w-0 transition-[scale,opacity,background-color,border-color] duration-160 ease-out-strong hover:bg-white active:scale-[0.97] aria-pressed:border-(--c) aria-pressed:bg-white {dimmed
 				? "opacity-55"
 				: ""}"
 		>

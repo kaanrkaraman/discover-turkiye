@@ -1,5 +1,6 @@
 <script lang="ts">
 import { onMount } from "svelte";
+import { fade } from "svelte/transition";
 import { CATEGORIES } from "../lib/categories";
 import { app } from "../lib/store.svelte";
 import type { Place } from "../lib/types";
@@ -16,6 +17,8 @@ onMount(() => back.focus({ preventScroll: true }));
 </script>
 
 <section
+	data-detail
+	out:fade={{ duration: 120 }}
 	style:--c={style.color}
 	class="absolute inset-0 overflow-y-auto px-5 pt-2 pb-5 transition-[opacity,translate] duration-200 ease-out-strong motion-reduce:transition-none starting:translate-y-1.5 starting:opacity-0"
 >
@@ -23,7 +26,7 @@ onMount(() => back.focus({ preventScroll: true }));
 		bind:this={back}
 		type="button"
 		onclick={() => (app.selectedId = null)}
-		class="mb-2 -ml-0.5 inline-flex items-center gap-1.5 rounded-[10px] px-2.5 py-2 text-muted transition-[transform,color] duration-160 ease-out-strong hover:text-ink active:scale-[0.97]"
+		class="mb-2 -ml-0.5 inline-flex items-center gap-1.5 rounded-[10px] px-2.5 py-2 text-muted transition-[scale,color] duration-160 ease-out-strong hover:text-ink active:scale-[0.97]"
 	>
 		← Tüm yerler
 	</button>
@@ -45,10 +48,16 @@ onMount(() => back.focus({ preventScroll: true }));
 		type="button"
 		aria-pressed={done}
 		onclick={() => app.toggleVisited(place.id)}
-		class="mt-5 flex w-full items-center justify-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-4 py-3 text-center font-medium transition-[transform,background-color,border-color] duration-160 ease-out-strong active:scale-[0.97] aria-pressed:border-visited/35 aria-pressed:bg-visited/12 aria-pressed:text-[#226b3c]"
+		class="mt-5 flex w-full items-center justify-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-4 py-3 text-center font-medium transition-[scale,background-color,border-color,color] duration-160 ease-out-strong active:scale-[0.97] aria-pressed:border-visited/35 aria-pressed:bg-visited/12 aria-pressed:text-[#226b3c]"
 	>
 		{#if done}
-			<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+			<svg
+				viewBox="0 0 16 16"
+				width="16"
+				height="16"
+				aria-hidden="true"
+				class="transition-[opacity,scale] duration-200 ease-out-strong starting:scale-75 starting:opacity-0"
+			>
 				<circle cx="8" cy="8" r="8" fill="#2d8a4e" />
 				<path
 					d="M4.5 8.2l2.3 2.3 4.7-5"
