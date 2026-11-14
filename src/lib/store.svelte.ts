@@ -93,16 +93,9 @@ const score = (entry: (typeof index)[number], tokens: string[]) => {
 	return total;
 };
 
-export const provinces = Object.entries(
-	Object.groupBy(places, (p) => p.province),
-)
-	.map(([name, list]) => ({ name, count: list?.length ?? 0 }))
-	.sort((a, b) => a.name.localeCompare(b.name, "tr"));
-
 class AppState {
 	query = $state("");
 	only = $state<Category | null>(null);
-	province = $state("");
 	selectedId = $state<number | null>(null);
 	visited = new SvelteSet<number>(loadVisited());
 
@@ -111,9 +104,7 @@ class AppState {
 	visible = $derived.by(() => {
 		const tokens = words(this.query);
 		const pool = index.filter(
-			(e) =>
-				(this.only === null || e.place.category === this.only) &&
-				(this.province === "" || e.place.province === this.province),
+			(e) => this.only === null || e.place.category === this.only,
 		);
 		if (!tokens.length) return pool.map((e) => e.place);
 		return pool
@@ -123,13 +114,10 @@ class AppState {
 			.map((e) => e.place);
 	});
 
-	filtered = $derived(
-		this.only !== null || this.province !== "" || this.query.trim() !== "",
-	);
+	filtered = $derived(this.only !== null || this.query.trim() !== "");
 
 	clear() {
 		this.only = null;
-		this.province = "";
 		this.query = "";
 	}
 

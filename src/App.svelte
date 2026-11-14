@@ -4,7 +4,7 @@ import Layers from "./components/Layers.svelte";
 import MapView from "./components/MapView.svelte";
 import PlaceDetail from "./components/PlaceDetail.svelte";
 import PlaceList from "./components/PlaceList.svelte";
-import { app, provinces } from "./lib/store.svelte";
+import { app } from "./lib/store.svelte";
 
 let search: HTMLInputElement | undefined;
 
@@ -20,7 +20,7 @@ const onkeydown = (event: KeyboardEvent) => {
 
 // Changing any filter closes the open place so the list always reflects the filter.
 $effect(() => {
-	void [app.query, app.only, app.province];
+	void [app.query, app.only];
 	untrack(() => {
 		app.selectedId = null;
 	});
@@ -64,18 +64,6 @@ onMount(() => {
 		>
 			/
 		</kbd>
-		<select
-			bind:value={app.province}
-			aria-label="İl"
-			class="mt-2 h-9.5 w-full rounded-xl border border-ink/10 bg-white/70 px-3 transition-[border-color,box-shadow] duration-160 outline-none focus:border-accent focus:ring-3 focus:ring-accent/15 {app.province
-				? ""
-				: "text-muted"}"
-		>
-			<option value="">Tüm iller</option>
-			{#each provinces as { name, count } (name)}
-				<option value={name}>{name} ({count})</option>
-			{/each}
-		</select>
 	</div>
 	<Layers />
 	<div class="relative min-h-0 flex-1 border-t border-ink/10">

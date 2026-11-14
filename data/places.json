@@ -1374,8 +1374,8 @@
 		"name": "Selime Katedrali",
 		"category": "monument",
 		"province": "Aksaray",
-		"lng": 34.267,
-		"lat": 38.3,
+		"lng": 34.2593994,
+		"lat": 38.3016929,
 		"summary": "Güzelyurt ilçesi Selime'de bulunan katedraldir. Kaynakta, Roma baskısından kaçan Hıristiyanların peribacalarında yaşadığı ve Hıristiyanlığın kabulünden sonra burada kiliseler ve katedraller yapıldığı belirtilir.",
 		"verified": false
 	},
@@ -1784,8 +1784,8 @@
 		"name": "Dülük Antik Kenti",
 		"category": "ancient",
 		"province": "Gaziantep",
-		"lng": 37.367,
-		"lat": 37.15,
+		"lng": 37.3454068,
+		"lat": 37.1277758,
 		"summary": "Gaziantep'in Şehitkamil ilçesinde yer alan antik kent; sayfaya göre Türkiye'de hâlâ iskân edilen en eski kent olarak tanımlanır. Hitit, Med, Asur, Pers ve İskender hâkimiyetlerinin ardından önemi, yakındaki Antiochia ad Taurum'un (bugünkü Gaziantep) kurulmasıyla azalmıştır. Buluntular arasında yeraltı Mitra Tapınağı ve kaya mezarları bulunmaktadır.",
 		"verified": false
 	},
@@ -2144,8 +2144,8 @@
 		"name": "Dara Antik Kenti",
 		"category": "ancient",
 		"province": "Mardin",
-		"lng": 40.94111,
-		"lat": 37.17778,
+		"lng": 40.945756,
+		"lat": 37.17899,
 		"summary": "Mardin'in yaklaşık 30 km güneydoğusunda, Oğuz Köyü'nde yer alan antik kent. 505 yılında İmparator Anastasius tarafından Doğu Roma sınırını Sasanilere karşı korumak için garnizon kenti olarak kurulmuştur; 4 km uzunluğunda sur, kaya oyma yapılar, kiliseler, sarnıçlar ve korunan bir mezarlık bulunmaktadır.",
 		"verified": false
 	},
@@ -2164,8 +2164,8 @@
 		"name": "Uzuncaburç (Diokaisareia) Antik Kenti",
 		"category": "ancient",
 		"province": "Mersin",
-		"lng": 33.933,
-		"lat": 36.583,
+		"lng": 33.927243,
+		"lat": 36.5839048,
 		"summary": "Mersin'in Silifke ilçesinde, Diokaisareia antik kentinin kalıntıları. 36 sütunu ayakta duran Zeus Tapınağı, Tyche Tapınağı, altı sütunu kalan tören kapısı ve Marcus Aurelius ile Lucius Verus döneminde inşa edilen Roma tiyatrosu bulunmaktadır. Alan, Olba halkının kutsal merkezi olmuştur.",
 		"verified": false
 	},
@@ -2414,8 +2414,8 @@
 		"name": "Pertek Kalesi",
 		"category": "castle",
 		"province": "Tunceli",
-		"lng": 39.271,
-		"lat": 38.844,
+		"lng": 39.2717809,
+		"lat": 38.8437598,
 		"summary": "Pertek ilçesinde, Keban Baraj Gölü'nde bir ada üzerinde yer alan kale. Kaynağa göre mevcut yapı 11. yüzyılda Mengücekoğulları tarafından inşa edilmiş olup, Urartu dönemine uzanan bir geçmişi olabilir. 1974'te Keban Barajı'nın sularının yükselmesiyle kale, gölün kuzey kıyısından yaklaşık 5 km uzakta bir adacık hâline gelmiştir.",
 		"verified": false
 	},
@@ -3144,8 +3144,8 @@
 		"name": "Teodosius Surları (Edirnekapı)",
 		"category": "castle",
 		"province": "İstanbul",
-		"lng": 28.93917,
-		"lat": 41.03111,
+		"lng": 28.93429,
+		"lat": 41.0289,
 		"summary": "Teodosius Surları üzerindeki Edirnekapı (Charisius) kapısının bulunduğu mahalledir ve adını bu kapıdan alır. Sayfaya göre Sultan II. Mehmed şehre bu kapıdan girmiştir. Mahallede Bizans kökenli kilise ve camiler bulunur.",
 		"verified": false
 	},
@@ -3207,26 +3207,6 @@
 		"lng": 28.97306,
 		"lat": 41.02,
 		"summary": "Haliç üzerinde Karaköy ile Eminönü'nü birleştirir. Haliç'teki ilk modern köprü 1845'te yapılmış; bugünkü 490 metrelik baskül köprü 1994 Aralık'ında tamamlanmıştır. Üzerinden tramvay geçen az sayıdaki baskül köprüden biridir.",
-		"verified": false
-	},
-	{
-		"id": 322,
-		"name": "15 Temmuz Şehitler Köprüsü",
-		"category": "monument",
-		"province": "İstanbul",
-		"lng": 29.03389,
-		"lat": 41.04556,
-		"summary": "İstanbul Boğazı'nı aşan asma köprü olup 30 Ekim 1973'te hizmete açılmıştır. Toplam uzunluğu 1.560 metre, orta açıklığı 1.074 metredir. 2016'da eski adı Boğaziçi Köprüsü'nden 15 Temmuz Şehitler Köprüsü olarak değiştirilmiştir.",
-		"verified": false
-	},
-	{
-		"id": 323,
-		"name": "Çamlıca Kulesi",
-		"category": "monument",
-		"province": "İstanbul",
-		"lng": 29.06556,
-		"lat": 41.01639,
-		"summary": "Üsküdar'daki Küçük Çamlıca Tepesi'nde yer alan televizyon ve seyir kulesidir. Toplam yüksekliği 369 metredir ve 29 Mayıs 2021'de açılmıştır.",
 		"verified": false
 	},
 	{
