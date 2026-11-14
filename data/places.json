@@ -3348,5 +3348,15 @@
 		"lat": 41.19472,
 		"summary": "Avrupa Yakası'nda, Çatalca Yarımadası'nın doğu ucunda, yüzölçümü 54,42 km² olan doğal bir ormandır. Bizans ve Osmanlı dönemlerinde İstanbul'a içme suyu sağlayan en önemli kaynaklardan biriydi; ormanda tarihi bentler ve çok sayıda akarsu bulunur.",
 		"verified": false
+	},
+	{
+		"id": 338,
+		"name": "Balık Gölü",
+		"category": "nature",
+		"province": "Ağrı",
+		"lng": 43.5661286,
+		"lat": 39.7810091,
+		"summary": "Aras Dağları üzerinde, Ağrı ili sınırları içinde yer alan volkanik set gölüdür. Deniz seviyesinden yaklaşık 2.241 metre yükseklikte, yaklaşık 30 km² alana sahiptir ve en derin yeri 37 metredir. Çevre köyler için içme ve kullanma suyu kaynağıdır.",
+		"verified": false
 	}
 ]
