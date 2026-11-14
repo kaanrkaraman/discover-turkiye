@@ -26,9 +26,23 @@ bun run dev
 
 ## Data
 
-Places live in `data/places.json`. Descriptions are short factual summaries compiled from official sources (kulturportali.gov.tr, ktb.gov.tr, muze.gov.tr, unesco.org.tr, whc.unesco.org). Coordinates of many entries are approximate and being verified.
+Places live in `data/places.json` (336 entries). Each entry has `id`, `name`, `category`, `province`, `lng`, `lat`, `summary` and `verified`.
+
+- The first 132 entries (`verified: true`) are summaries compiled from official sources (kulturportali.gov.tr, ktb.gov.tr, muze.gov.tr, unesco.org.tr, whc.unesco.org).
+- The rest (`verified: false`) were collected later, mostly from Wikipedia, Wikidata and OpenStreetMap. Their summaries and coordinates still need checking against official sources. Some pins sit at a village or district centre rather than the site itself.
+- Coverage is uneven: several provinces (for example Hakkâri, Bingöl, Sakarya) are thin. Corrections and additions are welcome.
+
+To add a place, append an entry with the next free `id`, then run `bun run check`. Coordinates are decimal degrees (`lng` east-west, `lat` north-south).
 
 Your visited places are stored only in your browser's `localStorage`.
+
+## Search
+
+The search box ignores accents and case (`sanliurfa` finds Şanlıurfa), matches several words at once across name, province and category, ranks name matches first and tolerates a single typo. Press `/` to focus it.
+
+## Workflow
+
+`bun install` sets up a pre-commit hook (`.githooks/pre-commit`) that runs Biome format and lint on staged files. Every push to `main` is deployed to Vercel automatically.
 
 ## License
 
