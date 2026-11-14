@@ -10,37 +10,37 @@ export const CATEGORIES: Record<Category, CategoryStyle> = {
 	ancient: {
 		label: "Antik Kentler",
 		color: "#c2562d",
-		glyph: `<path d="M4 9l8-4 8 4z"/><path d="M6 11v7M10 11v7M14 11v7M18 11v7M4 20h16"/>`,
+		glyph: `<path d="M6 5h12"/><path d="M6 5c-2 0-2 3 0 3M18 5c2 0 2 3 0 3"/><path d="M8 8h8"/><path d="M9.5 8v11M12 8v11M14.5 8v11"/><path d="M7 19h10M6 21h12"/>`,
 	},
 	monument: {
 		label: "Tarihi Eserler",
 		color: "#b8871f",
-		glyph: `<path d="M3 20h12M4.5 20v-5a4.5 4.5 0 0 1 9 0v5M9 10.5V8.5"/><path d="M19 20V9l1-3 1 3v11M18 20h4"/>`,
+		glyph: `<path d="M4 21V4h16v17"/><path d="M4 8h16"/><path d="M8 21v-6.5a4 4 0 0 1 8 0V21"/><path d="M12 10.5v0"/>`,
 	},
 	castle: {
 		label: "Kaleler",
 		color: "#5d6470",
-		glyph: `<path d="M5 20V8h2V5h2v3h2V5h2v3h2V5h2v3h2v12zM10 20v-4a2 2 0 0 1 4 0v4"/>`,
+		glyph: `<path d="M7 21V9h10v12"/><path d="M6 9V4h2.5v2h2V4h3v2h2V4H18v5"/><path d="M10 21v-3a2 2 0 0 1 4 0v3"/><path d="M11 12.5h2"/>`,
 	},
 	museum: {
 		label: "Müzeler",
 		color: "#2f6f8f",
-		glyph: `<path d="M5 5h14v5H5z"/><path d="M9 10v11h6V10"/>`,
+		glyph: `<path d="M9 3h6"/><path d="M10 3v3.2C7.2 7.3 6 10 6 13c0 3.4 2.4 6 6 6s6-2.6 6-6c0-3-1.2-5.7-4-6.8V3"/><path d="M8 6.5C5.5 6.5 5 9.5 6.5 11M16 6.5c2.5 0 3 3 1.5 4.5"/><path d="M9 21h6"/>`,
 	},
 	khan: {
 		label: "Han ve Köprüler",
 		color: "#7d8f3a",
-		glyph: `<path d="M3 19h18M4 11h16M6 11v8M18 11v8M9 11a3 3 0 0 1 6 0"/>`,
+		glyph: `<path d="M2 12c3-3.5 6.5-5 10-5s7 1.5 10 5"/><path d="M2 12v3M22 12v3"/><path d="M6 15a6 6 0 0 1 12 0"/><path d="M2 15h4M18 15h4"/><path d="M3 19.5c1.5-1 3-1 4.5 0s3 1 4.5 0 3-1 4.5 0 3 1 4.5 0"/>`,
 	},
 	park: {
 		label: "Milli Parklar",
 		color: "#4a7c4e",
-		glyph: `<circle cx="6.5" cy="11" r="1.8"/><circle cx="10" cy="6.5" r="1.8"/><circle cx="14" cy="6.5" r="1.8"/><circle cx="17.5" cy="11" r="1.8"/><path d="M12 12c-3 0-5 3-5 5.5 0 2 2 2.5 5 1.5 3 1 5 .5 5-1.5 0-2.5-2-5.5-5-5.5z"/>`,
+		glyph: `<path d="M12 2 6.5 10H9l-4 6h14l-4-6h2.5z"/><path d="M12 16v6"/>`,
 	},
 	nature: {
 		label: "Doğal Güzellikler",
 		color: "#1f9fbf",
-		glyph: `<circle cx="12" cy="9" r="3.5"/><path d="M12 2v1M4.5 5.5l.7.7M19.5 5.5l-.7.7"/><path d="M3 16c2-2 4-2 6 0s4 2 6 0 4-2 6 0M3 20c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/>`,
+		glyph: `<path d="M2 16 8 7l4 5 3-3 7 7"/><path d="M3 20c2-1.5 4-1.5 6 0s4 1.5 6 0 4-1.5 6 0"/>`,
 	},
 	cave: {
 		label: "Mağaralar",
