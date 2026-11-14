@@ -1,4 +1,19 @@
 #!/bin/sh
-# Validate data, then format + lint staged files and re-stage the fixes.
+# Validate data, then format + lint staged files.
 bun run validate || exit 1
-bunx biome check --write --staged --no-errors-on-unmatched && git update-index --again
+
+staged=$(git diff --cached --name-only --diff-filter=ACMR)
+[ -z "$staged" ] && exit 0
+
+# Files with both staged and unstaged changes: auto-fixing and re-staging them
+# would sneak the unstaged hunks into the commit, so only check those.
+partial=$(git diff --name-only | grep -Fx "$staged")
+
+if [ -n "$partial" ]; then
+	bunx biome check --staged --no-errors-on-unmatched || {
+		echo "Partially staged files need fixes. Run 'bun run format', review, re-stage." >&2
+		exit 1
+	}
+else
+	bunx biome check --write --staged --no-errors-on-unmatched && git update-index --again
+fi
