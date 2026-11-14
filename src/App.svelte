@@ -67,10 +67,10 @@ onMount(() => {
 	</div>
 	<Layers />
 	<div class="relative min-h-0 flex-1 border-t border-ink/10">
+		<!-- List stays mounted so its scroll position survives opening a place. -->
+		<PlaceList hidden={app.selected !== null} />
 		{#if app.selected}
 			<PlaceDetail place={app.selected} />
-		{:else}
-			<PlaceList />
 		{/if}
 	</div>
 </aside>

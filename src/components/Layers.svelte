@@ -13,7 +13,7 @@ const counts = Object.fromEntries(
 </script>
 
 <div
-	class="flex snap-x [scrollbar-width:none] gap-2 overflow-x-auto px-4 pt-3 pb-3.5 md:grid md:grid-cols-2 md:overflow-visible"
+	class="flex snap-x [scrollbar-width:none] gap-2 overflow-x-auto px-4 pt-3 pb-3.5 tall:grid tall:grid-cols-2 tall:overflow-visible"
 >
 	{#each CATEGORY_KEYS as key (key)}
 		{@const style = CATEGORIES[key]}
@@ -23,13 +23,13 @@ const counts = Object.fromEntries(
 			onclick={() => app.toggleOnly(key)}
 			aria-pressed={app.only === key}
 			style:--c={style.color}
-			class="flex shrink-0 snap-start items-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-2.5 py-2 md:min-w-0 transition-[transform,opacity,background-color,border-color] duration-160 ease-out-strong hover:bg-white active:scale-[0.97] aria-pressed:border-(--c) aria-pressed:bg-white {dimmed
+			class="flex shrink-0 snap-start items-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-2.5 py-2 tall:min-w-0 transition-[transform,opacity,background-color,border-color] duration-160 ease-out-strong hover:bg-white active:scale-[0.97] aria-pressed:border-(--c) aria-pressed:bg-white {dimmed
 				? "opacity-55"
 				: ""}"
 		>
 			<Glyph glyph={style.glyph} class="size-5 shrink-0 text-(--c)" />
 			<span
-				class="min-w-0 flex-1 leading-tight font-medium whitespace-nowrap md:whitespace-normal"
+				class="min-w-0 flex-1 leading-tight font-medium whitespace-nowrap tall:whitespace-normal"
 				>{style.label}</span
 			>
 			<em class="shrink-0 text-muted not-italic tabular-nums">{counts[key]}</em>

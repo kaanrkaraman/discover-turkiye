@@ -1,4 +1,5 @@
 <script lang="ts">
+import { onMount } from "svelte";
 import { CATEGORIES } from "../lib/categories";
 import { app } from "../lib/store.svelte";
 import type { Place } from "../lib/types";
@@ -7,13 +8,19 @@ const { place }: { place: Place } = $props();
 
 const style = $derived(CATEGORIES[place.category]);
 const done = $derived(app.visited.has(place.id));
+
+let back: HTMLButtonElement;
+
+// The clicked list row goes inert, so move focus into the detail view.
+onMount(() => back.focus({ preventScroll: true }));
 </script>
 
 <section
 	style:--c={style.color}
-	class="absolute inset-0 overflow-y-auto px-5 pt-2 pb-5 transition-[opacity,translate] duration-200 ease-out-strong starting:translate-y-1.5 starting:opacity-0"
+	class="absolute inset-0 overflow-y-auto px-5 pt-2 pb-5 transition-[opacity,translate] duration-200 ease-out-strong motion-reduce:transition-none starting:translate-y-1.5 starting:opacity-0"
 >
 	<button
+		bind:this={back}
 		type="button"
 		onclick={() => (app.selectedId = null)}
 		class="mb-2 -ml-0.5 inline-flex items-center gap-1.5 rounded-[10px] px-2.5 py-2 text-muted transition-[transform,color] duration-160 ease-out-strong hover:text-ink active:scale-[0.97]"

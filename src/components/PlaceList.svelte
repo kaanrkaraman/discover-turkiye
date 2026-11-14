@@ -1,16 +1,41 @@
 <script lang="ts">
+import { tick } from "svelte";
 import { CATEGORIES } from "../lib/categories";
 import { app } from "../lib/store.svelte";
 import Glyph from "./Glyph.svelte";
+
+const { hidden }: { hidden: boolean } = $props();
+
+let list: HTMLUListElement;
+let last: number | null = null;
+
+// Closing a place removes the focused element; hand focus back to its row.
+$effect(() => {
+	if (app.selectedId !== null) last = app.selectedId;
+	else if (last !== null) {
+		const id = last;
+		last = null;
+		// Wait for the detail view to unmount; skip if focus went elsewhere (e.g. search).
+		tick().then(() => {
+			if (document.activeElement === document.body)
+				list
+					.querySelector<HTMLElement>(`[data-id="${id}"]`)
+					?.focus({ preventScroll: true });
+		});
+	}
+});
 </script>
 
 <section
-	class="absolute inset-0 overflow-y-auto px-2.5 pt-2 pb-3.5 transition-[opacity,translate] duration-200 ease-out-strong starting:translate-y-1.5 starting:opacity-0"
+	inert={hidden}
+	class="absolute inset-0 overflow-y-auto px-2.5 pt-2 pb-3.5 transition-[opacity,translate] duration-200 ease-out-strong starting:translate-y-1.5 starting:opacity-0 motion-reduce:transition-none {hidden
+		? "invisible translate-y-1.5 opacity-0"
+		: ""}"
 >
 	<div
 		class="flex items-center justify-between px-2 pt-2 pb-1.5 text-xs text-muted"
 	>
-		<span>
+		<span aria-live="polite">
 			{app.visible.length}
 			yer{app.visited.size ? ` · ${app.visited.size} gezildi` : ""}
 		</span>
@@ -24,12 +49,13 @@ import Glyph from "./Glyph.svelte";
 			</button>
 		{/if}
 	</div>
-	<ul class="m-0 list-none p-0">
+	<ul bind:this={list} class="m-0 list-none p-0">
 		{#each app.visible as place, i (place.id)}
 			{@const style = CATEGORIES[place.category]}
 			<li>
 				<button
 					type="button"
+					data-id={place.id}
 					onclick={() => (app.selectedId = place.id)}
 					style:--c={style.color}
 					style:animation-delay="{Math.min(i, 10) * 30}ms"
@@ -49,6 +75,7 @@ import Glyph from "./Glyph.svelte";
 							viewBox="0 0 16 16"
 							width="16"
 							height="16"
+							role="img"
 							aria-label="Gezildi"
 						>
 							<circle cx="8" cy="8" r="8" fill="currentColor" />
