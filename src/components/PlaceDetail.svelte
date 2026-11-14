@@ -50,25 +50,24 @@ onMount(() => back.focus({ preventScroll: true }));
 		onclick={() => app.toggleVisited(place.id)}
 		class="mt-5 flex w-full items-center justify-center gap-2 rounded-[14px] border border-ink/10 bg-white/70 px-4 py-3 text-center font-medium transition-[scale,background-color,border-color,color] duration-160 ease-out-strong active:scale-[0.97] aria-pressed:border-visited/35 aria-pressed:bg-visited/12 aria-pressed:text-[#226b3c]"
 	>
-		{#if done}
-			<svg
-				viewBox="0 0 16 16"
-				width="16"
-				height="16"
-				aria-hidden="true"
-				class="transition-[opacity,scale] duration-200 ease-out-strong starting:scale-75 starting:opacity-0"
-			>
-				<circle cx="8" cy="8" r="8" fill="#2d8a4e" />
-				<path
-					d="M4.5 8.2l2.3 2.3 4.7-5"
-					fill="none"
-					stroke="#fff"
-					stroke-width="1.8"
-					stroke-linecap="round"
-					stroke-linejoin="round"
-				/>
-			</svg>
-		{/if}
+		<!-- Always rendered so it can animate both ways; the negative margin cancels the gap while collapsed. -->
+		<svg
+			viewBox="0 0 16 16"
+			aria-hidden="true"
+			class="h-4 transition-[width,margin,opacity,scale] duration-200 ease-out-strong motion-reduce:transition-none {done
+				? "w-4"
+				: "-mr-2 w-0 scale-75 opacity-0"}"
+		>
+			<circle cx="8" cy="8" r="8" fill="#2d8a4e" />
+			<path
+				d="M4.5 8.2l2.3 2.3 4.7-5"
+				fill="none"
+				stroke="#fff"
+				stroke-width="1.8"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+		</svg>
 		Gezdim
 	</button>
 </section>

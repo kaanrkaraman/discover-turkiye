@@ -148,7 +148,10 @@ onMount(() => {
 		<!-- List stays mounted so its scroll position survives opening a place. -->
 		<PlaceList hidden={app.selected !== null} />
 		{#if app.selected}
-			<PlaceDetail place={app.selected} />
+			<!-- Keyed so switching places from the map crossfades like opening one. -->
+			{#key app.selected.id}
+				<PlaceDetail place={app.selected} />
+			{/key}
 		{/if}
 	</div>
 </aside>
