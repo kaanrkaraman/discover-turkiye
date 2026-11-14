@@ -42,3 +42,11 @@ button {
 .maplibregl-ctrl-attrib {
 	font-size: 10px;
 }
+
+/* Keep the attribution above the bottom sheet on phones (sheet: 52dvh + bottom inset).
+   Extra class: maplibre-gl.css loads later and would win on equal specificity. */
+@media (width < 48rem) {
+	.maplibregl-map .maplibregl-ctrl-bottom-right {
+		bottom: calc(52dvh + max(0.5rem, env(safe-area-inset-bottom)));
+	}
+}
