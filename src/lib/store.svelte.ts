@@ -7,13 +7,16 @@ export const places: readonly Place[] = raw as Place[];
 
 const STORAGE_KEY = "dt-visited";
 
+const known = new Set(places.map((p) => p.id));
+
+// Drops ids of places removed from the data so the "gezildi" count stays right.
 const loadVisited = (): number[] => {
 	try {
 		const parsed: unknown = JSON.parse(
 			localStorage.getItem(STORAGE_KEY) ?? "[]",
 		);
 		return Array.isArray(parsed)
-			? parsed.filter((value): value is number => Number.isInteger(value))
+			? parsed.filter((value) => known.has(value))
 			: [];
 	} catch {
 		return [];
