@@ -95,7 +95,11 @@ onMount(() => {
 					</svg>
 					<div>
 						<dt class="font-semibold">Sekizgen</dt>
-						<dd class="m-0 text-muted">Haritadaki rozetlerle aynı biçim.</dd>
+						<dd class="m-0 text-muted">
+							Türk-İslam eserlerinde, özellikle Selçuklu kümbetlerinde ve kubbe
+							kasnaklarında sıkça rastlanan bir biçimdir. Haritadaki rozetler de
+							bu biçimdedir.
+						</dd>
 					</div>
 					<svg viewBox="12 12 40 40" class="mt-0.5 size-5" aria-hidden="true">
 						<path d={STAR} class="fill-accent" />
@@ -103,16 +107,17 @@ onMount(() => {
 					<div>
 						<dt class="font-semibold">Sekiz köşeli yıldız</dt>
 						<dd class="m-0 text-muted">
-							Selçuklu çinilerinin motifi; Kubadabad Sarayı'nın çinileri bu
-							biçimde.
+							Selçuklu çini ve taş süslemelerinde sıkça kullanılan bir motiftir.
+							Kubadabad Sarayı'nın çinileri de bu biçimdedir.
 						</dd>
 					</div>
 					<span class="mt-0.5 size-5 rounded-full bg-accent"></span>
 					<div>
-						<dt class="font-semibold">Firuze</dt>
+						<dt class="font-semibold">Turkuaz</dt>
 						<dd class="m-0 text-muted">
-							“Turquoise” Fransızcada “Türk taşı” demek; taş Avrupa'ya Türkiye
-							üzerinden ulaştı.
+							Adını Fransızcada “Türk taşı” anlamına gelen “turquoise”
+							sözcüğünden alır. Taş, Avrupa'ya Anadolu üzerinden ulaştığı için
+							bu adla anılmıştır.
 						</dd>
 					</div>
 				</dl>
